@@ -1,4 +1,4 @@
-[![HyperOS](https://imgur.com/a/a7t4Oe1)](https://xiaomi.eu/)
+[![HyperOS](https://i.postimg.cc/zf2gMj4G/xiaomi-hyperos-4-web.jpg)](https://xiaomi.eu/)
 
 
 Croatian translation for HyperOS 4.0
