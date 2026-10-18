@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d item stavka</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d minuta</item>
+        <item quantity="one">prije 1 minute</item>
+    </plurals>
+    <plurals name="pin_maximum_limit_toast">
+        <item quantity="other">Možete dodati do %1$d stavki. Izbrišite stavke na stražnjem zaslonu da biste dodali nove.
+.</item>
+        <item quantity="one">Možete dodati do %1$d stavku. Izbrišite stavke na stražnjem zaslonu da biste dodali nove.
+.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Izgleda da je baterija odspojena. Uređaj će se isključiti u roku od %d sek. Obratite se korisničkoj podršci da biste riješili ovaj problem.</item>
+        <item quantity="one">Izgleda da je baterija odspojena. Uređaj će se isključiti u roku od %d sek. Obratite se korisničkoj podršci da biste riješili ovaj problem.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d datoteka</item>
+        <item quantity="one">%1$d datoteka</item>
+    </plurals>
+	 <plurals name="tethered_notification_multi_device_message">
+        <item quantity="other">Povezano je %1$s uređaja. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>
+        <item quantity="one">Povezan je %1$s uređaj. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>
+     </plurals>
+	  <plurals name="ime_countDown_timer">
+        <item quantity="other">Zamjeni (%ds)</item>
+        <item quantity="one">Zamjeni (%ds)</item>
+     </plurals>
+     <plurals name="softap_notification_multi_device_connected_message">
+        <item quantity="other">%1$s uređaja povezano</item>
+        <item quantity="one">%1$s uređaj povezan</item>
+     </plurals>
+     <plurals name="softap_notification_multi_device_message">
+        <item quantity="other">%1$s uređaja</item>
+        <item quantity="one">%1$s uređaj</item>
+     </plurals>
+</resources>

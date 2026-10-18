@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="gesture_shortcut_camera_mr_accidental_trigger_note">Kako bi se spriječila slučajna aktivacija, Džepni način rada automatski će se aktivirati tijekom igranja ili kada vam je uređaj u džepu.</string>
+	<string name="gesture_shortcut_camera_mr_angle">Kut rotacije</string>
+	<string name="gesture_shortcut_camera_mr_angle_medium">Srednji (zadano)</string>
+	<string name="gesture_shortcut_camera_mr_angle_small">Mali</string>
+	<string name="gesture_shortcut_camera_mr_angle_wide">Veliki</string>
+	<string name="gesture_shortcut_camera_mr_function">Brzo pokretanje</string>
+	<string name="gesture_shortcut_camera_mr_function_setting_title">Postavke brzog pokretanja</string>
+	<string name="gesture_shortcut_camera_mr_guide_info">Brzo zakrenite okvir kamere da biste otvorili aplikaciju Kamera</string>
+	<string name="gesture_shortcut_camera_mr_guide_title">Brzo pokretanje</string>
+	<string name="gesture_shortcut_camera_mr_mode">Način rada kamere</string>
+	<string name="gesture_shortcut_camera_mr_mode_doc">Dokument</string>
+	<string name="gesture_shortcut_camera_mr_mode_fastshot">Brzo snimanje</string>
+	<string name="gesture_shortcut_camera_mr_mode_photo">Fotografija</string>
+	<string name="gesture_shortcut_camera_mr_mode_portrait">Portret</string>
+	<string name="gesture_shortcut_camera_mr_mode_video">Video</string>
+	<string name="gesture_shortcut_camera_mr_off">Onemogućeno</string>
+	<string name="gesture_shortcut_camera_mr_open_camera">Otvori kameru</string>
+	<string name="gesture_shortcut_camera_mr_setting">Prsten kamere Značajke</string>
+	<string name="gesture_shortcut_camera_mr_setting_title">Postavke kamere</string>
+	<string name="gesture_shortcut_camera_mr_take_photo">Snimi fotografiju</string>
+	<string name="gesture_shortcut_camera_mr_title">Zvono kamere</string>
+	<string name="gesture_shortcut_camera_mr_vibrate_setting_item">Zvono kamere</string>
+	<string name="gesture_shortcut_camera_mr_vibrate_setting_mode_always">Uvijek uključeno</string>
+	<string name="gesture_shortcut_camera_mr_vibrate_setting_mode_camera_only">Samo na kameri</string>
+   <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info"><Data>Uključite haptičku povratnu informaciju u &lt;a href=\"%1$s\">Zvuk &amp;amp; dodir&lt;/a></Data></string>
+   <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info_global"><Data>Uključite haptičku povratnu informaciju u &lt;a href=\"%1$s\">Zvuk &amp;amp; vibracija&lt;/a></Data></string>
+	<string name="gesture_shortcut_camera_mr_vibrate_setting_system_disable">Haptička povratna informacija je onemogućena</string>
+	<string name="gesture_shortcut_camera_mr_vibrate_setting_title">Haptičke postavke</string>
+</resources>

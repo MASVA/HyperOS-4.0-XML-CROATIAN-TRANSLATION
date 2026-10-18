@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_origins">
+			<item>Nepoznati izvor pogreške</item>
+			<item>Dohvati informacije o profilu</item>
+			<item>Izbriši profil</item>
+			<item>Onemogući profil</item>
+			<item>Omogući profil</item>
+			<item>Dohvati tablicu autorizacije pravila</item>
+			<item>Uredi nadimak</item>
+			<item>Dohvati EID uređaja</item>
+			<item>Poništi eSIM</item>
+			<item>Postavi zadanu SM-DP+ adresu</item>
+			<item>Dohvati broj izazova eSIM-a</item>
+			<item>Dohvati konfiguriranu adresu eSIM-a</item>
+			<item>Dohvati informacije o eSIM-u</item>
+			<item>Inicijaliziraj autentifikaciju</item>
+			<item>Provjeri pravila profila</item>
+			<item>Pripremi preuzimanje</item>
+			<item>Dohvati paket vezanog profila</item>
+			<item>Provjeri metapodatke profila</item>
+			<item>Preuzmi Paket vezanog profila</item>
+			<item>Inicijalizacija sigurnog kanala</item>
+			<item>Konfiguracija sigurnosne domene profila</item>
+			<item>Pohrana metapodataka</item>
+			<item>Zamjena ključa sesije</item>
+			<item>Preuzimanje metapodataka profila</item>
+			<item>Slijed konfiguracije sigurnosne domene profila</item>
+			<item>Slijed ključeva zaštite profila</item>
+			<item>Slijed pohranjenih metapodataka</item>
+			<item>Slijed elemenata profila</item>
+			<item>Obrada rezultata instalacije profila</item>
+			<item>Izbriši rezultate instalacije profila</item>
+			<item>Autentifikacija klijenta</item>
+			<item>Autentifikacija poslužitelja</item>
+			<item>Preuzimanje profila</item>
+			<item>Primanje obavijesti</item>
+			<item>Izbriši rezultate obavijesti</item>
+			<item>Obrada obavijesti</item>
+			<item>Popis obavijesti</item>
+			<item>Preuzmite konfiguracijske datoteke SM-DS-a</item>
+    </string-array>
+    <string-array name="ppr_ids">
+       <item></item>
+       <item>"Ne mogu onemogućiti ovaj profil"</item>
+       <item>"Ne mogu izbrisati ovaj profil"</item>
+       <item>Onemogućite ovaj profil da biste ga mogli izbrisati</item>
+    </string-array>
+</resources>

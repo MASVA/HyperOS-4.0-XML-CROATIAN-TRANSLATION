@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="columbus_exo_controls_playback_speeds">
+        <item>0,25 x</item>
+        <item>0,5 x</item>
+        <item>0,75 x</item>
+        <item>Uobičajeno</item>
+        <item>1,25 x</item>
+        <item>1,5 x</item>
+        <item>2 x</item>
+     </string-array>
+     <string-array name="exo_controls_playback_speeds">
+        <item>0,25 x</item>
+        <item>0,5 x</item>
+        <item>0,75 x</item>
+        <item>Uobičajeno</item>
+        <item>1,25 x</item>
+        <item>1,5 x</item>
+        <item>2 x</item>
+     </string-array>
+     <string-array name="kg_glass_filters">
+        <item>Original</item>
+        <item>Blur</item>
+        <item>Reeded</item>
+        <item>Rebrasto</item>
+        <item>Prizma</item>
+        <item>Utori</item>
+        <item>Valovi</item>
+        <item>Kvadrati</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Zabava</item>
+        <item>Pejzaž</item>
+        <item>Zvjezdano nebo</item>
+        <item>Botanika</item>
+        <item>Životinje</item>
+     </string-array>
+     <string-array name="xout_feedback_content">
+        <item>Nisam zainteresiran/a</item>
+        <item>Prečesto se pojavljuje</item>
+        <item>Neprikladni sadržaj</item>
+        <item>Obmanjujuće ili zavaravajuće</item>
+        <item>Sadržaj krši smjernice</item>
+        <item>Drugo</item>
+     </string-array>
+</resources>

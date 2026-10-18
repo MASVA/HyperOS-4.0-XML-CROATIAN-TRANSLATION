@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Xiaomi service framework</string>
+	<string name="accept">Prihvaćam</string>
+	<string name="call_notification_answer_action">Odgovori</string>
+	<string name="call_notification_answer_video_action">Video</string>
+	<string name="call_notification_decline_action">Odbij</string>
+	<string name="call_notification_hang_up_action">Prekini poziv</string>
+	<string name="call_notification_incoming_text">Dolazni poziv</string>
+	<string name="call_notification_ongoing_text">Poziv u tijeku</string>
+	<string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+	<string name="common_google_play_services_unknown_issue">%1$s ima problema s uslugama Google Play. Pokušajte ponovno.</string>
+	<string name="default_notification_channel_name">Obavijesti</string>
+	<string name="error_device_id_message">"Nevažeći ID uređaja: %s
+	ID uređaja mora biti valjana IMEI ili MAC adresa. Bez ID-a uređaja, neke značajke Mi računa i Xiaomi Clouda neće biti dostupne."</string>
+	<string name="payment_intercept_back_game">Natrag</string>
+  <string name="payment_intercept_body">"Ova transakcija se ne dovršava putem službenog kanala. Vaše plaćanje i postprodajna podrška možda nisu zaštićeni. Preporučujemo da se vratite i dovršite kupnju putem službenog kanala."</string>
+  <string name="payment_intercept_continue_confirm">Vaše plaćanje možda neće biti zaštićeno ako nastavite izvan službenih kanala. Želite li ipak nastaviti?</string>
+  <string name="payment_intercept_continue_enabled">Nastavi</string>
+  <string name="payment_intercept_first_note">"Ovo upozorenje automatski je pokrenuo sigurnosni sustav %1$s i neće utjecati na vašu igru."</string>
+  <string name="payment_intercept_title">Sigurnosno upozorenje o plaćanju</string>
+	<string name="error_device_id_title">"Nije moguće dobiti valjani ID uređaja"</string>
+	<string name="explain_send_sms_permission_button">Potvrdi</string>
+	<string name="explain_send_sms_permission_msg">Da biste uključili %s, Xiaomi Service Framework će poslati SMS za potvrdu vašeg telefonskog broja. Operater će vam naplatiti redovnu SMS poruku.</string>
+	<string name="explain_send_sms_permission_title">Potvrdite svoj telefonski broj</string>
+	<string name="pop_up_allow_notify_dialog">Dopusti</string>
+	<string name="pop_up_deny_notify_dialog">Odbij</string>
+	<string name="privacy_change_dialog_agree">Prihvaćam</string>
+	<string name="privacy_change_dialog_back">Natrag</string>
+	<string name="privacy_change_dialog_title">Prilagodba opsega uvjeta i odredbi</string>
+	<string name="privacy_change_notification">"VAŽNO: Prilagodili smo opseg naših uvjeta i odredbi"</string>
+	<string name="sync_notification_title_format">Trenutna sinkronizacija stavke: %1$s</string>
+	<string name="terms_of_use_label_app_vault">Mi Link</string>
+	<string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+	<string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Services</string>
+	<string name="terms_of_use_label_finddevice">Pronađi uređaj</string>
+	<string name="terms_of_use_label_game">Igre</string>
+	<string name="terms_of_use_label_home">Početni zaslon</string>
+	<string name="terms_of_use_label_info_assistant">Zaklj. aplikacija</string>
+	<string name="terms_of_use_label_landscape">Pejzažni prikaz</string>
+	<string name="terms_of_use_label_mab">MAB</string>
+	<string name="terms_of_use_label_mi_account">Komponente Xiaomi računa</string>
+	<string name="terms_of_use_label_miuiDaemon">Daemon sustava</string>
+	<string name="terms_of_use_label_miuisdk">SDK sustava</string>
+	<string name="terms_of_use_label_quickapp">Brze aplikacije</string>
+	<string name="terms_of_use_label_simcard">Usluga aktivacije SIM kartice</string>
+	<string name="terms_of_use_label_statistics">Statistika</string>
+	<string name="terms_of_use_label_translation">Prijevod usluga</string>
+	<string name="terms_of_use_label_updater">Usluga ažuriranja sustava (provjerava ažuriranja na mreži i obavještava o novim verzijama)</string>
+	<string name="terms_of_use_label_use_location_and_network_global">Prije korištenja sustava pročitajte i prihvatite naš Ugovor o korištenju i Pravila o privatnosti, koja pokrivaju Xiaomi aplikacije unaprijed instalirane na vašem uređaju (npr. Galerija, Mi Music, Mi Browser, Mi Video, Teme itd.). Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Kada je vaš uređaj aktiviran, sljedeće usluge će se povezati s mrežom i pristupiti vašoj lokaciji:</string>
+	<string name="terms_of_use_lable_gms">Usluge Google Play</string>
+	<string name="terms_of_use_lable_smart_cards">Pametne kartice</string>
+	<string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
+	<string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+</resources>

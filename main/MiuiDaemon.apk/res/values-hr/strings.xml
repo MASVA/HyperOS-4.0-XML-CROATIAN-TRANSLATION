@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Postavke</string>
+  <string name="app_name">Performanse</string>
+  <string name="not_show_again">Automatski pošalji sljedeći put</string>
+  <string name="submit_dialog_cancel">Otkaži</string>
+  <string name="submit_dialog_confirm">Pošalji</string>
+  <string name="submit_dialog_content">Želite li poslati zapisnike kako biste pomogli Xiaomiju da locira i riješi ovaj problem? Zapisnici mogu sadržavati vaše podatke, uključujući vašu lokaciju.</string>
+  <string name="submit_dialog_title">Došlo je do pogreške</string>
+</resources>

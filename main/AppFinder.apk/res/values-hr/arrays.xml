@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="feedback_content">
+  <item>Ne zanima me</item> 
+  <item>Ponavljajući sadržaj</item> 
+  <item>Neprimjeren sadržaj</item> 
+  <item>Obmanjujući ili prijevarni sadržaj</item> 
+  <item>Nezakonit sadržaj</item> 
+  <item>Ostalo</item>   
+  </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Poredaj po vremenu primitka</item>
+        <item>Poredaj po broju obavijesti</item>
+        <item>Aplikacije koje mogu prikazivati obavijesti</item>
+        <item>"Aplikacije koje ne mogu prikazivati obavijesti"</item>
+    </string-array>
+	    <string-array name="guide_des">
+			<item>Dodirnite za brzo prebacivanje između više stavki</item>
+			<item>Povucite prstom vodoravno za prikaz ili skrivanje sadržaja</item>
+			<item>Povucite od dna prema dolje za otvaranje plutajućeg prozora</item>
+    </string-array>
+    <string-array name="guide_des_description">
+		<item>Dodirnite za brzo prebacivanje između više stavki. Stranica %1$d od %2$d. Prijeđite vodoravno s dva prsta za prebacivanje između stranica.</item>
+		<item>Privucite vodoravno za prikaz ili skrivanje sadržaja. Stranica %1$d od %2$d. Prijeđite vodoravno s dva prsta za prebacivanje između stranica.</item>
+		<item>Povucite od dna prema dolje za otvaranje plutajućeg prozora. Stranica %1$d od %2$d. Prijeđite vodoravno s dva prsta za prebacivanje između stranica.</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Prikaži sadržaj obavijesti</item>
+        <item>"Ne prikazuj obavijesti na Zaklj. zaslonu"</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Prikaži sadržaj obavijesti</item>
+        <item>Prikaži obavijesti, ali sakrij sadržaj</item>
+        <item>"Ne prikazuj obavijesti na Zaklj. zaslonu"</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>HyperOS</item>
+        <item>Android</item>
+    </string-array>
+</resources>

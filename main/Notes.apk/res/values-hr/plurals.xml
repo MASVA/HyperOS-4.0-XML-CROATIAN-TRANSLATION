@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+    </plurals>
+	 <plurals name="ai_cannot_add_content_toast_text">
+        <item quantity="other">"Svaka bilješka ne smije premašiti %1$s znakova. Nije moguće dodati više sadržaja."</item>
+        <item quantity="one">"Svaka bilješka ne smije premašiti %1$s znak. Nije moguće dodati više sadržaja."</item>
+     </plurals>
+     <plurals name="ai_cannot_useAI_toast_text">
+        <item quantity="other">"Ne može se koristiti AI pisanje za bilješke više od %1$s znakova"</item>
+        <item quantity="one">"Ne može se koristiti AI pisanje za bilješke više od %1$s znaka"</item>
+     </plurals>
+     <plurals name="ai_correct_mistakes">
+        <item quantity="other">Ispravljeno %1$s pogrešaka</item>
+        <item quantity="one">Ispravljena %1$s pogreška</item>
+     </plurals>
+     <plurals name="ai_word_count_exceed_title">
+        <item quantity="other">"Nije moguće generirati sadržaj veći od %1$s znakova"</item>
+        <item quantity="one">"Nije moguće generirati sadržaj veći od %1$s znaka"</item>
+     </plurals>
+     <plurals name="ai_tag_words_more_than">
+        <item quantity="one">%1$s+ znak</item>
+        <item quantity="other">%1$s+ znakova</item>
+     </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Izbrisati stavke: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s stavku?</item>
+    </plurals>
+	  <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">"Sadržaj ove bilješke premašuje ograničenja AI obrade. Unesite do %1$s znakova i pokušajte ponovno."</item>
+        <item quantity="one">"Sadržaj ove bilješke premašuje ograničenja AI obrade. Unesite do %1$s znak i pokušajte ponovno."</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s sati %2$s"</item>
+        <item quantity="one">" %1$s sat %2$s"</item>
+    </plurals>
+	 <plurals name="cd_photo_total">
+        <item quantity="other">Ukupno %d slika</item>
+        <item quantity="one">Ukupno %d slika</item>
+        <item quantity="few">Ukupno %d slika</item>
+        <item quantity="many">Ukupno %d slika</item>
+     </plurals>
+	<plurals name="cloud_state_synced_folders">
+        <item quantity="one">Sinkronizirana %1$s mapa</item>
+        <item quantity="other">Sinkronizirano %1$s mapa</item>
+    </plurals>
+    <plurals name="cloud_state_synced_items">
+        <item quantity="one">Sinkronizirana %1$s stavka</item>
+        <item quantity="other">Sinkronizirano %1$s stavki</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s stavki još nije sinkronizirano"</item>
+        <item quantity="one">"%1$s stavka još nije sinkronizirana"</item>
+    </plurals>
+	<plurals name="cloud_state_unsynced_folders">
+        <item quantity="one">"%1$s mapa nije sinkronizirana"</item>
+        <item quantity="other">"%1$s mapa nije sinkronizirano"</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_items">
+        <item quantity="one">"%1$s stavka nije sinkronizirana"</item>
+        <item quantity="other">"%1$s stavki nije sinkronizirano"</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Odabrano: %d</item>
+        <item quantity="one">Odabrano: %d</item>
+    </plurals>
+	<plurals name="creation_page_size_custom_height_limit_mm">
+        <item quantity="one">"Visina ne smije prelaziti %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne smije prelaziti %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_px">
+        <item quantity="one">"Visina ne smije prelaziti %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne smije prelaziti %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_mm">
+        <item quantity="one">Prekoračeno ograničenje visine za %d milimetar. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje visine za %d milimetra. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_limit_toast_px">
+        <item quantity="one">Prekoračeno ograničenje visine za %d pixel. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje visine za %d pixela. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_mm">
+        <item quantity="one">"Visina ne može biti niža od %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne može biti niža od %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_px">
+        <item quantity="one">"Visina ne može biti niža od %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Visina ne može biti niža od %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_mm">
+        <item quantity="one">Povećajte visinu za barem %d milimetar</item>
+        <item quantity="other">Povećajte visinu za barem %d milimetra</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_height_lower_limit_toast_px">
+        <item quantity="one">Povećajte visinu za barem %d pixel</item>
+        <item quantity="other">Povećajte visinu za barem %d pixela</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_mm">
+        <item quantity="one">"Širina ne smije prelaziti %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne smije prelaziti %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_px">
+        <item quantity="one">"Širina ne smije prelaziti %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne smije prelaziti %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_mm">
+        <item quantity="one">Prekoračeno ograničenje širine za %d milimetar. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje širine za %d milimetra. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_limit_toast_px">
+        <item quantity="one">Prekoračeno ograničenje širine za %d pixel. Unesite ponovno.</item>
+        <item quantity="other">Prekoračeno ograničenje širine za %d pixela. Unesite ponovno.</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_mm">
+        <item quantity="one">"Širina ne može biti manja od %d milimetar. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne može biti manja od %d milimetra. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_px">
+        <item quantity="one">"Širina ne može biti manja od %d pixel. Unesite ponovno."</item>
+        <item quantity="other">"Širina ne može biti manja od %d pixela. Unesite ponovno."</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_mm">
+        <item quantity="one">Povećajte širinu za barem %d milimetar</item>
+        <item quantity="other">Povećajte širinu za barem %d milimetra</item>
+    </plurals>
+    <plurals name="creation_page_size_custom_width_lower_limit_toast_px">
+        <item quantity="one">Povećajte širinu za barem %d pixel</item>
+        <item quantity="other">Povećajte širinu za barem %d pixela</item>
+    </plurals>
+    <plurals name="creation_terms">
+        <item quantity="one">%1$s stavka</item>
+        <item quantity="other">%1$s stavki</item>
+    </plurals>
+	  <plurals name="corrected_title">
+        <item quantity="other">%1$s ispravaka</item>
+        <item quantity="one">%1$s isprvaka</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s mapa</item>
+        <item quantity="one">%1$s mapa</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Uklonjene bilješke iz mape: %1$s</item>
+        <item quantity="one">Uklonjena %1$s bilješka iz mape</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Premješteno %1$s bilješki u %2$s</item>
+        <item quantity="one">%1$s bilješka premještena u %2$s</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s stavki</item>
+        <item quantity="one">%1$s stavka</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+		</plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nove obavijesti: %d</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s bilješki</item>
+        <item quantity="one">1 bilješka</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s bilješki</item>
+        <item quantity="one">%1$s bilješka</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Pronađeno %1$s bilješki</item>
+        <item quantity="one">Pronađeno %1$s bilješka</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Pronađeno %1$s zadataka</item>
+        <item quantity="one">Pronađen %1$s zadatak</item>
+    </plurals>
+	 <plurals name="recently_deleted_confirm_delete_message">
+        <item quantity="other">Trajno izbrisati %1$d bilješki?</item>
+        <item quantity="one">Trajno izbrisati %1$d bilješku?</item>
+        <item quantity="few">Trajno izbrisati %1$d bilješki?</item>
+        <item quantity="many">Trajno izbrisati %1$d bilješki?</item>
+     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Još %d sek.</item>
+        <item quantity="one">Još %d sek.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za \"%2$s\"</item>
+        <item quantity="one">%1$s rezultat za \"%2$s\"</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Skrivene bilješke: %1$s</item>
+        <item quantity="one">1$s bilješka skrivena</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Otkrivene bilješke: %1$s</item>
+        <item quantity="one">%1$s bilješka otkrivena</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Za %1$d dana</item>
+        <item quantity="one">Za %1$d dan</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Izbrisati zadatke: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s zadatak?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Za %1$d dans</item>
+        <item quantity="one">Za %1$d dan</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s zadataka</item>
+        <item quantity="one">%1$s zadatak</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">Znakova: %d</item>
+        <item quantity="one">%d znak</item>
+    </plurals>
+</resources> 

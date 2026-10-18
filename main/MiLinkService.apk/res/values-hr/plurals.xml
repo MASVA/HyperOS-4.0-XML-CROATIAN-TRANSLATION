@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+    </plurals>
+	     <plurals name="car_map_hour">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+     </plurals>
+     <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+     </plurals>
+     <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+     </plurals>
+     <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+     </plurals>
+     <plurals name="car_map_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="controller_auth_count_down">
+        <item quantity="other">Unesite kod iz %1$s (%2$d sek)</item>
+        <item quantity="one">Unesite kod iz %1$s (%2$d sek</item>
+     </plurals>
+	      <plurals name="common_unit_rope_count">
+        <item quantity="other">preskoka</item>
+        <item quantity="few">preskoka</item>
+        <item quantity="one">preskok</item>
+     </plurals>
+     <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">zaveslaja</item>
+        <item quantity="few">zaveslaja</item>
+        <item quantity="one">zaveslaj</item>
+     </plurals>
+     <plurals name="common_unit_step">
+        <item quantity="other">" koraka"</item>
+        <item quantity="few">" koraka"</item>
+        <item quantity="one">" korak"</item>
+     </plurals>
+     <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d koraka</item>
+        <item quantity="few">%1$d koraka</item>
+        <item quantity="one">%1$d korak</item>
+     </plurals>
+     <plurals name="common_unit_swim_count">
+        <item quantity="other">zamaha</item>
+        <item quantity="one">zamah</item>
+     </plurals>
+     <plurals name="common_unit_year_old">
+        <item quantity="other">godina</item>
+        <item quantity="dew">godina</item>
+        <item quantity="one">godina</item>
+     </plurals>
+	 <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d uređaja</item>
+        <item quantity="one">%1$d uređaj</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d uređaja</item>
+        <item quantity="one">%1$d uređaj</item>
+    </plurals>
+	<plurals name="habit_executed_number_day">
+        <item quantity="other">Korišteno prije %1$d dana</item>
+        <item quantity="one">Korišteno prije %1$d dan</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+        <item quantity="other">Zapamćeno prije %1$d dana</item>
+        <item quantity="one">Zapamćeno prije %1$d dan</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+	<plurals name="homemodule_curtain_open_number">
+        <item quantity="other">%d soba s otvorenim zavjesama</item>
+        <item quantity="one">%d soba s otvorenim zavjesama</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+	 <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	 <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+	 <plurals name="miuix_indexer_selected">
+        <item quantity="one">Odabrano %1$d stavki</item>
+        <item quantity="other">Odabrana %1$d stavka</item>
+     </plurals>
+	 <plurals name="mj_module_card_name_light_desc_pattern">
+        <item quantity="other">Osvijetljene sobe: %d</item>
+        <item quantity="one">Osvijetljene sobe: %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+	 <plurals name="remember_number_habit">
+        <item quantity="other">Upamtili ste %1$d navika</item>
+		   <item quantity="one">Upamtili ste %1$d naviku</item>
+    </plurals>
+	<plurals name="remembered_number_habit">
+        <item quantity="other">%1$d dodanih uzoraka</item>
+        <item quantity="one">%1$d dodani uzorak</item>
+    </plurals>
+	 <plurals name="report_unit_seconds_1">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+     </plurals>
+	 <plurals name="time_update_days_before">
+        <item quantity="other">Prije %1$d dana</item>
+        <item quantity="one">Jučer</item>
+     </plurals>
+    <plurals name="tv_remote_auth_count_down">
+        <item quantity="other">"Unesite kod %1$s (%2$ds)"</item>
+        <item quantity="one">"Unesite kod %1$s (%2$ds)"</item>
+     </plurals>
+	     <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d uzoraka na čekanju</item>
+        <item quantity="one">%1$d uzorak na čekanju</item>
+    </plurals>
+	 <plurals name="unit_hour_1">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+     </plurals>
+     <plurals name="unit_hour_2">
+        <item quantity="other">hrs</item>
+        <item quantity="one">hr</item>
+     </plurals>
+     <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+     </plurals>
+     <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+     </plurals>
+     <plurals name="unit_min_1">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+     </plurals>
+     <plurals name="unit_min_2">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="unit_min_desc">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="unit_seconds_1">
+        <item quantity="other">s</item>
+        <item quantity="one">s</item>
+     </plurals>
+     <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+     </plurals>
+     <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+     </plurals>
+</resources> 

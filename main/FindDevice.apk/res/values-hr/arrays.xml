@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+		<item>Za lociranje vašeg uređaja i prebacivanje u Izgubljenom način rada</item>
+		<item>"Za lociranje ovog uređaja kada nije spojen na internet"</item>
+		<item>"Za pristup telefonskom broju radi lociranja ovog uređaja kada nije spojen na internet"</item>
+		<item>Za pomoć svima koji pronađu uređaj da vas kontaktiraju kada je uključen Izgubljeni način rada</item>
+		<item>Za reprodukciju zvuka prilikom lociranja pribora</item>
+    </string-array>
+</resources>
