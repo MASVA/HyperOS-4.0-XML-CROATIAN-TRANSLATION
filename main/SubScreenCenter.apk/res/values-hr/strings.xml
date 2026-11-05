@@ -62,7 +62,7 @@
   <string name="guide_on_off_screen_title">Uključivanje i isključivanje zaslona</string>
   <string name="guide_set_wallpaper_title">Personalizirane pozadine</string>
   <string name="guide_use_pin_summary">Koristite Xiaomi Hyper XiaoAi za zaokruživanje važnih informacija na prednjem zaslonu, a zatim ih pričvrstite na stražnji zaslon radi lakšeg snalaženja. Također radi za fotografije iz Galerije.</string>
-  <string name="guide_use_pin_summary_global">Odaberite tekst na prednjem zaslonu, dodirnite \"Dijeli\" i odaberite opciju za prikvačivanje na stražnji zaslon</string>
+  <string name="guide_use_pin_summary_global">Odaberite  tekst na prednjem zaslonu, dodirnite \"Dijeli\" i odaberite opciju za prikvačivanje na stražnji zaslon</string>
   <string name="guide_use_pin_title">Prikvačena poruka</string>
   <string name="launch_camera_fail_tip">Otključaj uređaj nakon ponovnog pokretanja za korištenje kamere</string>
   <string name="icon_content_description">Ikona dijaloga</string>
@@ -71,11 +71,11 @@
   <string name="m3_loading_indicator_content_description">Učitavanje</string>
   <string name="main_panel_enter_edit_mode_desc">Uđi u način uređivanja</string>
   <string name="main_panel_exit_edit_mode_desc">Izlaz iz načina uređivanja</string>
-  <string name="material_clock_toggle_content_description">Odaberitete prijepodne ili poslijepodne</string>
-  <string name="material_hour_selection">Odaberitete sat</string>
+  <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+  <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">"%1$s sat"</string>
   <string name="material_hour_24h_suffix">%1$s sati</string>
-  <string name="material_minute_selection">Odaberitete minute</string>
+  <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s minuta</string>
   <string name="material_slider_range_end">Kraj raspona</string>
   <string name="material_slider_range_start">Početak raspona</string>
@@ -83,7 +83,7 @@
   <string name="material_timepicker_clock_mode_description">Prebacite se na način rada sata za unos vremena.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
-  <string name="material_timepicker_select_time">Odaberitete vrijeme</string>
+  <string name="material_timepicker_select_time">Odaberite vrijeme</string>
   <string name="material_timepicker_text_input_mode_description">Prebacite se na način unosa teksta za unos vremena.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
@@ -213,10 +213,10 @@
   <string name="mtrl_picker_confirm">Spremi</string>
   <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
-  <string name="mtrl_picker_date_header_title">Odaberitete datum</string>
+  <string name="mtrl_picker_date_header_title">Odaberite datum</string>
   <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
   <string name="mtrl_picker_day_of_week_column_header">Stupac s danima: %1$s</string>
-  <string name="mtrl_picker_header_prompt">Odaberite datum</string>
+  <string name="mtrl_picker_header_prompt">Odaberite  datum</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_invalid_format">Nevažeći format.</string>
   <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
@@ -227,9 +227,9 @@
   <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum završetka</string>
-  <string name="mtrl_picker_range_header_prompt">Odaberitete raspon datuma</string>
+  <string name="mtrl_picker_range_header_prompt">Odaberite raspon datuma</string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
-  <string name="mtrl_picker_range_header_title">Odaberitete raspon</string>
+  <string name="mtrl_picker_range_header_title">Odaberite raspon</string>
   <string name="mtrl_picker_range_header_unselected">Datum početka – datum završetka</string>
   <string name="mtrl_picker_save">Spremi</string>
   <string name="mtrl_picker_text_input_date_hint">Datum</string>
