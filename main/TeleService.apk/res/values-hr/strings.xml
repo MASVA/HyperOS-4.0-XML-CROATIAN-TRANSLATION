@@ -547,6 +547,9 @@ Audio"</string>
   <string name="cached_apps_freezer_disabled">Onemogućeno</string>
   <string name="cached_apps_freezer_enabled">Omogućeno</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
   <string name="calibrate_rotate_again">Pokušajte ponovno</string>
   <string name="calibrate_rotate_tip">Oštro nagnite uređaj da biste kotrljali loptu po krugu</string>
   <string name="callEnded_pulled">Poziv prenesen na drugi uređaj.</string>
@@ -603,6 +606,7 @@ Audio"</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Poruka nije kompatibilna sa statusom protokola</string>
   <string name="callFailed_message_type_non_implemented">Vrsta poruke ne postoji ili nije implementirana</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Vrsta poruke nije kompatibilna sa statusom protokola</string>
+  <string name="callFailed_narrowband_terrestrial_network">Nije moguće uspostaviti poziv putem NB-IoT mreže.</string>
   <string name="callFailed_network_out_of_order">Mreža ne radi</string>
   <string name="callFailed_noSignal">Nema signala</string>
   <string name="callFailed_no_answer_from_user">Upozorenje korisnika, nema odgovora</string>
@@ -1356,6 +1360,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="enable_video_calling_dialog_msg">Da biste uključili videopozive, morate omogućiti Poboljšan 4G LTE način u postavkama mreže.</string>
   <string name="enable_video_calling_dialog_settings">Postavke mreže</string>
   <string name="enable_video_calling_title">Uključivanje videopoziva</string>
+  <string name="enable_volte">Omogući VoLTE</string>
+  <string name="enable_vonr">Omogući VoNR</string>
   <string name="enable_webview_multiprocess">Višeprocesni web-prikaz</string>
   <string name="enable_webview_multiprocess_desc">Ispunjivače web-prikaza pokreni zasebno</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
@@ -2070,6 +2076,7 @@ Uvijek koristi ovaj broj"</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -2086,6 +2093,7 @@ Uvijek koristi ovaj broj"</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -2834,8 +2842,10 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_pref_entries_only_2g">Samo 2G</string>
   <string name="preferred_network_type_pref_entries_only_2g_jp_sb">GSM</string>
   <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM samo</string>
+  <string name="preferred_network_type_pref_entries_only_2g_mx_telcel">Samo GSM</string>
   <string name="preferred_network_type_pref_entries_only_3g">Samo 3G</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Samo WCDMA</string>
+  <string name="preferred_network_type_pref_entries_only_3g_mx_telcel">Samo WCDMA</string>
   <string name="preferred_network_type_pref_entries_only_4g">Samo LTE</string>
   <string name="preferred_network_type_pref_entries_only_5g">Samo 5G</string>
   <string name="preferred_network_type_pref_entries_only_support_4g_preferred_jp_kd">4G (Preporučeno)</string>
@@ -2846,6 +2856,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_wificall_roaming_title">Roaming preferense</string>
   <string name="preferred_wificall_title">Postavke mreže</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
+  <string name="privacy_phone_category">Telefon</string>
   <string name="privacy_policy_title">Pravila o privatnosti</string>
   <string name="privacy_setting">Privatnost</string>
   <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
@@ -2944,6 +2955,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="radio_info_band_mode_label">Odaberite radijsku frekvenciju</string>
   <string name="radio_info_call_redirect_label">Preusmjeravanje poziva:</string>
   <string name="radio_info_call_status_label">Status glasovnog poziva:</string>
+  <string name="radio_info_carrier_id_label">ID operatera:</string>
   <string name="radio_info_cell_info_refresh_rate">Stopa osvježavanja informacija u ćeliji:</string>
   <string name="radio_info_cellinfo_label">Sve informacije ćelija o mjerenju:</string>
   <string name="radio_info_current_network_label">Trenutačna mreža:</string>
@@ -2955,6 +2967,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="radio_info_dcnr_restricted">DCNR ograničeno:</string>
   <string name="radio_info_dds">SUBID zadanog SIM-a za podatkovni promet:</string>
   <string name="radio_info_dl_kbps">DL propusnost (kbps):</string>
+  <string name="radio_info_dsda_state_label">Status DSDA:</string>
   <string name="radio_info_endc_available">EN-DC dostupan:</string>
   <string name="radio_info_gprs_service_label">Podatkovna usluga:</string>
   <string name="radio_info_gsm_label">GSM (2G)</string>
@@ -3141,6 +3154,7 @@ UT sučelje: %5$s"</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="sa_switch_debug_summary">Prikaži opcije 5G mrežnog načina rada u dodatnim postavkama SIM-a</string>
   <string name="sa_switch_debug_title">Prikaži opcije 5G mrežnog načina</string>
+  <string name="sat_PhoneAngle">Kut telefona:</string>
   <string name="sat_dual_beam_switching_settings">Postavke prebacivanja dvostrukog snopa satelita:</string>
   <string name="sat_id">ID satelita:</string>
   <string name="sat_info">Informacije o satelitu</string>
@@ -3656,6 +3670,7 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
   <string name="technology_news_disable">Vijesti iz tehnologije su onemogućene</string>
   <string name="technology_news_enable">Omogućene su vijesti iz tehnologije</string>
+  <string name="telephony_attribution_tag">Telefonija</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="telephony_setting">Aplikacije/Ostale postavke/Postavke aplikacije sustava/Telefon</string>
@@ -4058,10 +4073,14 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_call_accept">Prihvaćam</string>
   <string name="wifi_call_available_message">"Sada možete upućivati pozive putem Wi-Fi-ja. Ako ste povezani s Wi-Fi mrežom, moći ćete razgovarati čak i kad se nalazite u područjima koja nemaju pokrivenost mobilnom mrežom."</string>
   <string name="wifi_call_available_message_DEO2">Pozivi će koristiti Wi-Fi kada vaša mobilna pokrivenost nije dovoljna i kada ste povezani s Wi-Fi mrežom. Ova zadana postavka primjenjuje se samo unutar Njemačke. Ovu postavku možete prilagoditi na svom pametnom telefonu u bilo kojem trenutku. Ako imate bilo kakvih pitanja, obratite se svom mobilnom operateru.</string>
+  <string name="wifi_call_available_message_claro">Kada u statusnoj traci vidite VoWLAN, obavljajte pozive putem bilo koje WLAN mreže na svijetu po lokalnoj tarifi svog pretplatničkog paketa! Više informacija potražite na www.claro.com.ar/clarovowifi</string>
   <string name="wifi_call_available_message_for_ATT_MX">Povezat ćete se na Wi-Fi mrežu, kvaliteta poziva može varirati ovisno o mreži.</string>
   <string name="wifi_call_available_title">Uključivanje Wi-Fi poziva</string>
   <string name="wifi_call_available_title_DEO2">Wi-Fi pozivi su omogućeni</string>
+  <string name="wifi_call_available_title_claro">Želite li aktivirati pozivanje putem WLAN-a?</string>
   <string name="wifi_call_cancel">Više informacija</string>
+  <string name="wifi_call_checkbox_claro">Ne prikazuj ponovno</string>
+  <string name="wifi_call_confirm_claro">Aktiviraj</string>
   <string name="wifi_call_help">Pomoć</string>
   <string name="wifi_call_help_message_1">"Wi-Fi Pozivi je usluga koju pruža Orange i koja omogućuje upućivanje i primanje poziva putem Wi-Fi-ja. Ova se značajka može koristiti u područjima s slabom pokrivenosti mobilne mreže.
 

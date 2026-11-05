@@ -44,6 +44,26 @@
         <item quantity="other">Analiza će trajati oko %1$s minuta. Vaš bi se uređaj mogao zagrijati ili trošiti nešto više energije tijekom ovog procesa. Početi sada?</item>
 	     <item quantity="one">Analiza će trajati oko %1$s minutu. Vaš bi se uređaj mogao zagrijati ili trošiti nešto više energije tijekom ovog procesa. Početi sada?</item>
 	 </plurals>
+	      <plurals name="aggregate_title_contact">
+        <item quantity="other">Stvori %d kontakata</item>
+        <item quantity="one">Stvori %d kontakt</item>
+     </plurals>
+     <plurals name="aggregate_title_default">
+        <item quantity="other">Pronađeno %d stavki</item>
+        <item quantity="one">Pronađena %d stavka</item>
+     </plurals>
+     <plurals name="aggregate_title_document">
+        <item quantity="other">Kopiraj detalje iz %d ID-ova</item>
+        <item quantity="one">Kopiraj detalje iz %d ID-a</item>
+     </plurals>
+     <plurals name="aggregate_title_flight">
+        <item quantity="other">Potraži %d letova</item>
+        <item quantity="one">Potraži %d let</item>
+     </plurals>
+     <plurals name="aggregate_title_schedule">
+        <item quantity="other">Stvori %d događaja</item>
+        <item quantity="one">Stvori %d događaj</item>
+     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>

@@ -1213,9 +1213,13 @@ Dodirnite zaslon i odaberite Slažem se za normalnu upotrebu."</string>
   <string name="kg_color_value_editor_lightness">Lakoća</string>
   <string name="kg_color_value_editor_saturation">Zasićenost</string>
   <string name="kg_color_value_editor_title">Uredi boju</string>
+  <string name="kg_common_home_screen_summary">Uđite u način uređivanja početnog zaslona kako biste prilagodili pozadinu i efekt zamućenja.</string>
+  <string name="kg_common_lock_screen_summary">Uđite u način uređivanja zaključanog zaslona. Otvorite MiuiAod uređivač zaključanog zaslona za prilagodbu pozadine, stila sata, fontova, prečaca i widgeta.</string>
   <string name="kg_confirm">U redu</string>
   <string name="kg_continue_editing">Nastavi uređivati</string>
+  <string name="kg_cross_building_summary">Pristupite stilovima zaključavanja kako biste pregledali unaprijed postavljene stilove zaključanog zaslona u mrežnom prikazu.</string>
   <string name="kg_customize">Prilagodi</string>
+  <string name="kg_customize_lock_screen_summary">Pristupite uređivaču zaključanog zaslona. Otvorite stranicu sa stilovima zaključanog zaslona (MiuiAod) i uđite u uređivač stilova kako biste prilagodili pozadinu, sat, fontove, prečace i widgete.</string>
   <string name="kg_delete_this_collocation">Izbrisati ovaj skup?</string>
   <string name="kg_delete_this_collocation_desc">"Postavke zaključanog i početnog zaslona ovog skupa bit će izbrisane. Izbrisati skup sada?"</string>
   <string name="kg_depth_preset_button_download">Preuzmi dinamičku pozadinu</string>
@@ -1422,6 +1426,8 @@ Dodirnite zaslon i odaberite Slažem se za normalnu upotrebu."</string>
   <string name="kg_oversize_clock_type_bold">Podebljano</string>
   <string name="kg_oversize_clock_type_serif_font">Serif</string>
   <string name="kg_oversize_clock_type_stroke">Konturno</string>
+  <string name="kg_pop_clock_font_filter_dialog_summary">Pristupite dijaloškom okviru za odabir fonta sata na zaključanom zaslonu.</string>
+  <string name="kg_pop_wall_paper_dialog_summary">Pristupite dijaloškom okviru za promjenu pozadine zaključanog zaslona.</string>
   <string name="kg_resource_re_choose">Odaberi ponovno</string>
   <string name="kg_rhombus_clock_type_bold_serif_font">Podebljani, serifni font</string>
   <string name="kg_rhombus_clock_type_brush_font">Kist</string>
@@ -1810,6 +1816,7 @@ M"</string>
   <string name="miuix_compat_mms">Poruke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -2440,7 +2447,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_ai_companion_ai_watermark">Pokreće ga umjetna inteligencija</string>
   <string name="rear_ai_companion_analyzing_image">Analiziranje slike…</string>
   <string name="rear_ai_companion_building_profile_eta">"Generiranje animacije…
-	Preostalo %d minuta"</string>
+  Preostalo %d minuta"</string>
   <string name="rear_ai_companion_card_generating">Generiranje…</string>
   <string name="rear_ai_companion_confirm_exit_title">Odustani zadatak?</string>
   <string name="rear_ai_companion_confirm_image_button">Sljedeće</string>
@@ -2522,6 +2529,7 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
   <string name="rear_screen_ai_app_empty_alert">Nije moguće prikazati sadržaj</string>
   <string name="rear_screen_ai_app_english_failed_content">Vaša ideja nije mogla biti finalizirana. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="rear_screen_ai_app_english_failed_title">Nije moguće pročistiti</string>
+  <string name="rear_screen_ai_app_featured">Istaknute aplikacije</string>
   <string name="rear_screen_ai_app_featured_title">Istaknuto</string>
   <string name="rear_screen_ai_app_generate">Napravi</string>
   <string name="rear_screen_ai_app_generate_failed">Nije moguće izraditi</string>
@@ -2532,10 +2540,13 @@ Pružit ćemo vam više informacija kada se ponovno povežete s internetom."</st
 Procjena vremena: %1$d–%2$d min"</string>
   <string name="rear_screen_ai_app_item_not_deletable">Nije moguće izbrisati tekuće zadatke</string>
   <string name="rear_screen_ai_app_my_gen_title">Ja sam izradio/la</string>
+  <string name="rear_screen_ai_app_nonsupport_title">Nije podržano. Uredite, a zatim pokušajte ponovno.</string>
   <string name="rear_screen_ai_app_notification_completed">Vaša lite aplikacija je spremna</string>
   <string name="rear_screen_ai_app_notification_generate_content">Lite aplikacija za stražnji zaslon</string>
   <string name="rear_screen_ai_app_notification_generate_title">Izrada lite aplikacija (%1$d-%2$d min)</string>
   <string name="rear_screen_ai_app_polish">Uglancaj</string>
+  <string name="rear_screen_ai_app_polish_failed_content">"Nije bilo moguće doraditi vašu ideju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="rear_screen_ai_app_polish_failed_title">"Dorada pomoću umjetne inteligencije nije uspjela."</string>
   <string name="rear_screen_ai_app_polishing">Poliranje…</string>
   <string name="rear_screen_ai_app_queue_content">Poslužitelj je zauzet.</string>
   <string name="rear_screen_ai_app_re_edit">Uredi ponovno</string>
@@ -2554,6 +2565,8 @@ Procjena vremena: %1$d–%2$d min"</string>
   <string name="rear_screen_ai_app_second_space_blocked">Drugi prostor nije dostupan</string>
   <string name="rear_screen_ai_app_task_limit_message">Pričekajte da se tekući zadatak završi prije nego što stvorite novi</string>
   <string name="rear_screen_ai_app_unsupport_title">Nije moguće generirati ovu aplikaciju</string>
+  <string name="rear_screen_ai_app_usage_limit_message">"Danas više nije moguće generirati nove stavke. Pokušajte ponovno sutra."</string>
+  <string name="rear_screen_ai_app_usage_limit_title">"Nije moguće generirati više stavki"</string>
   <string name="rear_screen_aod_setting">Stražnji AOD zaslon</string>
   <string name="rear_screen_aod_setting_title">Always-on zaslon</string>
   <string name="rear_screen_apply_fail">"Nije moguće primijeniti"</string>
@@ -2566,6 +2579,7 @@ Procjena vremena: %1$d–%2$d min"</string>
   <string name="rear_screen_companion_input_empty_error">Prvo unesite ime.</string>
   <string name="rear_screen_companion_nickname_auditing">Čekaj trenutak…</string>
   <string name="rear_screen_confirm_generate">Generirati sada?</string>
+  <string name="rear_screen_credits_insufficient_message">Ova značajka koristi Xiaomi Hyper XiaoAi bodove. Nadogradite svoje članstvo kako biste dobili više bodova.</string>
   <string name="rear_screen_credits_insufficient_title">Nema dovoljno bodova</string>
   <string name="rear_screen_credits_insuficient_message">Ova značajka troši Xiaomi Hyper XiaoAi bodove. Nadogradite svoje članstvo kako biste zaradili više bodova.</string>
   <string name="rear_screen_credits_later">Ne sada</string>

@@ -74,7 +74,11 @@
   <string name="boot_video_replay">Reproduciraj ponovno</string>
   <string name="boot_video_skip">Preskoči</string>
   <string name="calculator_introduction">Ovu aplikaciju možete koristiti za izračunavanje, pretvaranje jedinica i valuta i procjenu otplate hipoteke.</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="calendar_storage">Spremanje kalendara</string>
+  <string name="camera_mind_introduction">Mehanizam za poboljšanje slike (Imaging enhancement engine) sustavna je usluga koja upravlja resursima sustava i poboljšava kvalitetu slike za funkcije kao što su fotografiranje, snimanje videozapisa i skeniranje kodova.</string>
+  <string name="china_mobile_components_manager_app">Upravitelj prilagođenih AI komponenti</string>
   <string name="camera_application_introduction">Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="camera_introduction">Kameru možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="carrier_introduction_china_rothko">Kako bismo poboljšali kvalitetu usluga koje vam se pružaju, programi koji se izvode na ovom uređaju (uključujući SystemHelper, RegService i usluge operatera) mogu slati informacije o ovom uređaju ili vašoj SIM kartici (uključujući IMEI , IMSI, MSISDN, MEID, ICCID, MAC adresa, verzija sustava, verzija Androida, model uređaja, osnovna hardverska konfiguracija i telefonski broj), kao i vaša približna lokacija (uključujući regiju, koordinate, identifikator susjedstva i ID bazne stanice) , svom operateru putem Wi-Fi-ja, mobilnih mreža ili SMS-a. Prilikom poziva, DCService će se spojiti na mrežu. Mobilni operateri jamče da će se ti podaci koristiti samo za analizu, poboljšanje kvalitete usluge ili pružanje prilagođenih usluga ili tehnologija te da se nikada neće dijeliti ni s kim na način koji bi mogao omogućiti vašu osobnu identifikaciju. Pojedinosti potražite u relevantnoj izjavi vašeg operatera. Možete se raspitati o svim povezanim naknadama za usluge izravno od svog operatera.</string>
@@ -339,6 +343,7 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -355,6 +360,7 @@
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
@@ -433,6 +439,7 @@
   <string name="next_fingerprint">Dalje</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="note_introduction">Ova aplikacija omogućuje vam stvaranje, pregled i uređivanje bilješki.</string>
+  <string name="operator_terms_statement_title">Izjava o uslugama</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_ad_dialog_agree">Uključi</string>
   <string name="other_settings_ad_dialog_content">"Kad su preporuke za prilagođene oglase isključene, i dalje ćete vidjeti istu količinu oglasa kao i kad je značajka uključena. Oglasi, međutim, više neće biti relevantni jer se neće temeljiti na vašim osobnim željama."</string>
@@ -538,6 +545,8 @@ Ovu značajku možete kontrolirati u Postavkama > Privatnost i sigurnost > Sigur
   <string name="permission_make_a_call_fast_application_summary">Za omogućavanje brzim aplikacijama upućivanje poziva;</string>
   <string name="permission_media_storage_summary">Za provjeru kako aplikacije koriste dopuštenja povezana s privatnošću dok pristupaju datotekama</string>
   <string name="permission_message_introduction">Za slanje poruka blokiranim kontaktima</string>
+  <string name="permission_multi_user_state">Pristup statusu više korisnika na uređaju</string>
+  <string name="permission_multi_user_state_camera_mind_summary">Za odgovarajuću raspodjelu sistemskih resursa u scenarijima s više korisnika, kao što je „Drugi prostor”</string>
   <string name="permission_not_agree_service_not_working">"Ako se ne slažete s gore navedenim potrebnim dopuštenjima, nećete moći koristiti ovu uslugu."</string>
   <string name="permission_number">Pristup broju telefona</string>
   <string name="permission_number_introduction">Za uspostavljanje Bluetooth veze sa sustavima automobila i Bluetooth slušalicama</string>
@@ -633,12 +642,22 @@ Ovu značajku možete kontrolirati u Postavkama > Privatnost i sigurnost > Sigur
   <string name="privacy_title">Uvjeti &amp; Pravila o privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provide_date_management_service">Ova vam usluga omogućuje provjeru datuma i upravljanje događajima.</string>
+  <string name="provision_accessibility_talkback_summary">Slušajte kako čitač zaslona naglas čita sadržaj na zaslonu. Namijenjeno osobama s oštećenjem vida.</string>
+  <string name="provision_accessibility_talkback_title">TalkBack</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_complete_text">Nastavi</string>
   <string name="provision_inputmethod_policy_description"><Data>Pogledajte &lt;a href=%1$s>Pravila o privatnosti&lt;/a > vaše odabrane tipkovnice.</Data></string>
   <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
+  <string name="provision_talkback_dialog_allow">Dopusti</string>
+  <string name="provision_talkback_dialog_deny">Odbij</string>
+  <string name="provision_talkback_dialog_description">Potpuna kontrola prikladna je za aplikacije koje pomažu kod potreba za pristupačnošću, ali ne i za većinu drugih aplikacija.</string>
+  <string name="provision_talkback_dialog_item_control_description">Može čitati sav sadržaj na zaslonu i prikazivati ​​sadržaj preko drugih aplikacija.</string>
+  <string name="provision_talkback_dialog_item_control_title">Pregled i kontrola zaslona</string>
+  <string name="provision_talkback_dialog_item_perform_description">Može pratiti vaše interakcije s aplikacijom ili hardverskim senzorom te u vaše ime komunicirati s aplikacijama.</string>
+  <string name="provision_talkback_dialog_item_perform_title">Pregled i izvršavanje radnji</string>
+  <string name="provision_talkback_dialog_title">Usluga će izvršiti sljedeće radnje:</string>
   <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je usluga koja upravlja procesima sustava.</string>
   <string name="read_application_info">Pristup informacijama o aplikaciji</string>
   <string name="read_sms_and_mms">Pristup SMS-u i MMS-u</string>

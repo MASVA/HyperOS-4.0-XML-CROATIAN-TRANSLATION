@@ -234,6 +234,7 @@
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
   <string name="miuix_navigator_toolbar_screen_bottom">Alatna traka na dnu zaslona</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Učitavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -307,6 +308,7 @@
   <string name="new_password_dialog_negative_btn">Odustani</string>
   <string name="new_password_dialog_positive_btn">Spremi</string>
   <string name="new_password_dialog_title">Spremi zaporku za %s</string>
+  <string name="new_password_dialog_fallback_title">Spremiti zaporku?</string>
   <string name="not_set">Nije postavi</string>
   <string name="ok">Uključi</string>
   <string name="open">Uključi</string>
@@ -395,6 +397,7 @@
   <string name="recently_deleted_detail_restore_failed">"Nije moguće vratiti"</string>
   <string name="recently_deleted_header_text">Stavke se ovdje mogu pohraniti %d dana. Dodirnite za produljenje ovog razdoblja.</string>
   <string name="replace_password_dialog_content">Zamijenite staru zaporku trenutnom kako bi se automatski popunila sljedeći put kada se prijavite.</string>
+  <string name="replace_password_dialog_fallback_title">Ažurirati zaporku?</string>
   <string name="replace_password_dialog_negative_btn">Odustani</string>
   <string name="replace_password_dialog_positive_btn">Ažuriraj</string>
   <string name="replace_password_dialog_title">Ažuriraj zaporku za %s</string>
@@ -483,6 +486,7 @@
   <string name="wifi_deleted_dialog_title">Zaboraviti ovu mrežu?</string>
   <string name="wifi_item_detail_password_title">Zaporka</string>
   <string name="wifi_item_detail_security_title">Sigurnost</string>
+  <string name="wifi_near_sync_notification_title">Sinkronizacija Wi-Fi zaporki…</string>
   <string name="wifi_password_copy_text_toast">Uspješno kopirano</string>
   <string name="zxing_app_name">Skener barkodova</string>
   <string name="zxing_button_ok">U redu</string>

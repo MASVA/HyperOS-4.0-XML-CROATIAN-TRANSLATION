@@ -36,6 +36,12 @@
   <string name="app_disable_description_title">Onemogućiti ovu aplikaciju?</string>
   <string name="app_name">Slušalice</string>
   <string name="apply_sound">Primjeni</string>
+  <string name="bose_effect_balance">Uravnoteženo</string>
+  <string name="bose_effect_balance_summary">Prirodan, svjež i uravnotežen zvuk za nježno i ugodno iskustvo slušanja</string>
+  <string name="bose_effect_classic">Dinamično</string>
+  <string name="bose_effect_classic_summary">Pun bas, detaljan zvuk i snažan osjećaj ritma pružaju dojmljivije zvučno iskustvo. Pokreće ga Dolby Atmos.</string>
+  <string name="bose_effect_more">Više</string>
+  <string name="bose_effect_title">Zvučni efekti</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
@@ -78,6 +84,8 @@
   <string name="dolby_dax_profile_dynamic">Dinamično</string>
   <string name="dolby_dax_setting">Dolby efekti</string>
   <string name="dolby_dax_title">Surround zvuk</string>
+  <string name="dolby_eq_adjustment">Prilagodi ekvalizator</string>
+  <string name="dolby_eq_title">Ekvalizator</string>
   <string name="ear_canal_scan_function_description">Skeniranje ušnog kanala</string>
   <string name="ear_canal_scan_function_name">Iskusite optimizirani zvuk na temelju vašeg oblika uha</string>
   <string name="ear_canal_scan_notice_disconnect">Skeniranje je prekinuto. Provjerite jesu li vaše slušalice spojene</string>
@@ -222,8 +230,7 @@
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
-  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
-  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Učitavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -234,6 +241,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
+  <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
+  <string name="miuix_stretchablewidget_expanded">Prošireno</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -528,6 +537,16 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="super_effect_bass">Pojačani bas</string>
+  <string name="super_effect_custom">Prilagođeno</string>
+  <string name="super_effect_default">Zadano</string>
+  <string name="super_effect_eq_reset">Poništi</string>
+  <string name="super_effect_eq_title">Ekvalizator</string>
+  <string name="super_effect_surround">Imerzivan zvuk</string>
+  <string name="super_effect_surround_summary">Imerzivno iskustvo od %d°</string>
+  <string name="super_effect_title">Napredni efekti</string>
+  <string name="super_effect_voice">Glas</string>
+  <string name="super_effect_voice_summary">Istaknite suptilne vokalne detalje</string>
   <string name="sure_give_up_test">"Morati ćete početi ispočetka sljedeći put ako sada zaustavite test. Zaustavi svejedno?"</string>
   <string name="sure_to_back">Odbaciti promjene?</string>
   <string name="switch_audio_device_bt">Bluetooth</string>

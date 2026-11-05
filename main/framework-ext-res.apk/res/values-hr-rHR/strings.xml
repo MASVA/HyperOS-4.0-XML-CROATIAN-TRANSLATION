@@ -731,6 +731,13 @@ biste koristili prednju kameru</string>
   <string name="wallpaper_and_signature_title">Pozadine i potpisi</string>
   <string name="wallpaper_bright_title">Sjaj</string>
   <string name="wallpaper_group_ai_zone_title">AI pozadine</string>
+  <string name="wallpaper_group_ai_companion_title">Pametni pratitelj</string>
+  <string name="wallpaper_group_animation_effect_title">Dinamički efekti</string>
+  <string name="wallpaper_group_butterfly_title">Leptir</string>
+  <string name="wallpaper_group_creatures_title">"Čuda prirode"</string>
+  <string name="wallpaper_group_fold_dynamic_title">Dinamične pozadine za sklopive uređaje</string>
+  <string name="wallpaper_group_light_painting_title">Svjetlosno slikanje</string>
+  <string name="wallpaper_group_sparkle_title">Sjaj</string>
   <string name="wallpaper_group_arc_title">Lučna lampa</string>
   <string name="wallpaper_group_big_numbers_title">Veliki brojevi</string>
   <string name="wallpaper_group_blossom_title">Cvjetanje</string>

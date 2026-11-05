@@ -145,6 +145,7 @@
   <string name="button_manage_apps">Upravljanje aplikacijama</string>
   <string name="button_open">Otvori</string>
   <string name="button_restore">Vrati</string>
+  <string name="button_reinstall">Ponovno instaliraj</string>
   <string name="button_retry">Pokušaj ponovno</string>
   <string name="button_settings">Postavke</string>
   <string name="button_text_back">Natrag</string>
@@ -302,6 +303,11 @@
   <string name="ettings_security_mode_tip_title1">Čuvajte svoju privatnost</string>
   <string name="ettings_security_mode_tip_title2">Prepoznajte i blokirajte rizične aplikacije</string>
   <string name="exit">Izlaz</string>
+  <string name="exit_install_ad_header">Možda će vam se svidjeti i ovo</string>
+  <string name="exit_install_btn_more">Više</string>
+  <string name="exit_install_card_subtitle_default">Pronađite više aplikacija u GetApps</string>
+  <string name="exit_install_card_title_default">Otkazano</string>
+  <string name="exit_install_loading_default">Otkazivanje…</string>
   <string name="expand_button_title">Napredno</string>
   <string name="experiment_continue">Nastavi</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>

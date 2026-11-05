@@ -267,10 +267,10 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="anti_peeping_privacy_auto_close_des">Ova značajka može malo povećati potrošnju energije i bit će isključena kada je uključena Štednja baterije.</string>
   <string name="anti_peeping_privacy_auto_close_title">Automatski se isključuje kada je uključena Štednja baterije</string>
   <string name="anti_peeping_privacy_statement_des">""Nakon što uključite ovu značajku, ovaj uređaj će koristiti prednju kameru kako bi provjerio je li netko drugi osim Gledate u zaslon kada se odabrane aplikacije prikazuju preko cijelog zaslona. Ako se otkrije, dobit ćete podsjetnik o privatnosti.
-	Sva se obrada izvodi na vašem uređaju i neće se prenijeti u oblak."</string>
+  Sva se obrada izvodi na vašem uređaju i neće se prenijeti u oblak."</string>
   <string name="anti_peeping_privacy_statement_title">Izjava o privatnosti</string>
   <string name="anti_peeping_privacy_understand_des">"Ova značajka koristi prednju kameru za snimanje slika i analizu gleda li netko drugi osim vas u vaš zaslon. Ako se otkrije takva aktivnost, dobit ćete podsjetnik kako biste zaštitili svoju privatnost.
-	Možete odabrati koje aplikacije želite zaštititi. \"Otkrivanje tuđeg pogleda\" automatski će se uključiti kada se te aplikacije prikazuju preko cijelog zaslona."</string>
+  Možete odabrati koje aplikacije želite zaštititi. \"Otkrivanje tuđeg pogleda\" automatski će se uključiti kada se te aplikacije prikazuju preko cijelog zaslona."</string>
   <string name="anti_peeping_privacy_understand_title">"O \"Otkrivanju tuđeg pogleda\""</string>
   <string name="anti_peeping_recommend_apps_button_open">Uključi</string>
   <string name="anti_peeping_recommend_tips">%s korisnika odabralo je sljedeće aplikacije</string>
@@ -1452,7 +1452,9 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
   <string name="bubble_notification_switch_desc">Kada je aplikacija za messenger u plutajućem prozoru skrivena na rubu zaslona, prikaži dolazne poruke u oblačićima</string>
   <string name="bubble_pickup_voice_print_auto">Snimanje glasovnog otiska…</string>
+  <string name="bubble_pickup_voice_print_auto_v2">Snimanje glasovnog otiska i podataka o licu…</string>
   <string name="bubble_pickup_voice_print_success">Glasovni otisak snimljen</string>
+  <string name="bubble_pickup_voice_print_success_v2">Glasovni otisak i podaci o licu su snimljeni</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -1515,6 +1517,13 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="call_delete_hint">Izbrisati sve blokirane pozive s tog broja?</string>
   <string name="call_delete_title">Izbriši povijest poziva</string>
   <string name="call_empty_number">Prazni brojevi</string>
+  <string name="call_filter_ad_promotion">Oglasi</string>
+  <string name="call_filter_education_training">Obrazovanje</string>
+  <string name="call_filter_high_risk">Visoki rizik</string>
+  <string name="call_filter_insurance_finance">Osiguranje</string>
+  <string name="call_filter_loan_promotion">Krediti</string>
+  <string name="call_filter_real_estate">Nekretnine</string>
+  <string name="call_filter_renovation_repair">Popravci u domu</string>
   <string name="call_forwarding_block">Preusmjereni pozivi</string>
   <string name="call_intercept_settings">Postavke popisa blokiranih poziva</string>
   <string name="call_notification_answer_action">Odgovori</string>
@@ -1528,6 +1537,19 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="call_overseas_block">Međunarodni pozivi</string>
   <string name="call_prefix">Popis blokiranih predbrojeva</string>
   <string name="call_private">Privatan poziv</string>
+  <string name="call_reason_ad_promotion_mark">Oglasi</string>
+  <string name="call_reason_ad_promotion_mark_large">Oglasi</string>
+  <string name="call_reason_education_training_mark">Obrazovanje</string>
+  <string name="call_reason_education_training_mark_large">Obrazovanje</string>
+  <string name="call_reason_high_risk_mark">Visok rizik</string>
+  <string name="call_reason_insurance_finance_mark">Osiguranje</string>
+  <string name="call_reason_insurance_finance_mark_large">Osiguranje</string>
+  <string name="call_reason_loan_promotion_mark">Krediti</string>
+  <string name="call_reason_loan_promotion_mark_large">Krediti</string>
+  <string name="call_reason_real_estate_mark">Nekretnine</string>
+  <string name="call_reason_real_estate_mark_large">Nekretnine</string>
+  <string name="call_reason_renovation_repair_mark">Popravci u domu</string>
+  <string name="call_reason_renovation_repair_mark_large">Popravci u domu</string>
   <string name="call_stranger_block">Presretanje stranaca</string>
   <string name="call_transfer_block">Prosljeđeni poziv</string>
   <string name="call_transfer_info">Blokiraj prosljeđene pozive sa nepoznatih brojeva</string>
@@ -1849,6 +1871,7 @@ Ovu značajku možete uključiti i isključiti u Kontrolnom centru."</string>
   <string name="cs_pickup_voice_print_auto_dialog_tips">"Vaš će glas biti snimljen i obrađen samo na ovom uređaju.
 Za najbolje rezultate snimajte sami na tihom mjestu."</string>
   <string name="cs_pickup_voice_print_auto_dialog_title">Za personalizirano smanjenje buke potreban je glasovni otisak</string>
+  <string name="cs_pickup_voice_print_auto_dialog_title_v2">Za personalizirano smanjenje šuma potrebni su glasovni otisak i podaci o licu</string>
   <string name="cs_pickup_voice_print_desc">Primite zvuk samo od jedne osobe</string>
   <string name="cs_privacy_camera_global_settings_title">Privatnost poziva</string>
   <string name="cs_record_voice_title">Snimanje</string>
@@ -3043,12 +3066,14 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gamebox_func_antimsg_open">Plutajuće obavijesti sada su ograničene</string>
   <string name="gamebox_func_immersion_close">Interaktivan način je sada isključen</string>
   <string name="gamebox_func_immersion_open">Interaktivan način je sada uključen</string>
+  <string name="gamebox_func_start_gyroscope_international">Uključite žiroskop u postavkama igre kako biste koristili ovu značajku</string>
   <string name="gamebox_func_switch_simcard">Prebačeno na SIM karticu %1$d za mob. podatke</string>
   <string name="gamebox_func_switch_simcard_immersion">"SIM kartice se ne mogu zamijeniti u Interaktivnom načinu"</string>
   <string name="gamebox_func_wlan_close">Wi-Fi je isključen</string>
   <string name="gamebox_func_wlan_open">Wi-Fi je uključen</string>
   <string name="gamebox_game_center_app_not_find">Instalirajte najprije Igre</string>
   <string name="gamebox_gift_pack">Pokloni</string>
+  <string name="gamebox_gyroscope_acceleration_international">Žiro-ubrzanje</string>
   <string name="gamebox_hangup">Isključi zaslon</string>
   <string name="gamebox_hangup_new">Isključi zaslon</string>
   <string name="gamebox_hangup_tips_content">Ova značajka omogućuje vam da isključite zaslon, ali igru zadržite u pozadini. On se automatski isključuje nakon otključavanja uređaja.</string>
@@ -3293,6 +3318,9 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_launch_awareness_predownload">Preduplata omogućena</string>
   <string name="gb_launch_awareness_title">Omogućeno za vas</string>
   <string name="gb_launch_awareness_wild_mode">Wild način omogućen</string>
+  <string name="gb_launch_mute_start">Tihi način rada</string>
+  <string name="gb_launch_mute_start_enbaled_toast">Tihi način rada je uključen. (click)Isključi(/click)</string>
+  <string name="gb_launch_mute_start_unmuted_toast">Zvuk je ponovno uključen</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
   <string name="gb_manual_video_record_title">Snimke</string>
   <string name="gb_margin_restrain">Zanemari slučajni dodir na rubovima</string>
@@ -3371,6 +3399,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_perf_gpu_render_title">Višenitno renderiranje</string>
   <string name="gb_perf_gpu_resolution_default">Zadano</string>
   <string name="gb_perf_gpu_resolution_desc">"Koristi trenutnu rezoluciju igre prema zadanim postavkama, neke igre možda ne podržavaju prilagodbu"</string>
+  <string name="gb_perf_gpu_resolution_high">Visoka</string>
   <string name="gb_perf_gpu_resolution_highest">Najviša</string>
   <string name="gb_perf_gpu_resolution_smooth">Glatko</string>
   <string name="gb_perf_gpu_resolution_standard">Standardna</string>
@@ -3632,6 +3661,10 @@ vašeg igranja"</string>
   <string name="gd_dock_shortcut_multisplitscreen">Višestruko podijeljeni zaslon</string>
   <string name="gd_dock_shortcut_splitescreen">Podijeljeni zaslon</string>
   <string name="gd_dock_swipe_launcher_upgrade_hint">"Trenutna verzija pokretača ne podržava povlačenje i držanje"</string>
+  <string name="gd_dock_xiaoai_ball_dialog_btn_cancel">Odustani</string>
+  <string name="gd_dock_xiaoai_ball_dialog_btn_confirm">Promijeni</string>
+  <string name="gd_dock_xiaoai_ball_dialog_content">Možete povući i zadržati prst kako biste otvorili Xiaomi Hyper XiaoAi balončić s radnjama. Ako prijeđete na bočnu alatnu traku, Xiaomi Hyper XiaoAi balončić s radnjama bit će isključen. Želite li sada promijeniti?</string>
+  <string name="gd_dock_xiaoai_ball_dialog_title">Promijeniti način aktivacije?</string>
   <string name="gd_setting_conversation">Konferencijski alati</string>
   <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
   <string name="gd_setting_dock_activity_title">Bočna kutija s alatima</string>
@@ -4498,6 +4531,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -4768,6 +4802,8 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_abnormal_check_now_button">Prikaži</string>
   <string name="notification_abnormal_consume_app_title">%s prazni bateriju</string>
   <string name="notification_abnormal_consume_cpu">Resursi procesora zloupotrebljavaju se u pozadini</string>
+  <string name="notification_abnormal_consume_high_drain_app_title">%s prazni bateriju</string>
+  <string name="notification_abnormal_consume_high_drain_subtitle">Visoka potrošnja baterije u pozadini</string>
   <string name="notification_abnormal_consume_wakelock">Sustav se drži budnim u pozadini</string>
   <string name="notification_antivirus_button_text">Skeniraj</string>
   <string name="notification_antivirus_message">Skenirajte odmah da neutralizirate rizike</string>
@@ -4869,6 +4905,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="now_inquiry">Detalji</string>
   <string name="number_address">Lokacija</string>
   <string name="number_locked_v2">{count, plural, =0 {0 aplikacija blokiranih} jedna {# aplikacija blokiranih} nekoliko {# aplikacija blokiranih} ostalo {# aplikacija blokiranih} </string>
+  <string name="number_masked_v2">{count, plural, =0 {0 aplikacija} jedna {# aplikacija} druga {# aplikacija} </string>
   <string name="number_of_lucky_money">Crvene omotnice na koje ste dobili podsjetnike</string>
   <string name="number_to_lock_v2">{count, plural, =0 {0 aplikacija koje nisu blokirane} jedna {# aplikacija koje nisu blokirane} ostalo {# aplikacija koje nisu blokirane} </string>
   <string name="numeric_need_to_confirm">Unesite ponovno za potvrdu</string>
@@ -5452,84 +5489,210 @@ Način otpornosti na hladnoću"</string>
   <string name="pc_work_in_super_save_mode">Ultra štednja baterije</string>
   <string name="pc_xiaoai_create_auto_task">Novi zadatak iz Mi AI</string>
   <string name="pc_xiaoai_voice_control_close">"Isključi Mi AI \"Probudi glasom\""</string>
+  <string name="peep_conversion_v2_intro_enable">Uključi</string>
   <string name="peep_protection_ai_key_disabled">Privatni zaslon onemogućen</string>
   <string name="peep_protection_ai_key_enabled">Privatni zaslon omogućen</string>
+  <string name="peep_protection_v2_app_notification_protection">Obavijesti</string>
   <string name="peep_protection_v2_app_notification_protection_desc">Obavijesti iz odabranih aplikacija aktivirat će privatni prikaz</string>
   <string name="peep_protection_v2_app_protection_desc">Omogući Privatnost zaslona u odabranim aplikacijama</string>
   <string name="peep_protection_v2_banner_summary">Isprobajte značajke privatnosti zaslona dostupne isključivo za ovaj model</string>
   <string name="peep_protection_v2_banner_title">Xiaomi Privatnost zaslona</string>
   <string name="peep_protection_v2_batch_disable">Onemogući</string>
   <string name="peep_protection_v2_batch_enable">Omogući</string>
+  <string name="peep_protection_v2_category_capability">Mogućnosti značajki</string>
+  <string name="peep_protection_v2_category_capability_v2">Detekcija pogleda</string>
+  <string name="peep_protection_v2_category_finance">Financije</string>
+  <string name="peep_protection_v2_category_group_title_v2">%1$s (%2$d)</string>
   <string name="peep_protection_v2_category_other">Ostalo</string>
+  <string name="peep_protection_v2_category_recommend">Preporučeno</string>
+  <string name="peep_protection_v2_category_scene">Scenariji</string>
+  <string name="peep_protection_v2_category_scene_v2">Zaslon</string>
+  <string name="peep_protection_v2_category_smart">Pametno</string>
+  <string name="peep_protection_v2_category_social">Društvene mreže</string>
+  <string name="peep_protection_v2_category_suggest">Preporučeno</string>
+  <string name="peep_protection_v2_category_tip_dismiss">Ne, hvala</string>
+  <string name="peep_protection_v2_category_tip_message">Neka vam Xiaomi Hyper XiaoAi pomogne u stvaranju personaliziranih grupa aplikacija. Na primjer, možete dodati Galeriju, Lozinke i Bilješke u grupu za prikaz privatnosti pod nazivom \"Subway\". Također možete reći Xiaomi Hyper XiaoAi kako želite grupirati svoje aplikacije i dodati druga pametna pravila aktivacije.</string>
+  <string name="peep_protection_v2_category_tip_prompt">Izradite grupu aplikacija za prikaz privatnosti. Dodajte %1$s u ovu grupu, nazovite je \"Privatno\" i uključite prikaz privatnosti za ove aplikacije.</string>
+  <string name="peep_protection_v2_category_tip_title">Izradite vlastitu grupu</string>
   <string name="peep_protection_v2_color_inversion_closed_msg">Ova značajka ne radi s inverzijom boja. Xiaomi Privatnost zaslona je onemogućena.</string>
+  <string name="peep_protection_v2_color_inversion_closed_reopen">Uključi</string>
   <string name="peep_protection_v2_color_inversion_closed_title">Xiaomi Privatnost zaslona je onemogućena</string>
+  <string name="peep_protection_v2_color_inversion_conflict_msg">"Ova značajka ne radi s inverzijom boja. Prvo isključite inverziju boja."</string>
+  <string name="peep_protection_v2_color_inversion_conflict_title">Isključite inverziju boja</string>
   <string name="peep_protection_v2_cue_byapp_reason">Omogući Privatnost zaslona za ovu aplikaciju</string>
   <string name="peep_protection_v2_cue_byapp_title">Omogući Privatnost zaslona za %s</string>
   <string name="peep_protection_v2_cue_global_reason">Isprobajte značajke privatnosti ekskluzivne za ovaj model</string>
   <string name="peep_protection_v2_cue_global_title">Omogući Xiaomi Privatnost zaslona</string>
   <string name="peep_protection_v2_cue_summary">Ova je značajka dostupna samo za ovaj model</string>
+  <string name="peep_protection_v2_deep_mode">Poboljšana privatnost</string>
+  <string name="peep_protection_v2_deep_mode_desc">Otežajte drugima gledanje u vaš zaslon</string>
   <string name="peep_protection_v2_enhanced_effect_summary">Smanjite svjetlinu zaslona kako biste drugima otežali vidjeti vaš zaslon</string>
   <string name="peep_protection_v2_enhanced_effect_title">Poboljšana privatnost</string>
+  <string name="peep_protection_v2_expert_mode_hint">*Zahtijeva prebacivanje usluge Xiaomi Hyper XiaoAi u Pro način rada</string>
+  <string name="peep_protection_v2_face_need_input_hint">Potrebni su podaci o licu</string>
   <string name="peep_protection_v2_first_close_message">Dodajte Xiaomi Privatnost zaslona u Centar za kontrolu &gt; Uredi &gt; Prečaci sustava za brzo uključivanje i isključivanje.</string>
   <string name="peep_protection_v2_first_close_title">Brzo uključite Xiaomi Privatnost zaslona</string>
+  <string name="peep_protection_v2_first_close_title_v2">Prekidači</string>
   <string name="peep_protection_v2_global_first_open_msg">Dodajte privatnost preko cijelog zaslona u Centru za kontrolu &gt; Uredi &gt; Prečaci sustava za brzo uključivanje i isključivanje.</string>
   <string name="peep_protection_v2_global_first_open_title">Brzo uključite privatnost preko cijelog zaslona</string>
   <string name="peep_protection_v2_global_hint">Kada je omogućena privatnost preko cijelog zaslona, ​​detekcija pogleda je onemogućena.</string>
   <string name="peep_protection_v2_global_no_aon_hint">Radi uštede baterije, detekcija pogleda je onemogućena kada je Privatnost preko cijelog zaslona omogućena.</string>
   <string name="peep_protection_v2_global_protection">Privatnost preko cijelog zaslona</string>
+  <string name="peep_protection_v2_global_protection_desc">Koristite zaštitu privatnosti zaslona u različitim situacijama na svom uređaju</string>
   <string name="peep_protection_v2_global_protection_desc_v2">Zaslon ostaje privatan na cijelom uređaju.</string>
+  <string name="peep_protection_v2_go_miclaw">Otvorite Xiaomi Hyper XiaoAi</string>
   <string name="peep_protection_v2_header_desc_v2">Vidljivost zaslona pod kutom bit će ograničena. Uređaj će vas obavijestiti kada otkrije detekciju pogleda. (kliknite)Saznajte više(/kliknite)</string>
+  <string name="peep_protection_v2_intro_detection_desc">Postavite pametna pravila za ovu značajku putem usluge Xiaomi Hyper XiaoAi</string>
+  <string name="peep_protection_v2_intro_pixel_desc">"Suzite kut vidljivosti zaslona i otkrijte kada netko drugi gleda u njega"</string>
+  <string name="peep_protection_v2_intro_pixel_title">Privatnost na hardverskoj razini</string>
+  <string name="peep_protection_v2_intro_privacy_tip">Otežajte gledanje u zaslon sa strane, uz kontinuirano otkrivanje i upozorenja kada netko drugi gleda u njega</string>
   <string name="peep_protection_v2_intro_scope_desc_global">Odaberite određene aplikacije i obavijesti ili koristite ovu značajku u svim situacijama</string>
   <string name="peep_protection_v2_intro_smart_page_desc">Odaberite određene aplikacije, stranice i obavijesti ili koristite ovu značajku u svim situacijama</string>
+  <string name="peep_protection_v2_intro_smart_page_title">Različite situacije</string>
+  <string name="peep_protection_v2_learn_more">Saznajte više</string>
+  <string name="peep_protection_v2_learn_more_limits_desc">"Ova značajka može neznatno povećati potrošnju energije. Bit će privremeno isključena radi uštede baterije kada je uključena značajka „Ušteda baterije”.
+  Tijekom pregleda HDR sadržaja, zaštita prikaza privremeno će se zaustaviti kako bi se osigurala kvaliteta prikaza.
+  Zaštita prikaza zaustavit će se u vodoravnom (pejzažnom) načinu rada i automatski se ponovno aktivirati nakon povratka u okomiti (portretni) način rada.
+  Neke teme trećih strana još ne podržavaju zaštitu prikaza za obavijesti na zaključanom zaslonu.
+  Moguća su kašnjenja pri otkrivanju dolazaka na određene lokacije ili odlazaka s njih."</string>
   <string name="peep_protection_v2_learn_more_limits_desc_global">"Ova značajka može neznatno povećati potrošnju baterije. Kada je omogućena Štednja baterije, bit će privremeno onemogućena radi uštede baterije.
-	Prilikom gledanja sadržaja u HDR-u, Privatnost zaslona bit će pauzirana kako bi se osigurala odgovarajuća kvaliteta zaslona.
-	Privatnost zaslona bit će pauzirana u pejzažnom načinu rada i automatski će se nastaviti kada se vratite u portretni način rada.
-	Neke teme trećih strana još ne podržavaju Privatnost zaslona za obavijesti zaključanog zaslona."</string>
+  Prilikom gledanja sadržaja u HDR-u, Privatnost zaslona bit će pauzirana kako bi se osigurala odgovarajuća kvaliteta zaslona.
+  Privatnost zaslona bit će pauzirana u pejzažnom načinu rada i automatski će se nastaviti kada se vratite u portretni način rada.
+  Neke teme trećih strana još ne podržavaju Privatnost zaslona za obavijesti zaključanog zaslona."</string>
   <string name="peep_protection_v2_learn_more_limits_desc_global_hdr">"Ova značajka može neznatno povećati potrošnju energije. Kada je omogućena Štednja baterije, bit će privremeno onemogućena radi uštede baterije.
-	Prilikom prikazivanja HDR sadržaja, Privatnost zaslona bit će pauzirana kako bi se osigurala odgovarajuća kvaliteta zaslona.
-	Privatnost zaslona bit će pauzirana u pejzažnom načinu rada i automatski će se nastaviti kada se vratite u portretni način rada.
-	Neke teme trećih strana još ne podržavaju Privatnost zaslona za obavijesti zaključanog zaslona."</string>
+  Prilikom prikazivanja HDR sadržaja, Privatnost zaslona bit će pauzirana kako bi se osigurala odgovarajuća kvaliteta zaslona.
+  Privatnost zaslona bit će pauzirana u pejzažnom načinu rada i automatski će se nastaviti kada se vratite u portretni način rada.
+  Neke teme trećih strana još ne podržavaju Privatnost zaslona za obavijesti zaključanog zaslona."</string>
+  <string name="peep_protection_v2_learn_more_limits_desc_hdr">"Ova značajka može neznatno povećati potrošnju energije. Privremeno će se isključiti radi uštede baterije kada je uključena značajka „Ušteda baterije”.
+  Tijekom pregleda HDR sadržaja, zaštita prikaza privremeno će se zaustaviti kako bi se osigurala kvaliteta prikaza.
+  Zaštita prikaza zaustavit će se u vodoravnom (pejzažnom) načinu rada i automatski se ponovno aktivirati nakon povratka u okomiti (portretni) način rada.
+  Neke teme trećih strana još ne podržavaju zaštitu prikaza za obavijesti na zaključanom zaslonu.
+  Moguća su kašnjenja pri otkrivanju dolazaka na određene lokacije ili odlazaka s njih."</string>
+  <string name="peep_protection_v2_learn_more_limits_title">Ograničenja i posebni slučajevi</string>
+  <string name="peep_protection_v2_learn_more_privacy_desc">"Nakon uključivanja ove značajke, uređaj može koristiti prednju kameru za snimanje slika te lokalno otkrivanje lica ili smjera pogleda (kada je aktivno otkrivanje pogleda). To služi za utvrđivanje gleda li netko drugi osim vas u zaslon, kako bi vas uređaj mogao upozoriti.
+  Svi se podaci obrađuju na vašem uređaju i ne učitavaju se u Xiaomi Cloud niti u bilo koju drugu uslugu u oblaku trećih strana."</string>
+  <string name="peep_protection_v2_learn_more_privacy_title">Izjava o privatnosti</string>
+  <string name="peep_protection_v2_learn_more_scope_desc">"Možete odabrati kako funkcionira Xiaomi Privacy Display: na cijelom uređaju, u odabranim aplikacijama, na osjetljivim stranicama ili za obavijesti.
+
+  Zaštita privatnosti na cijelom zaslonu:
+  Zaštita privatnosti ostaje aktivna na cijelom uređaju kako bi zaštitila sve što gledate. Dok je ova značajka uključena, sustav će otkrivati ​​ako netko drugi gleda u vaš zaslon.
+
+  Odabrane aplikacije:
+  Odaberite aplikacije koje želite zaštititi. Kada su te aplikacije prikazane na zaslonu, Xiaomi Privacy Display smanjuje vidljivost iz bočnih kutova i otkriva gleda li netko drugi u zaslon.
+
+  Osjetljive stranice:
+  Čak i ako neke aplikacije nisu dodane na popis, Xiaomi Privacy Display može se automatski uključiti na osjetljivim stranicama, poput onih za unos lozinki, plaćanja, prijenose sredstava ili slanje poruka.
+
+  Obavijesti aplikacija:
+  Obavijesti odabranih aplikacija prikazuju se uz djelomičnu zaštitu privatnosti kako bi se spriječilo da drugi vide osjetljive podatke."</string>
   <string name="peep_protection_v2_learn_more_scope_desc_global">"Možete odabrati kako Xiaomi Privatnost zaslona radi: na cijelom uređaju, unutar odabranih aplikacija ili unutar obavijesti.
 
-	Privatnost preko cijelog zaslona:
-	Privatnost zaslona bit će omogućena u svakom trenutku kako bi se zaštitio sve na vašem zaslonu. Kada je ova značajka omogućena, pogledi drugih ljudi neće se otkrivati.
+  Privatnost preko cijelog zaslona:
+  Privatnost zaslona bit će omogućena u svakom trenutku kako bi se zaštitio sve na vašem zaslonu. Kada je ova značajka omogućena, pogledi drugih ljudi neće se otkrivati.
 
-	Odabrane aplikacije:
-	Odaberite aplikacije koje želite zaštititi. Kada se prikažu na vašem zaslonu, Xiaomi Privatnost zaslona smanjit će vidljivost sa strane i provjeriti gledaju li ga drugi.
+  Odabrane aplikacije:
+  Odaberite aplikacije koje želite zaštititi. Kada se prikažu na vašem zaslonu, Xiaomi Privatnost zaslona smanjit će vidljivost sa strane i provjeriti gledaju li ga drugi.
 
-	Aplikacija obavijesti:
-	Obavijesti iz vaših odabranih aplikacija prikazivat će se s djelomičnom zaštitom privatnosti kako bi se spriječilo da drugi vide osjetljive informacije.</string>
+  Aplikacija obavijesti:
+  Obavijesti iz vaših odabranih aplikacija prikazivat će se s djelomičnom zaštitom privatnosti kako bi se spriječilo da drugi vide osjetljive informacije.</string>
   <string name="peep_protection_v2_learn_more_scope_title">Privatni zaslon - Opseg</string>
+  <string name="peep_protection_v2_learn_more_smart_desc">Možete koristiti svog AI asistenta za stvaranje i upravljanje grupama aplikacija za zaštitu privatnosti, automatsko uključivanje zaštite privatnosti na cijelom zaslonu na javnim mjestima ili automatsko aktiviranje zaštite za određene grupe aplikacija. Također možete prilagoditi opseg prikaza zaštite privatnosti i pravila aktivacije kako bi funkcionirali u skladu s vašim navikama.</string>
+  <string name="peep_protection_v2_learn_more_smart_title">Prilagođena pravila</string>
   <string name="peep_protection_v2_learn_more_understand_desc">Xiaomi Privatnost zaslona kombinira smanjeni kut gledanja s detekcijom pogleda kako bi vas zaštitio od znatiželjnih očiju iz širokokutnih i krupnih kutova gledanja, pružajući potpuniju zaštitu privatnosti.
 
-	Smanjeni kut gledanja:
-	Podešavanjem svjetline zaslona na razini piksela, sadržaj zaslona postaje sve teže čitljiv kako se kut gledanja povećava. To pomaže u smanjenju rizika da drugi vide vaš sadržaj. Vaši podaci.
+  Smanjeni kut gledanja:
+  Podešavanjem svjetline zaslona na razini piksela, sadržaj zaslona postaje sve teže čitljiv kako se kut gledanja povećava. To pomaže u smanjenju rizika da drugi vide vaš sadržaj. Vaši podaci.
 
-	Obavijest o privatnosti:
-	Osim gledanja pod kutom, sustav vas može upozoriti kada otkrije da netko drugi osim vas gleda zaslon straga ili iz drugog uskog kuta.</string>
+  Obavijest o privatnosti:
+  Osim gledanja pod kutom, sustav vas može upozoriti kada otkrije da netko drugi osim vas gleda zaslon straga ili iz drugog uskog kuta.</string>
   <string name="peep_protection_v2_learn_more_understand_title">O Xiaomi Privatnosti zaslona</string>
   <string name="peep_protection_v2_main_body">Vidljivost zaslona pod kutom bit će ograničena. Uređaj će provjeriti gleda li netko drugi zaslon i obavijestiti vas kada otkrije pogled druge osobe. (kliknite)Saznajte više(/kliknite)</string>
   <string name="peep_protection_v2_main_desc">Zaštitite svoj zaslon od znatiželjnih pogleda</string>
   <string name="peep_protection_v2_main_switch">Xiaomi Privatnost zaslona</string>
+  <string name="peep_protection_v2_main_switch_desc">"Koristite prikaz zaštite privatnosti i otkrivanje pogleda druge osobe"</string>
+  <string name="peep_protection_v2_main_switch_desc_v2">Omogućite uređaju uključivanje prikaza zaštite privatnosti na temelju odabranog scenarija</string>
   <string name="peep_protection_v2_main_switch_title_v2">Xiaomi Privatnost zaslona</string>
   <string name="peep_protection_v2_main_tile_label">Xiaomi Privatnost zaslona</string>
+  <string name="peep_protection_v2_move_app_title_v2">Premjesti %s u</string>
+  <string name="peep_protection_v2_move_app_to_category">Premjesti %s u grupu</string>
   <string name="peep_protection_v2_notification_protection">Privatni zaslon u Obavijestima</string>
   <string name="peep_protection_v2_notification_protection_desc">Obavijesti iz odabranih aplikacija aktivirat će Privatnost zaslona</string>
+  <string name="peep_protection_v2_notification_protection_desc_v2">Obavijesti odabranih aplikacija prikazuju se uz djelomičnu zaštitu privatnosti</string>
+  <string name="peep_protection_v2_notify_type_desc">"Bit ćete obaviješteni kada se otkrije pogled druge osobe"</string>
+  <string name="peep_protection_v2_notify_type_title">Obavijest o privatnosti</string>
+  <string name="peep_protection_v2_page_detail_category_title">Sljedeće stranice u ovoj aplikaciji zaštićene su prikazom zaštite privatnosti</string>
+  <string name="peep_protection_v2_page_protection_desc">Uključite prikaz zaštite privatnosti za određene stranice</string>
+  <string name="peep_protection_v2_peep_detection_desc_v2">Otkrivanje pogleda i slanje obavijesti</string>
+  <string name="peep_protection_v2_peep_island_action_dismiss_v2">Zanemari</string>
+  <string name="peep_protection_v2_peep_island_subtitle_v2">"Više neću podsjećati"</string>
+  <string name="peep_protection_v2_privacy_statement">"Ova značajka upotrebljava podatke o licu za otkrivanje pogleda. Svi se podaci obrađuju na vašem uređaju i neće se dijeliti."</string>
+  <string name="peep_protection_v2_recommend_title">Preporučene aplikacije</string>
   <string name="peep_protection_v2_search_app">Privatnost zaslona za aplikacije;Prikaži privatnost za aplikacije;Odabrane aplikacije</string>
   <string name="peep_protection_v2_search_empty_hint">Rezultati pretraživanja prikazat će se ovdje</string>
   <string name="peep_protection_v2_search_global">Privatnost zaslona preko cijelog zaslona; cijeli zaslon</string>
+  <string name="peep_protection_v2_search_hint">Pretraži aplikacije</string>
   <string name="peep_protection_v2_search_keywords_1">Privatnost zaslona</string>
+  <string name="peep_protection_v2_search_keywords_2">Pixel</string>
+  <string name="peep_protection_v2_search_keywords_3">Pogled</string>
+  <string name="peep_protection_v2_search_no_result">"Nije pronađen nijedan rezultat"</string>
   <string name="peep_protection_v2_search_notification">Privatnost zaslona za obavijesti; privatnost prikaza za obavijesti; Obavijesti aplikacija</string>
   <string name="peep_protection_v2_search_notify_type">Obavijest o privatnosti;otkrivanje pogleda;zaštita privatnosti;upozorenje na pogled</string>
+  <string name="peep_protection_v2_search_page">Prikaz zaštite privatnosti na stranicama; zaštita privatnosti za stranice</string>
+  <string name="peep_protection_v2_search_smart_enable">Pametno aktiviranje; automatski prikaz zaštite privatnosti</string>
+  <string name="peep_protection_v2_select_apps">Odabrane aplikacije</string>
+  <string name="peep_protection_v2_select_apps_category_tip">Grupe aplikacija za zaštitu privatnosti možete stvarati, uređivati, uklanjati ili preimenovati u (click)Xiaomi Hyper XiaoAi(/click)</string>
+  <string name="peep_protection_v2_select_apps_category_tip_v2">"U Pro načinu rada aplikacije Xiaomi Hyper XiaoAi možete stvarati, uređivati, uklanjati ili preimenovati kategorije aplikacija za zaštitu privatnosti"</string>
+  <string name="peep_protection_v2_smart_enable">Pametno aktiviranje</string>
+  <string name="peep_protection_v2_smart_enable_create_strategy_desc">U aplikaciji Xiaomi Hyper XiaoAi možete stvoriti pravila za zaštitu privatnosti na temelju mjesta koja često posjećujete. Kada stignete na određenu lokaciju, zaštita privatnosti automatski će se uključiti ili isključiti.</string>
+  <string name="peep_protection_v2_smart_enable_create_strategy_title">Stvori pametno pravilo</string>
+  <string name="peep_protection_v2_smart_enable_desc_v2">Stvorite pravila za zaštitu privatnosti na temelju lokacije</string>
+  <string name="peep_protection_v2_smart_enable_no_strategy_hint">Još nema pravila. Stvorite pravila za pametno aktiviranje na temelju lokacije u aplikaciji Xiaomi Hyper XiaoAi.</string>
+  <string name="peep_protection_v2_smart_enable_no_strategy_hint_v2">Još nema pravila. U (click)Xiaomi Hyper XiaoAi(click) možete stvoriti pametna pravila aktivacije temeljena na lokaciji.</string>
+  <string name="peep_protection_v2_smart_enable_page_desc">"U (click)Xiaomi Hyper XiaoAi(/click) možete postaviti pametna pravila temeljena na lokaciji, poput automatskog uključivanja zaštite privatnosti na cijelom zaslonu kada se nalazite u podzemnoj željeznici. Kada stignete na određenu lokaciju, zaštita privatnosti na zaslonu uključit će se prema vašem pravilu."</string>
+  <string name="peep_protection_v2_smart_enable_page_desc_v2">"U načinu rada Pro unutar Xiaomi Hyper XiaoAi možete postaviti pametna pravila aktivacije temeljena na lokaciji, kao što je: „Automatski uključi zaštitu privatnosti na cijelom zaslonu kada sam u podzemnoj željeznici”. Kada stignete na određenu lokaciju, zaštita privatnosti na zaslonu automatski će se uključiti u skladu s vašim pravilima."</string>
+  <string name="peep_protection_v2_smart_enable_prompt">Pomozi mi stvoriti pravilo za zaštitu privatnosti na zaslonu: često koristim telefon u podzemnoj željeznici i kafićima. Stvori pravila za te situacije i automatski uključi zaštitu privatnosti na zaslonu za društvene mreže i financijske aplikacije kada stignem na te lokacije.</string>
+  <string name="peep_protection_v2_smart_enable_prompt_copied">Uspješno kopirano</string>
+  <string name="peep_protection_v2_smart_enable_sio_unavailable">Omogućite pristup kako biste mogli koristiti ovu značajku</string>
+  <string name="peep_protection_v2_smart_enable_switch_desc">Prepoznajte situacije i automatski uključite ili isključite zaštitu privatnosti na zaslonu</string>
+  <string name="peep_protection_v2_smart_enable_wifi_tip">Ostavite Wi-Fi uključenim kako bi se pametna pravila preciznije aktivirala. Neke lokacije mogle bi biti prepoznate sa zakašnjenjem ili uopće ne biti prepoznate ako je Wi-Fi isključen.</string>
+  <string name="peep_protection_v2_smart_enable_wifi_tip_china">Ostavite WLAN uključenim kako bi se pametna pravila preciznije aktivirala. Neke lokacije mogu biti prepoznate sa zakašnjenjem ili uopće ne moraju biti prepoznate kada je WLAN isključen.</string>
+  <string name="peep_protection_v2_smart_page_active_list">Zaštićene su određene stranice u sljedećim aplikacijama</string>
+  <string name="peep_protection_v2_smart_page_header_title">Automatski se uključuje za određene osjetljive stranice</string>
+  <string name="peep_protection_v2_smart_page_intro">Čak i ako zaboravite dodati neke aplikacije, zaštita privatnosti na zaslonu automatski će se uključiti kada otvorite osjetljive stranice, poput onih za unos lozinki, plaćanja, prijenose sredstava ili razmjenu poruka.</string>
+  <string name="peep_protection_v2_smart_page_switch_title">Zaštita privatnosti na stranicama</string>
+  <string name="peep_protection_v2_status_off">Isključeno</string>
+  <string name="peep_protection_v2_status_on">Uključeno</string>
   <string name="peep_protection_v2_strategy_action_disable_category">Onemogući Privatnost zaslona za %s</string>
+  <string name="peep_protection_v2_strategy_action_disable_deep">Isključi naprednu privatnost</string>
   <string name="peep_protection_v2_strategy_action_disable_default">Onemogući Privatnost zaslona</string>
   <string name="peep_protection_v2_strategy_action_disable_global">Onemogući privatnost preko cijelog zaslona</string>
   <string name="peep_protection_v2_strategy_action_disable_target">Onemogući Privatnost zaslona za %s</string>
   <string name="peep_protection_v2_strategy_action_enable_category">Omogući Privatnost zaslona za %s</string>
+  <string name="peep_protection_v2_strategy_action_enable_deep">Uključi naprednu privatnost</string>
   <string name="peep_protection_v2_strategy_action_enable_default">Omogući Privatnost zaslona</string>
   <string name="peep_protection_v2_strategy_action_enable_global">Omogući privatnost preko cijelog zaslona</string>
   <string name="peep_protection_v2_strategy_action_enable_target">Omogući Privatnost zaslona za %s</string>
+  <string name="peep_protection_v2_strategy_action_fallback">Zaštita od neželjenih pogleda</string>
+  <string name="peep_protection_v2_strategy_action_separator_leave">; pri odlasku</string>
+  <string name="peep_protection_v2_strategy_arrive_condition">Pri dolasku na %1$s</string>
+  <string name="peep_protection_v2_strategy_auto_desc">Dolazak na %1$s, automatski %2$s</string>
+  <string name="peep_protection_v2_strategy_auto_title">%1$s: %2$s</string>
+  <string name="peep_protection_v2_strategy_delete">Izbriši</string>
+  <string name="peep_protection_v2_strategy_delete_confirm_msg">Trajno izbrisati ovo pravilo?</string>
+  <string name="peep_protection_v2_strategy_delete_confirm_title">Izbrisati ovo pravilo?</string>
+  <string name="peep_protection_v2_strategy_detail_title">Pametna pravila</string>
+  <string name="peep_protection_v2_strategy_edit_desc_hint">Opis</string>
+  <string name="peep_protection_v2_strategy_edit_main_title_hint">Naslov</string>
+  <string name="peep_protection_v2_strategy_edit_title">Uredi</string>
+  <string name="peep_protection_v2_strategy_edit_title_hint">Unesite novi naziv pravila</string>
+  <string name="peep_protection_v2_strategy_edit_title_v2">Uredi naslov</string>
+  <string name="peep_protection_v2_strategy_go_miclaw">Prilagodi pravila</string>
+  <string name="peep_protection_v2_strategy_leave_condition">Pri odlasku s %1$s</string>
   <string name="peep_protection_v2_strategy_notify_on_trigger">Obavijesti kada je omogućena Privatnost zaslona</string>
+  <string name="peep_protection_v2_strategy_prompt_copied">Uspješno kopirano</string>
+  <string name="peep_protection_v2_strategy_prompt_template">Pomozite mi izmijeniti pravilo za prikaz privatnosti „%1$s” i prilagodite njegove postavke.</string>
+  <string name="peep_protection_v2_strategy_unknown_location">Nepoznata lokacija</string>
+  <string name="peep_protection_v2_thermal_paused_toast">Obavijest o privatnosti ponovno će se prikazivati ​​nakon što se uređaj ohladi</string>
   <string name="peep_protection_v2_tile_label">Privatnost preko cijelog zaslona</string>
   <string name="peep_protection_v2_title">Xiaomi Privatnost zaslona</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
@@ -5600,6 +5763,9 @@ Način otpornosti na hladnoću"</string>
   <string name="permission_close_permission_control_dialog_msg">"Kada je Upravitelj dopuštenja isključen, aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja."</string>
   <string name="permission_close_permission_control_dialog_title">Isključiti?</string>
   <string name="permission_compatibility_dialog_message">Ova je aplikacija dizajnirana za stariju verziju Androida. Uskraćivanje dopuštenja može spriječiti pravilan rad.</string>
+  <string name="permission_compatibility_dialog_negative_btn">Odustani</string>
+  <string name="permission_compatibility_dialog_positive_btn">Odbijam</string>
+  <string name="permission_compatibility_dialog_title">Ova aplikacija možda neće ispravno raditi</string>
   <string name="permission_exception_title">Ograničena veza za aplikacije</string>
   <string name="permission_group_audio">Ovo dopuštenje aplikacijama omogućuje pristup glazbi i drugim audio datotekama pohranjenim na ovom uređaju.</string>
   <string name="permission_group_calendar">Ovo dopuštenje aplikacijama omogućuje pristup, dodavanje, brisanje i uređivanje događaja u kalendaru.</string>
@@ -5886,6 +6052,7 @@ Način otpornosti na hladnoću"</string>
   <string name="power_center_battery_detail">Detalji</string>
   <string name="power_center_battery_duration">Preostalo vrijeme</string>
   <string name="power_center_battery_duration_format">%1$s %2$s</string>
+  <string name="power_center_battery_duration_new">Preostalo vrijeme rada zaslona</string>
   <string name="power_center_battery_duration_screen_on">Preostalo vrijeme zaslona</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_battery_hardware">Hardware %s</string>

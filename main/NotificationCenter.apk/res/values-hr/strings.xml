@@ -51,7 +51,7 @@ Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne pod
 Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaomi, ali mi nećemo pohranjivati ​​te podatke."</string>
   <string name="ai_notification_summary">Sažetak AI obavijesti pruža pametne sažetke ključnih informacija iz obavijesti. Ova značajka malo će povećati potrošnju energije.</string>
   <string name="ai_notification_title">Sažetak AI obavijesti</string>
-  <string name="ai_public_link">&lt;Data&gt;Registarski broj: &amp;lt;a href=https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm&amp;gt;Beijing-XiaoMiDuanCeWenBen-202412100047&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="ai_public_link">&lt;Data&gt;Registarski broj: &lt;a href=https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm&gt;Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a&gt;&lt;/Data&gt;</string>
   <string name="ai_public_name">Naziv modela: Xiaomi tekst na uređaju</string>
   <string name="ai_public_title">Javno obavještenje</string>
   <string name="aon_message">Kako bi se utvrdilo gleda li više osoba u zaslon, ova će značajka pristupiti prednjoj kameri kada se prikaže plutajuća obavijest. Prikupljene slike koriste se samo za analizu na uređaju broja ljudi koji gledaju u ekran. Kada se otkrije više osoba, sadržaj obavijesti bit će skriven prema zadanim postavkama.</string>
@@ -66,6 +66,8 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="aon_title">Odricanje od odgovornosti</string>
   <string name="app_name">Obavijesti</string>
   <string name="back">Natrag</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="cancel">Odustani</string>
   <string name="category_other">Ostalo</string>
   <string name="channel_keyguard_hide_content">Prikaži sve obavijesti, ali sakrij sadržaj</string>
@@ -83,19 +85,19 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="confirm">U redu</string>
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
-  <string name="default_list_type">Poredaj po vremenu primitka</string>
   <string name="default_keyguard_notif_state_list">Popis</string>
   <string name="default_keyguard_notif_state_number">Broj</string>
   <string name="default_keyguard_notif_state_stack">Slog</string>
-  <string name="dialog_privacy_text_with_link"><Data>Prije korištenja ove značajke, molimo pročitajte i prihvatite &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>AI brifing Korisnički ugovor&lt;/a></Data><Data> i &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>AI brifing Pravila o privatnosti&lt;/a> prije korištenja ove značajke.</Data></string>
+  <string name="default_list_type">Poredaj po vremenu primitka</string>
+  <string name="dialog_privacy_text_with_link">&lt;Data&gt;Prije korištenja ove značajke, molimo pročitajte i prihvatite &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US&gt;AI brifing Korisnički ugovor&lt;/a&gt;&lt;/Data&gt;&lt;Data&gt; i &lt;a href=https://privacy.mi.com/AISummary/zh_CN/&gt;AI brifing Pravila o privatnosti&lt;/a&gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
   <string name="disable_description_content">"Obavijesti su aplikacija sustava. Ako je onemogućite, nećete moći upravljati obavijestima aplikacije. Svejedno onemogućiti?"</string>
   <string name="disable_description_title">Onemogućiti aplikaciju sustava?</string>
   <string name="disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
   <string name="disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>
   <string name="disable_show_badge_notification">"Značke obavijesti nisu dopuštene"</string>
   <string name="enable_float_notification">Plutajuće obavijesti su dopuštene</string>
-  <string name="enable_lockscreen_notification">Obavijesti Zaklj. zaslona su dopuštene</string>
   <string name="enable_focus_notification">Obavijesti aplikacija</string>
+  <string name="enable_lockscreen_notification">Obavijesti Zaklj. zaslona su dopuštene</string>
   <string name="enable_notification_dialog_cancel">Odustani</string>
   <string name="enable_notification_dialog_message">Dopusti obavijesti aplikacijama da bi mogle koristiti Xiaomi HyperIsland. Dopustiti sada?</string>
   <string name="enable_notification_dialog_submit">Dopusti</string>
@@ -118,11 +120,11 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="float_notification_snooze_summary_until_unlock">Povucite prema gore po plutajuće obavijesti da biste sakrili nadolazeće dok se uređaj ne zaključa</string>
   <string name="float_notifications">Plutajuće obavijesti</string>
   <string name="float_notifications_short">Plutajuće</string>
-  <string name="fold_importance_default">Preporučeno</string>
   <string name="focus_display_callkit">Glasovni i videopozivi</string>
   <string name="focus_display_media">Reprodukcija medija</string>
   <string name="focus_display_no_applications">Nema još ništa</string>
   <string name="focus_display_travel_assistant">Pomoćnik za putovanja</string>
+  <string name="fold_importance_default">Preporučeno</string>
   <string name="fold_importance_important">Važno</string>
   <string name="fold_importance_unimportant">Nevažno</string>
   <string name="fold_title">Pravila za grupirane obavijesti</string>
@@ -168,6 +170,7 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -184,6 +187,7 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Učitavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -307,12 +311,35 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="notification_status_bar">Obavijesti i statusna traka</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
+  <string name="notification_vibration">vibracija</string>
+  <string name="notifications_app_list_entry_description">Postavke za upravljanje time može li svaka aplikacija slati obavijesti, koje obuhvaćaju kontrolu za svaku aplikaciju, sortiranje prema vremenu primanja i pristup stranici s postavkama obavijesti svake aplikacije.</string>
+  <string name="notifications_app_list_itemization_metadata_hint_text">Popis aplikacija.</string>
+  <string name="notifications_app_notification_settings_description">Postavke za obavijesti određene aplikacije, koje obuhvaćaju može li slati obavijesti, Xiaomi HyperIsland, značke, obavijesti na plutajućem i zaključanom zaslonu, zvuk, vibraciju i trajne obavijesti.</string>
+  <string name="notifications_badges_description">Stranica s postavkama za značke obavijesti, gdje korisnici mogu upravljati za svaku aplikaciju jesu li dopuštene značke obavijesti.</string>
+  <string name="notifications_badges_hint_text">Prekidač dopuštenja za značke obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_badges_metadata_hint_text">Prekidač za značku obavijesti aplikacije. Zahtijeva da dopuštenje za obavijesti aplikacije bude omogućeno prije izmjene.</string>
+  <string name="notifications_floating_description">Postavke za plutajuće obavijesti, koje obuhvaćaju pravilo Privremeno sakrij i kontrolu po aplikaciji nad time jesu li dopuštene plutajuće obavijesti.</string>
+  <string name="notifications_floating_hint_text">Prekidač za dopuštenje za plutajuće obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_floating_metadata_hint_text">Prekidač za dopuštenje za obavijesti aplikacije na zaključanom zaslonu. JSON objekt gdje su ključevi nazivi paketa aplikacije, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li omogućeno dopuštenje za obavijesti aplikacije.</string>
+  <string name="notifications_lock_screen_metadata_hint_text">Prekidač za obavijesti aplikacije na zaključanom zaslonu. Za promjenu postavke potrebno je prethodno omogućiti dopuštenje za obavijesti aplikacije.</string>
+  <string name="notifications_lockscreen_description">Postavke za obavijesti na zaključanom zaslonu, koje pokrivaju stil prikaza (popis, stog ili broj), format i kontrolu po aplikaciji nad time jesu li obavijesti na zaključanom zaslonu dopuštene.</string>
+  <string name="notifications_permanent_hint_text">Prekidač dopuštenja za trajne obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_permanent_metadata_hint_text">Prekidač dopuštenja za trajne obavijesti aplikacije. Zahtijeva da dopuštenje za obavijesti aplikacije bude omogućeno prije izmjene.</string>
+  <string name="notifications_show_notification_hint_text">Prekidač dopuštenja za obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (dopusti obavijesti) ili false (blokiraj obavijesti).</string>
+  <string name="notifications_show_notification_metadata_hint_text">Prekidač dopuštenja za obavijesti aplikacije. Nije moguće pisati na međunarodnim verzijama zbog ograničenja pravila o privatnosti; moguće pisanje na domaćim verzijama. Može se mijenjati samo jedna aplikacija istovremeno.</string>
+  <string name="notifications_sound_hint_text">Prekidač dopuštenja za zvuk obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_sound_metadata_hint_text">Prekidač dopuštenja za zvuk obavijesti aplikacije. Zahtijeva da dopuštenje za obavijesti aplikacije bude omogućeno prije izmjene.</string>
+  <string name="notifications_spotlight_hint_text">Prekidač dopuštenja za aplikaciju Xiaomi HyperIsland. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno), false (onemogućeno) ili not_supported (ne podržava Xiaomi HyperIsland). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_spotlight_metadata_hint_text">Prekidač za obavijesti aplikacije Xiaomi HyperIsland. Zahtijeva da dopuštenje za obavijesti aplikacije bude omogućeno prije izmjene.</string>
+  <string name="notifications_status_bar_description">Globalne postavke za obavijesti, statusnu traku i kontrolni centar, koje pokrivaju Xiaomi HyperIsland, zaključani zaslon i plutajuće obavijesti, značke, obavijesti aplikacija, prikaz mobilnog operatera i indikator baterije.</string>
+  <string name="notifications_vibration_hint_text">Prekidač za dopuštenje vibracije obavijesti aplikacije. JSON objekt gdje su ključevi nazivi paketa aplikacija, a vrijednosti su true (omogućeno) ili false (onemogućeno). Ovo dopuštenje ovisi o tome je li dopuštenje za obavijesti aplikacije omogućeno.</string>
+  <string name="notifications_vibration_metadata_hint_text">Prekidač za vibraciju obavijesti aplikacije. Zahtijeva da dopuštenje za obavijesti aplikacije bude omogućeno prije izmjene.</string>
   <string name="off">Isključi</string>
   <string name="on">Uključi</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_text">"Xiaomi mora pristupiti i obraditi sadržaj obavijesti (koji može uključivati ​​privatne podatke) kako bi pružio ovu značajku, ali Xiaomi neće pohranjivati ​​te informacije."</string>
-  <string name="privacy_text_with_link"><Data>Pročitajte naša &lt;a href=https://privacy.mi.com/AISummary/en_US/>AI brifing Pravila o privatnosti&lt;/a></Data><Data> da bi razumjeli kako mi upravljamo vašim podacima. Za više informacija o ovoj usluzi, upućujemo vas na naš &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>AI brifing Korisnički ugovor&lt;/a>.</Data></string>
+  <string name="privacy_text_with_link">&lt;Data&gt;Pročitajte naša &lt;a href=https://privacy.mi.com/AISummary/en_US/&gt;AI brifing Pravila o privatnosti&lt;/a&gt;&lt;/Data&gt;&lt;Data&gt; da bi razumjeli kako mi upravljamo vašim podacima. Za više informacija o ovoj usluzi, upućujemo vas na naš &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US&gt;AI brifing Korisnički ugovor&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="privacy_title">Odredbe i uvjeti</string>
   <string name="rule_keyguard_display">%s preferenci</string>
   <string name="saturday">Subota</string>
@@ -325,7 +352,6 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="show_badge_notifications">Značke obavijesti</string>
   <string name="show_badge_notifications_short">Značke</string>
   <string name="show_weather">Prikaži informacije o vremenu</string>
-   <string name="summary_lock_notification_style">Zaslon</string>
   <string name="status_bar_setting">Traka statusa</string>
   <string name="summary_aggregate_default">Promotivne i sadržajne push obavijesti bit će grupirane</string>
   <string name="summary_aggregate_home">"Push obavijesti neće se grupirati"</string>
@@ -339,6 +365,7 @@ Sadržaj sažetka, uključujući sve privatne podatke u njemu, obradit će Xiaom
   <string name="summary_fold_importance_default">MIUI će odlučiti koje će se obavijesti izravno pojaviti</string>
   <string name="summary_fold_importance_important">Obavijest će se pojaviti u Panelu obavijesti</string>
   <string name="summary_fold_importance_unimportant">Obavijest će se pojaviti u zasebnoj mapi</string>
+  <string name="summary_lock_notification_style">Zaslon</string>
   <string name="summary_lock_screen_enable_notification_first">Dopustite obavijesti da biste mogli uključiti obavijesti Zaklj. zaslona</string>
   <string name="summary_show_badge_enable_notification_first">Dopustite obavijesti da biste mogli uključiti značke obavijesti</string>
   <string name="sunday">Nedjelja</string>

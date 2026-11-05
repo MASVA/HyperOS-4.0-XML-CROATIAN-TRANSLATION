@@ -366,6 +366,7 @@
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
   <string name="miuix_navigator_toolbar_screen_bottom">Alatna traka na dnu zaslona</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>

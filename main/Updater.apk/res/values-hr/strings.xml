@@ -95,6 +95,8 @@
   <string name="button_text_reboot_hm">Ponovo pokrenite sada</string>
   <string name="button_text_show">Instalirane zakrpe</string>
   <string name="button_text_update">Preuzmi ažuriranje</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Video</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -129,6 +131,25 @@
   <string name="clean_up_button">Počisti</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close">Zatvori</string>
+  <string name="common_google_play_services_enable_button">Omogući</string>
+  <string name="common_google_play_services_enable_text">"%1$s neće raditi osim ako ne omogućite usluge Google Play."</string>
+  <string name="common_google_play_services_enable_title">Omogući usluge Google Play</string>
+  <string name="common_google_play_services_install_button">Instaliraj</string>
+  <string name="common_google_play_services_install_text">"%1$s neće raditi bez usluga Google Play, koje nedostaju na vašem uređaju."</string>
+  <string name="common_google_play_services_install_title">Preuzmi usluge Google Play</string>
+  <string name="common_google_play_services_notification_channel_name">Dostupnost usluga Google Play</string>
+  <string name="common_google_play_services_notification_ticker">Pogreška usluga Google Play</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima problema s uslugama Google Play. Pokušajte ponovno.</string>
+  <string name="common_google_play_services_unsupported_text">"%1$s neće raditi bez usluga Google Play, koje vaš uređaj ne podržava."</string>
+  <string name="common_google_play_services_update_button">Ažuriraj</string>
+  <string name="common_google_play_services_update_text">"%1$s neće raditi osim ako ne ažurirate usluge Google Play."</string>
+  <string name="common_google_play_services_update_title">Ažuriraj usluge Google Play</string>
+  <string name="common_google_play_services_updating_text">"%1$s neće raditi bez usluga Google Play, koje se trenutno ažuriraju."</string>
+  <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
+  <string name="common_open_on_phone">Otvori na telefonu</string>
+  <string name="common_signin_button_text">Prijava</string>
+  <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+  <string name="community_error_tip">Prvo instalirajte Xiaomi Community</string>
   <string name="confirm_local_package_wipe_btn">Brisanje i ažuriranje</string>
   <string name="confirm_local_package_wipe_msg">Vaši osobni podaci bit će izbrisani. Obavezno napravite sigurnosnu kopiju svega što želite zadržati prije nastavka.</string>
   <string name="confirm_local_package_wipe_msg_pad">Vaši osobni podaci bit će izbrisani. Obavezno napravite sigurnosnu kopiju svega što želite zadržati prije nastavka.</string>
@@ -261,6 +282,7 @@
   <string name="fastboot_desc">Uređaj će se ponovno pokrenuti u Fastboot način. Ako niste upoznati s Fastboot načinom otkažite buduće radnje. Nastaviti?</string>
   <string name="fastboot_mode">Sada ste u Fastboot načinu, možete flashati samo ROM-ove s Terminal na računalu!</string>
   <string name="fastboot_update_warning">Ovo ažuriranje je samo za fastboot instalaciju!</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="fetch_notification_default_channel_name">Preuzimanja</string>
   <string name="fetch_notification_download_cancel">Odustani</string>
   <string name="fetch_notification_download_complete">Dovršeno</string>
@@ -320,6 +342,7 @@ Podaci neće biti izbrisani."</string>
   <string name="later_download">Preuzmi kasnije</string>
   <string name="loading">Tražim…</string>
   <string name="log_share">Dijeli</string>
+  <string name="log_status_disable_info">"Sustav se ne može ažurirati dok uređaj koristi veličinu stranice od %1$d KB. Isključite opcije za razvojne programere ili isključite opciju „Pokreni s veličinom stranice od 16 KB” unutar opcija za razvojne programere, a zatim pokušajte ponovno ažurirati."</string>
   <string name="log_status_locked_info">"Nemate dopuštenja za pristup dnevniku ažuriranja."</string>
   <string name="log_status_locked_summary">Provjerite ima li račun s kojim ste se prijavili potrebna dopuštenja.</string>
   <string name="master_clear_apply_title">Pažnja</string>
@@ -359,6 +382,7 @@ Podaci neće biti izbrisani."</string>
   <string name="miui_summary_slogan">" Pojednostavite svoj život "</string>
   <string name="miui_summary_updating">" Ažuriranje… "</string>
   <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
@@ -368,6 +392,7 @@ Podaci neće biti izbrisani."</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
@@ -391,6 +416,7 @@ Podaci neće biti izbrisani."</string>
   <string name="miuix_navigator_multiple_choice">Odaberi</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -466,6 +492,7 @@ Podaci neće biti izbrisani."</string>
   <string name="no_wifi_no_auto_msg_china">"Sada koristite mobilnu mrežu. Preuzimanje ažuriranja može generirati dodatne naknade za prijenos podataka. Možete preuzeti ažuriranja sada ili pričekati dok se vaš uređaj ne poveže na Wi-Fi i automatski instalira ažuriranja."</string>
   <string name="no_wifi_no_auto_msg_kr">"Čini se da sada koristite mobilne podatke. Za preuzimanje ažuriranja povežite se na Wi-Fi i pokušajte ponovno ili pričekajte da se ažuriranja automatski instaliraju."</string>
   <string name="no_wifi_title">Poveži se na Wi-Fi</string>
+  <string name="no_wifi_title_china">Poveži se na Wi-Fi</string>
   <string name="no_xioamieu">"Ne koristite HyperOS ROM izrađen od strane Xiaomi.eu tima!
 Ažuriranja za vas nisu dostupna!"</string>
   <string name="not_open">Ne</string>
@@ -481,6 +508,7 @@ Ažuriranja za vas nisu dostupna!"</string>
   <string name="notification_delay_update_no_update">"Ažuriranja nisu primijenjena"</string>
   <string name="notification_delay_update_shutdown">Čini se da je uređaj noću bio isključen</string>
   <string name="notification_downloading">Preuzimanje ažuriranja…</string>
+  <string name="notification_downloading_process_title">Napredak preuzimanja</string>
   <string name="notification_express_available">Vaše ažuriranje (%1$s) spremno je za preuzimanje</string>
   <string name="notification_express_ready">Vaše ažuriranje (%1$s) spremno je za instaliranje</string>
   <string name="notification_fail_msg">Preuzmite ROM i pokušajte ponovno ažurirati</string>
@@ -491,11 +519,13 @@ Ažuriranja za vas nisu dostupna!"</string>
   <string name="notification_load_body_dev">Nabavite najnovija ažuriranja za svoj uređaj.</string>
   <string name="notification_load_title_alpha">Prijavite se na svoj Mi račun</string>
   <string name="notification_load_title_dev">Prijavite se na svoj Mi račun</string>
+  <string name="notification_optimizing">Optimiziranje sustava</string>
   <string name="notification_reboot_btn">Ponovo pokreni</string>
   <string name="notification_reboot_on_summary_hm">"Ako sada ne pokrenete sustav ponovno, vaš će se uređaj večeras automatski ponovno pokrenuti."</string>
   <string name="notification_reboot_seccess_des">Dodirnite za pregled informacija o ažuriranju.</string>
   <string name="notification_reboot_seccess_title">Sustav je uspješno ažuriran</string>
   <string name="notification_reboot_summary_hm">Dodirnite za ponovno pokretanje uređaja.</string>
+  <string name="notification_reboot_summary_hm_xms">Neke će značajke stupiti na snagu nakon ponovnog pokretanja. Dodirnite za ponovno pokretanje uređaja.</string>
   <string name="notification_reboot_title">Ponovo pokrenite sustav za primjenu ažuriranja</string>
   <string name="notification_reboot_title_hm">Ažuriranja su spremna za instalaciju</string>
   <string name="notification_restart">Ponovo ažuriraj</string>
@@ -513,6 +543,7 @@ Ažuriranja za vas nisu dostupna!"</string>
   <string name="open_addition_toast">Dodatne značajke ažuriranja su uključene</string>
   <string name="open_auto_download">Automatsko preuzimanje</string>
   <string name="open_now">Da</string>
+  <string name="optimize_title">Optimiziranje sustava %s</string>
   <string name="other_setting">Ostalo</string>
   <string name="participate_in_discussion">Podijelite svoja razmišljanja</string>
   <string name="particular_build">Poseban</string>
@@ -678,5 +709,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="weekly">Beta</string>
   <string name="weekly_build">Tjedno</string>
   <string name="wifi_recommended">Povežite se na Wi-Fi za preuzimanje ažuriranja!</string>
+  <string name="xms_app_updated_title">Sljedeće su aplikacije ažurirane</string>
+  <string name="xms_install_failed_summary">"Neke stavke nije bilo moguće ažurirati. Ponovno pokrenite uređaj kako bi dovršena ažuriranja stupila na snagu. Želite li odmah ponovno pokrenuti uređaj?"</string>
+  <string name="xms_part_update_fail_content">"Neke stavke nije bilo moguće ažurirati. Pokušajte ponovno."</string>
   <string name="yesterday">Jučer</string>
 </resources>

@@ -40,6 +40,8 @@
   <string name="button_start_now">Započni sad</string>
   <string name="button_wait_for_wifi">Čekaj</string>
   <string name="byteShort">B</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="channel_active">Aktivno preuzimanje</string>
   <string name="channel_complete">Preuzimanje je dovršeno</string>
   <string name="channel_insufficient_space">Nedovoljno prostora</string>
@@ -137,6 +139,7 @@
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -193,6 +196,7 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="notif_text_engine_off">Preuzimanje…</string>
   <string name="notif_text_engine_on">Preuzimanje…</string>
+  <string name="notif_title_file_size">%1$d ukupno</string>
   <string name="notif_title_multiple_downloading">Preuzimanje: %1$d</string>
   <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
   <string name="notification_download_complete">Preuzimanje dovršeno</string>

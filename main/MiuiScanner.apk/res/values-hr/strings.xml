@@ -87,6 +87,8 @@
   <string name="call_phone_permissions_text">Odobrite pristup dopuštenjima poziva kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="calories_logo_text">AI podršku pruža Health Hope</string>
   <string name="calories_request_interface_text">AI podrška</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="camera_permissions_text">Odobrite dopuštenje za pristup kameri kako biste mogli koristiti skener. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="camera_stealth_mode_message">Povezivanje s kamerom nije moguće. Ako je potrebna kamera, isključite Prikriveni način rada.</string>
@@ -516,6 +518,7 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>

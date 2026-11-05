@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
@@ -33,7 +33,7 @@
   <string name="accessibility_data_signal_full">Podatkovni signal pun.</string>
   <string name="accessibility_data_three_bars">Podatkovni signal tri stupca.</string>
   <string name="accessibility_data_two_bars">Podatkovni signal dva stupca.</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:&lt;br/&gt;&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;vidjeti boje točnije&lt;/li&gt; &lt;li&gt;&amp;nbsp;ukloniti boje kako biste se lakše usredotočili.&lt;/li&gt; &lt;/ol&gt;</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikazivanja boja na svojem uređaju. To može biti korisno kad želite:&lt;br/&gt;&lt;br/&gt; &lt;ol&gt; &lt;li&gt; vidjeti boje točnije&lt;/li&gt; &lt;li&gt; ukloniti boje kako biste se lakše usredotočili.&lt;/li&gt; &lt;/ol&gt;</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boja</string>
   <string name="accessibility_ethernet_connected">Ethernet.</string>
   <string name="accessibility_ethernet_disconnected">Prekinuta je veza s ethernetom.</string>
@@ -273,6 +273,8 @@ Audio"</string>
   <string name="cached_apps_freezer_disabled">Onemogućeno</string>
   <string name="cached_apps_freezer_enabled">Omogućeno</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="callFailed_already_ringing">Nije moguće uputiti poziv jer postoji neodgovoreni dolazni poziv. Odgovorite ili odbijte dolazni poziv prije upućivanja novog poziva.</string>
   <string name="callFailed_concurrent_calls_not_possible">Poziv je završio zbog istovremenih poziva koji nisu mogući.</string>
   <string name="callFailed_outgoing_already_present">Nije moguće uputiti poziv jer se već spaja drugi poziv. Pričekajte da se na poziv odgovori ili ga prekinite prije upućivanja drugog poziva.</string>
@@ -384,9 +386,9 @@ Audio"</string>
   <string name="data_usage_ota">Ažuriranja sustava</string>
   <string name="data_usage_uninstalled_apps">Uklonjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Uklonjene aplikacije i korisnici</string>
-  <string name="date_picker_label_day" />
-  <string name="date_picker_label_month" />
-  <string name="date_picker_label_year" />
+  <string name="date_picker_label_day"></string>
+  <string name="date_picker_label_month"></string>
+  <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Kineski tradicionalni kalendar</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="debug_app">Aplikacija za otklanjanje pogrešaka</string>
@@ -409,7 +411,7 @@ Audio"</string>
   <string name="delete_blob_confirmation_text">Jeste li sigurni da želite izbrisati te dijeljene podatke?</string>
   <string name="delete_blob_text">Izbriši dijeljene podatke</string>
   <string name="delete_icon_description">Deblokiranje</string>
-  <string name="denied_required_permission">Dopuštenja su uskraćena. Možete ih promijeniti u Postavke > Aplikacije.</string>
+  <string name="denied_required_permission">Dopuštenja su uskraćena. Možete ih promijeniti u Postavke &gt; Aplikacije.</string>
   <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
   <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
@@ -433,7 +435,7 @@ Audio"</string>
   <string name="duplicate_video_call_not_allowed">Ne mogu dodati više poziva.</string>
   <string name="early_morning">Jutro</string>
   <string name="emergencyCall_reject_mmi">MMI kodovi se ne mogu birati tijekom hitnog poziva.</string>
-  <string name="empty" />
+  <string name="empty"></string>
   <string name="enable_account_preference_title">Računi za pozivanje</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
@@ -498,7 +500,7 @@ Audio"</string>
   <string name="ims_reg_status_not_registered">Nije registrirano</string>
   <string name="ims_reg_status_registered">Registrirano</string>
   <string name="ims_reg_title">Stanje registracije IMS-a</string>
-  <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+  <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt;</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
@@ -563,6 +565,7 @@ I dalje možete upućivati hitne pozive.""</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -579,6 +582,7 @@ I dalje možete upućivati hitne pozive.""</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -868,7 +872,7 @@ bezuvjetno"</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_failure_format">"Poruku nije moguće poslati %s."</string>
   <string name="respond_via_sms_menu_reset_default_activity">Vraćanje zadane aplikacije.</string>
-  <string name="respond_via_sms_setting_summary" />
+  <string name="respond_via_sms_setting_summary"></string>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="respond_via_sms_setting_title_2">Uređivanje brzih odgovora</string>
   <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
@@ -958,7 +962,7 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_empty" />
+  <string name="summary_empty"></string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
@@ -1212,7 +1216,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifitrackerlib_connected_via_app">Povezano putem aplikacije %1$s</string>
   <string name="wifitrackerlib_connected_via_network_scorer">Automatski povezano putem aplikacije %1$s</string>
   <string name="wifitrackerlib_connected_via_network_scorer_default">Automatski povezano putem ocjenjivača mreže</string>
-  <string name="wifitrackerlib_imsi_protection_warning">Ova mreža prima ID SIM-a koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+  <string name="wifitrackerlib_imsi_protection_warning">Ova mreža prima ID SIM-a koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt;</string>
   <string name="wifitrackerlib_osu_completing_sign_up">Dovršavanje registracije…</string>
   <string name="wifitrackerlib_osu_connect_failed">Povezivanje nije uspjelo</string>
   <string name="wifitrackerlib_osu_opening_provider">Otvaranje usluge %1$s</string>

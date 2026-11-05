@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="alarm_repeat_type">
         <item>Jednom</item>
@@ -168,25 +167,19 @@
         <item>Uravnoteženo</item>
         <item>Visoka kvaliteta</item>
      </string-array>
+	  <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Uravnoteženo</item>
+        <item>Zadano</item>
+     </string-array>
      <string-array name="gb_gpu_custom_texture">
         <item>Visoka brzina</item>
         <item>Uravnoteženo</item>
         <item>Visoka kvaliteta</item>
      </string-array>
-     <string-array name="gb_voice_change_gender">
-        <item>@string/gb_voice_changer_gender_man</item>
-        <item>@string/gb_voice_changer_gender_female</item>
-     </string-array>
-     <string-array name="input_package_names">
-        <item>com.baidu.input_mi</item>
-        <item>com.iflytek.inputmethod.miui</item>
-        <item>com.sohu.inputmethod.sogou.xiaomi</item>
-     </string-array>
-     <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
+	  <string-array name="gb_gpu_custom_texture_value">
+       <item>Najbrže</item>
+       <item>Uravnoteženo</item>
+       <item>Zadano</item>
      </string-array>
      <string-array name="lock_mode">
         <item>Zaključaj kad je uređaj zaključan</item>
@@ -222,26 +215,6 @@
         <item>8 sek.</item>
         <item>9 sek.</item>
      </string-array>
-     <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-     </string-array>
-     <string-array name="operate_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-     </string-array>
-     <string-array name="operate_memory_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
      <string-array name="over_limit_traffic_waring_style">
         <item>Pokaži upozorenje</item>
         <item>Upozori i isključi mobilne podatke</item>
@@ -275,26 +248,12 @@
         <item>HuiZhou GanFeng LiEnergy Battery Technology Co.,Ltd.</item>
         <item>XinYu GanFeng Electronics Co., LTD</item>
      </string-array>
-     <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-     </string-array>
      <string-array name="pc_fast_charge_entry">
         <item>10%</item>
         <item>20%</item>
         <item>30%</item>
         <item>40%</item>
         <item>50%</item>
-     </string-array>
-     <string-array name="pc_fast_charge_entry_value">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
      </string-array>
      <string-array name="pc_settings_thermal_entries">
         <item>Zadano</item>
@@ -303,6 +262,16 @@
      <string-array name="pc_settings_thermal_summaries">
         <item>Korištenje zadanog načina kontrole temperature</item>
         <item>Davanje prioriteta performansama</item>
+     </string-array>
+	      <string-array name="peep_protection_v2_notify_types">
+        <item>Xiaomi HyperIsland</item>
+        <item>Vibracija</item>
+        <item>Isključeno</item>
+     </string-array>
+     <string-array name="peep_protection_v2_notify_types_v2">
+        <item>Xiaomi HyperIsland</item>
+        <item>Vibracija</item>
+        <item>Isključeno</item>
      </string-array>
      <string-array name="perm_intercept_notification">
         <item>Pročitajte sve svoje obavijesti, uključujući sadržaj vaših tekstualnih poruka i drugih stavki koje mogu sadržavati osobne podatke</item>

@@ -863,6 +863,14 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d-dana</item>
         <item quantity="one">%d-dan</item>
      </plurals>
+	  <plurals name="pc_battery_text_hour">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+     </plurals>
+     <plurals name="pc_battery_text_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>
@@ -931,6 +939,22 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d sek. od posljednjeg punjenja</item>
         <item quantity="one">%d sek. od posljednjeg punjenja</item>
     </plurals>
+	 <plurals name="peep_protection_v2_category_group_title">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+     </plurals>
+     <plurals name="peep_protection_v2_count_apps">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="peep_protection_v2_count_strategies">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="peep_protection_v2_page_count">
+        <item quantity="other">%d stranica</item>
+        <item quantity="one">%d stranica</item>
+     </plurals>
     <plurals name="people">
         <item quantity="other">Preuzelo %1$d osoba</item>
         <item quantity="one">Preuzela %1$d osoba</item>

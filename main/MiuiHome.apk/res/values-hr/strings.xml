@@ -470,6 +470,7 @@
   <string name="gesture_tap_lock">Dvaput dodirnite za zaključavanje zaslona</string>
   <string name="gadget_weather_title_14">Vrijeme</string>
   <string name="gadget_weather_title_24">Vrijeme</string>
+  <string name="global_app_bar_title">Globalna traka aplikacije</string>
   <string name="global_search">Traži</string>
   <string name="global_shelf">Tražitelj aplikacija</string>
   <string name="global_search_hint">Unesite traženi pojam</string>
@@ -864,6 +865,8 @@ Poboljšana sigurnost."</string>
   <string name="new_folder_picker_sliding_button_tab_text">Automatski razvrstaj aplikacije</string>
   <string name="new_open_personal_assistant_settings_simplified">Zaklj. aplikacija</string>
   <string name="new_privacy_thumbnail_blur_summary">Zamućivanje pregleda aplikacije u Nedavno</string>
+  <string name="new_privacy_thumbnail_blur_dim_mode_title">Sakrivanje pretpregleda u Nedavno</string>
+<string name="new_privacy_thumbnail_blur_title">Zamućivanje pretpregleda u Nedavno</string>
   <string name="new_recents_config_title">Ostalo</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="no_space_toast">Nema dovoljno prostora</string>

@@ -81,6 +81,8 @@
   <string name="call_notification_incoming_text">Dolazni poziv</string>
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="chip_text">Chip tekst</string>
@@ -160,8 +162,8 @@
   <string name="dnd_popup_message">Možete uključiti DND način da biste utišali pozive i obavijesti bez isključivanja zvukova medija.</string>
   <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
   <string name="drag_to_add_tiles">Pritisnite i držite da biste dodali ili promijenili raspored stavki</string>
-  <string name="early_morning">Jutro</string>
   <string name="emergency_call">Hitni poziv</string>
+  <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
@@ -258,6 +260,13 @@
   <string name="miplay_service_error_not_support">"Ova radnja nije podržana"</string>
   <string name="miplay_service_timeout_toast">Veza je istekla. Pokušajte ponovno.</string>
   <string name="miplay_song_title_empty">Nema pjesama</string>
+  <string name="miplay_subtext_toast_ad_routing_disallowed">Pokušajte ponovno nakon oglasa</string>
+  <string name="miplay_subtext_toast_device_low_power">Nije dostupno za slušanje na</string>
+  <string name="miplay_subtext_toast_downloaded_content_routing_disallowed">"Nije moguće reproducirati ovu pjesmu"</string>
+  <string name="miplay_subtext_toast_error_unknown">Nije dostupno za slušanje na</string>
+  <string name="miplay_subtext_toast_subscription_required">Potrebna je Premium pretplata</string>
+  <string name="miplay_subtext_toast_track_unsupported">"Nije moguće reproducirati ovu pjesmu"</string>
+  <string name="miplay_subtext_toast_unauthorized">Nije dostupno za slušanje na</string>
   <string name="miplay_switch_local_device_when_in_audio_share_hint">Zaustavite dijeljenje zvuka i pokušajte ponovno</string>
   <string name="miplay_tv_cast_retry_toast">Zaustavite emitiranje i pokušajte ponovno</string>
   <string name="miplay_tv_remote_control">Daljinski upravljač</string>
@@ -301,6 +310,7 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -316,6 +326,7 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>

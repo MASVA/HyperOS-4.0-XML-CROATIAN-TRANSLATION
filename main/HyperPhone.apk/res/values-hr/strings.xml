@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
@@ -27,8 +27,73 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_sliding_button_state_description_off">Isključeno</string>
+  <string name="accessibility_sliding_button_state_description_on">Uključeno</string>
+  <string name="accessibility_tab_state_description_unselect">Nije odabrano</string>
+  <string name="accessibility_tab_statedesc_unselect">Nije odabrano</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="ai_call_account_login">Prijava</string>
+  <string name="ai_call_account_not_logged_in_message">Prvo se prijavite na svoj Xiaomi račun.</string>
+  <string name="ai_call_anti_harass_hero_subtitle">"Koristite umjetnu inteligenciju kada ne želite odgovoriti"</string>
+  <string name="ai_call_anti_harass_hero_title">Automatsko filtriranje neželjenih poziva</string>
+  <string name="ai_call_anti_harass_summary">Automatski odgovarajte na potencijalno neželjene pozive koji nisu blokirani</string>
+  <string name="ai_call_anti_miss_hero_subtitle">"Koristite umjetnu inteligenciju kada ne možete odgovoriti"</string>
+  <string name="ai_call_anti_miss_hero_title">Odgovaranje na pozive tijekom sastanaka</string>
+  <string name="ai_call_capability_failed_ok">Razumijem</string>
+  <string name="ai_call_capability_failed_title">"Nije bilo moguće otvoriti AI pomoćnika za pozive"</string>
+  <string name="ai_call_cta_go_authorize">Postavke</string>
+  <string name="ai_call_cta_not_authorized">Prvo prihvatite Korisnički ugovor i Pravila o privatnosti u aplikaciji Xiaomi Hyper XiaoAi.</string>
+  <string name="ai_call_detail_date_format_12">dd.MM. h:mm aa</string>
+  <string name="ai_call_detail_date_format_24">dd.MM. HH:mm</string>
+  <string name="ai_call_detail_title">Detalji AI odgovora</string>
+  <string name="ai_call_incoming_duration">Dolazni (%1$s %2$s)</string>
+  <string name="ai_call_missed_call_summary">Automatski odgovori na pozive nakon isteka postavljenog vremena</string>
+  <string name="ai_call_missed_duration">Propušteni poziv</string>
+  <string name="ai_call_more_settings_in_miclaw">Više opcija možete pronaći u aplikaciji Xiaomi Hyper XiaoAi</string>
+  <string name="ai_call_notes">Bilješke o pozivu</string>
+  <string name="ai_call_notes_not_available">"Nije bilo moguće otvoriti Bilješke"</string>
+  <string name="ai_call_osbot_not_installed">Prvo instalirajte Xiaomi Hyper XiaoAi</string>
+  <string name="ai_call_osbot_version_too_low">Prvo ažurirajte Xiaomi Hyper XiaoAi na najnoviju verziju.</string>
+  <string name="ai_call_outgoing_duration">Odlazni (%1$s %2$s)</string>
+  <string name="ai_call_play">Reproduciraj</string>
+  <string name="ai_call_privacy_agree">Prihvati</string>
+  <string name="ai_call_privacy_body">"Dobro došli u AI pomoćnika za pozive (AI Call Assistant). Ova usluga može odgovarati na pozive kada niste dostupni, identificirati pozivatelja i izraditi sažetke poziva.
+  Kako bi omogućio ove značajke, AI pomoćnik za pozive mora se povezati s internetom i pretvoriti zvuk poziva u tekst u oblaku (audiozapis se neće pohranjivati ​​nakon obrade). Prije nastavka pročitajte i prihvatite &lt;a href=%1$s&gt;Korisnički ugovor&lt;/a&gt; te &lt;a href=%2$s&gt;Pravila privatnosti za Xiaomi Hyper XiaoAi&lt;/a&gt;."</string>
+  <string name="ai_call_privacy_dialog_title">Napomena</string>
+  <string name="ai_call_privacy_disagree">"Ne prihvaćam"</string>
+  <string name="ai_call_quick_reply_desc">Odaberite prijedlog za brzi odgovor</string>
+  <string name="ai_call_quick_reply_section_title">Predloženi odgovori</string>
+  <string name="ai_call_quick_reply_summary">Prikaži prijedloge za brze odgovore, primjerice za dostave i druge situacije</string>
+  <string name="ai_call_quick_reply_title">Predloženi odgovori</string>
+  <string name="ai_call_record_detail_title">Detalji povijesti poziva</string>
+  <string name="ai_call_recording_item">Snimka poziva %d</string>
+  <string name="ai_call_recording_label">Snimka poziva</string>
+  <string name="ai_call_section_anti_harass">Zaštita od neželjenih poziva</string>
+  <string name="ai_call_section_anti_miss">"Ne propustite pozive"</string>
+  <string name="ai_call_setting_auto_answer">Automatsko odgovaranje na pozive</string>
+  <string name="ai_call_setting_auto_answer_time">Odgoda automatskog odgovaranja</string>
+  <string name="ai_call_setting_auto_answer_type">Primijeni na ove kategorije</string>
   <string name="ai_call_setting_title">Postavke AI Call Assistanta</string>
+  <string name="ai_call_setting_voice_gender">Glas</string>
+  <string name="ai_call_summary_disclaimer">Ovaj je sadržaj generirala umjetna inteligencija i služi isključivo kao referenca</string>
+  <string name="ai_call_summary_title">Sažetak poziva</string>
+  <string name="ai_call_time_disabled">Isključeno</string>
+  <string name="ai_call_time_immediately">Nema</string>
+  <string name="ai_call_type_ad">Oglasi</string>
+  <string name="ai_call_type_delivery">Dostava</string>
+  <string name="ai_call_type_education">Obrazovanje</string>
+  <string name="ai_call_type_high_risk">Visok rizik</string>
+  <string name="ai_call_type_insurance">Osiguranje</string>
+  <string name="ai_call_type_loan">Zajmovi</string>
+  <string name="ai_call_type_realestate">Nekretnine</string>
+  <string name="ai_call_type_renovation">Popravci u domu</string>
+  <string name="ai_call_type_stranger">Nepoznat broj</string>
+  <string name="ai_call_voice_control_desc">Odgovarajte na pozive i završavajte ih glasovnim naredbama ili zatražite od umjetne inteligencije da se javi umjesto vas</string>
+  <string name="ai_call_voice_control_title">Glasovne kontrole</string>
+  <string name="ai_call_voice_female">Ženski</string>
+  <string name="ai_call_voice_male">Muški</string>
+  <string name="ai_call_voice_reminder_desc">Primajte glasovne obavijesti o dolaznim pozivima putem sustava Xiaomi Hyper XiaoAi</string>
+  <string name="ai_call_voice_reminder_title">Glasovne obavijesti</string>
   <string name="align_satellite_model_call">Poziv</string>
   <string name="align_satellite_model_exit">Izlaz</string>
   <string name="align_satellite_model_mms">Poruka</string>
@@ -40,6 +105,11 @@
   <string name="business_hall_settings_title">Postavke plana operatera</string>
   <string name="bwp_switch_summary">Koristite BWP za otklanjanje pogrešaka. Dostupno samo kada ga pruža vaš operater.</string>
   <string name="bwp_switch_title">BWP</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
+  <string name="calendar_date_picker_day_of_week_column_header">%1$s</string>
+  <string name="calibrate_rotate_again">Pokušajte ponovno</string>
+  <string name="calibrate_rotate_tip">Oštro nagnite uređaj kako biste kotrljali loptu po krugu</string>
   <string name="call_enhancement_category_title">Poboljšanje poziva</string>
   <string name="call_notification_answer_action">Odgovor</string>
   <string name="call_notification_answer_video_action">Video</string>
@@ -48,8 +118,41 @@
   <string name="call_notification_incoming_text">Dolazni poziv</string>
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
-  <string name="calibrate_rotate_again">Pokušajte ponovno</string>
-  <string name="calibrate_rotate_tip">Oštro nagnite uređaj kako biste kotrljali loptu po krugu</string>
+  <string name="call_summary_auto_list_all">Sve</string>
+  <string name="call_summary_auto_list_manage_remove_some_no_summary">Ako uklonite te brojeve, za njih će se automatski izrađivati ​​sažeci poziva. Ukloniti sada?</string>
+  <string name="call_summary_auto_list_manage_remove_some_summary">"Ako uklonite ove brojeve, za njih se više neće automatski izrađivati ​​sažeci poziva. Ukloniti sada?"</string>
+  <string name="call_summary_auto_list_manage_remove_title">Ukloniti ove brojeve?</string>
+  <string name="call_summary_auto_list_some_no_summary">Iznimke</string>
+  <string name="call_summary_auto_list_some_summary">Odabrani kontakti</string>
+  <string name="call_summary_auto_list_title">Pozivi za sažimanje</string>
+  <string name="call_summary_auto_summary">Automatski izrađujte teme i sažetke poziva te spremajte snimke poziva</string>
+  <string name="call_summary_auto_title">Automatsko sažimanje poziva</string>
+  <string name="call_summary_capability_failed_title">"Nije moguće uključiti ovu značajku"</string>
+  <string name="call_summary_contacts_capability_low">Ažurirajte aplikaciju Kontakti na najnoviju verziju.</string>
+  <string name="call_summary_contacts_not_installed">Instalirajte aplikaciju Kontakti.</string>
+  <string name="call_summary_cta_bind_failed_ok">Razumijem</string>
+  <string name="call_summary_cta_osbot_not_installed">Instalirajte Xiaomi Hyper XiaoAi.</string>
+  <string name="call_summary_cta_osbot_version_low">Ažurirajte Xiaomi Hyper XiaoAi na najnoviju verziju.</string>
+  <string name="call_summary_footer_text">Snimke poziva učitavaju se u oblak kako bi se pomoću umjetne inteligencije generirale teme i sažeci poziva. Snimke i datoteke sažetaka pohranjuju se na vašem uređaju. Kako bi se ispunili regulatorni zahtjevi, sažeci će se izbrisati nakon što određeno vrijeme budu pohranjeni u oblaku.</string>
+  <string name="call_summary_hide_add">Dodaj</string>
+  <string name="call_summary_hide_add_type_title">Odaberite način dodavanja</string>
+  <string name="call_summary_hide_delete">Izbriši</string>
+  <string name="call_summary_hide_input_hint">Unesite telefonski broj</string>
+  <string name="call_summary_hide_input_title">Dodaj broj</string>
+  <string name="call_summary_hide_manual_input">Unesite telefonski broj</string>
+  <string name="call_summary_hide_pick_contact">Iz kontakata</string>
+  <string name="call_summary_hide_removed">Uspješno uklonjeno</string>
+  <string name="call_summary_history_summary">Prikaži ključne točke iz nedavnih poziva s ovim brojem tijekom dolaznih poziva</string>
+  <string name="call_summary_history_title">Prikaži sažetke prethodnih poziva</string>
+  <string name="call_summary_identity_summary">Prikaži oznake za nepoznate pozivatelje koje generira umjetna inteligencija na temelju sažetaka prethodnih poziva</string>
+  <string name="call_summary_identity_title">Prikaži oznake pozivatelja</string>
+  <string name="call_summary_lock_screen_summary">Prikaži oznake pozivatelja i sažetke prethodnih poziva na zaključanom zaslonu kada su te značajke uključene</string>
+  <string name="call_summary_lock_screen_title">Prikaži na zaključanom zaslonu</string>
+  <string name="call_summary_privacy_dialog_agree">Slažem se</string>
+  <string name="call_summary_privacy_dialog_disagree">Ne slažem se</string>
+  <string name="call_summary_privacy_dialog_message">&lt;Data&gt;"Uz značajku Sažetak poziva možete automatski snimati pozive te stvarati teme i sažetke poziva tijekom samih poziva.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Kako bi omogućila ove značajke, ova se usluga mora povezati s mrežu te će prenijeti zvuk poziva vanjskoj usluzi u oblaku radi obrade. Kako bi se zadovoljili regulatorni zahtjevi, transkripti poziva pohranjuju se u oblaku tijekom određenog vremenskog razdoblja.&lt;/b&gt; Uključivanjem ove usluge pristajete na naš &lt;a href=%1$s&gt;Korisnički ugovor za sažetke poziva&lt;/a&gt; i &lt;a href=%2$s&gt;Pravila privatnosti za sažetke poziva&lt;/a&gt;."&lt;/Data&gt;</string>
+  <string name="call_summary_privacy_dialog_title">Sažetak poziva</string>
+  <string name="call_summary_setting_title">Sažetak poziva</string>
   <string name="cdma_activate_device">Aktiviraj uređaj</string>
   <string name="cdma_lte_data_service">Postavite podatkovnu uslugu</string>
   <string name="cellular_network_title">Otklanjanje pogrešaka mobilne mreže</string>
@@ -93,7 +196,7 @@
   <string name="enable_esim_progress_activating_message">Uključivanje eSIM-a…</string>
   <string name="enable_esim_summary">Onemogući SIM %s nakon uključivanja</string>
   <string name="enable_esim_title">Uključite eSIM</string>
-  <string name="enable_preferred_network_type_summary">Pogledajte i postavite svoju vrstu mreže u Postavkama > Mobilne mreže > SIM kartica</string>
+  <string name="enable_preferred_network_type_summary">Pogledajte i postavite svoju vrstu mreže u Postavkama &gt; Mobilne mreže &gt; SIM kartica</string>
   <string name="enable_preferred_network_type_title">Prikaži izbornik željene vrste mreže</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
   <string name="enhanced_4g_lte_mode_off_failed">"Nije moguće isključiti VoLTE."</string>
@@ -124,9 +227,9 @@
   <string name="fiveg_vonr_switch_title">VoNR postavke</string>
   <string name="fivega_4cc_switch_summary">Napredna 5G mrežna povezivost 4CC za testiranje (dostupno kada je pruža vaš operater)</string>
   <string name="fivega_dialog_cancel">Odustani</string>
+  <string name="fivega_dialog_summary">Uključivanje ove značajke može uzrokovati probleme s mrežnom kompatibilnošću. Svejedno uključiti?</string>
   <string name="fivega_enhanced_network_gl_summary">Napredna 5G mrežna povezivost za testiranje</string>
   <string name="fivega_enhanced_network_gl_title">5G+ mrežne opcije</string>
-  <string name="fivega_dialog_summary">Uključivanje ove značajke može uzrokovati probleme s mrežnom kompatibilnošću. Svejedno uključiti?</string>
   <string name="fivega_enhanced_network_summary">Napredna 5G mrežna povezivost za testiranje</string>
   <string name="fivega_enhanced_network_title">5G-A mrežne opcije</string>
   <string name="fivega_feature_dialog_ok">Uključi</string>
@@ -314,15 +417,16 @@
   <string name="r16_power_dialog_title">Ušteda energije terminala</string>
   <string name="r16_power_switch_summary">Koristite WUS i UAI za otklanjanje pogrešaka (dostupno ako ih pruža vaš operater)</string>
   <string name="r16_power_switch_title">Ušteda energije</string>
+  <string name="roaming">Roaming</string>
+  <string name="roaming_disable">Povežite se s podatkovnim uslugama u roamingu</string>
+  <string name="roaming_enable">Povežite se s podatkovnim uslugama u roamingu</string>
+  <string name="roaming_preferred_wificall_title">Mrežne postavke (Roaming)</string>
   <string name="rrc_inactive_switch_summary">Koristite RRC neaktivan za otklanjanje pogrešaka. Dostupno samo kada ga pruža vaš operater.</string>
   <string name="rrc_inactive_switch_title">RRC neaktivan</string>
   <string name="rrc_segmentation_switch_summary">Koristite RRC segmentaciju za otklanjanje pogrešaka. Dostupno samo kada je verzija vašeg protokola postavljena na R16 ili R17 i kada ga pruža vaš operater.</string>
   <string name="rrc_segmentation_switch_summary_mtk">Koristite RRC segmentaciju za otklanjanje pogrešaka. Dostupno samo kada ga pruža vaš operater.</string>
   <string name="rrc_segmentation_switch_title">RRC segmentacija</string>
-  <string name="roaming">Roaming</string>
-  <string name="roaming_disable">Povežite se s podatkovnim uslugama u roamingu</string>
-  <string name="roaming_enable">Povežite se s podatkovnim uslugama u roamingu</string>
-  <string name="roaming_preferred_wificall_title">Mrežne postavke (Roaming)</string>
+  <string name="satellite_call_assistant">Postavke poziva</string>
   <string name="satellite_call_failed">Signal prekinut. Pokušajte ponovno.</string>
   <string name="satellite_cancel">Odustani</string>
   <string name="satellite_debug_antenna">Antena</string>
@@ -368,6 +472,7 @@ kako biste lopticu stavili u plavo područje"</string>
   <string name="satellite_network_assistant">Pomoć pri pretraživanju mreže</string>
   <string name="satellite_network_switch_summary">Prilikom korištenja pretraživanja satelitske mreže Tiantong, automatski se odabire najbolja mreža prema trenutnoj lokaciji kako bi se poboljšala brzina mrežne veze</string>
   <string name="satellite_network_switch_title">Odabir mreže</string>
+  <string name="satellite_network_title">Značajke satelitskog poziva</string>
   <string name="satellite_ok">Koristi</string>
   <string name="satellite_satellite_accessory">"Koristi se pojačalo satelitskog signala"</string>
   <string name="satellite_satellite_service_redirection">Aktiviraj</string>
@@ -396,8 +501,6 @@ Držite uređaj u ovom položaju"</string>
   <string name="satellite_state_occlusion_prompt">Izbjegavajte zgrade ili drveće koje bi moglo blokirati signal</string>
   <string name="satellite_state_retry">Nastavite pokušavati</string>
   <string name="satellite_state_voice_reg_fail_exit">Izlaz</string>
-  <string name="satellite_call_assistant">Postavke poziva</string>
-  <string name="satellite_network_title">Značajke satelitskog poziva</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">Sub</string>
@@ -448,8 +551,8 @@ Držite uređaj u ovom položaju"</string>
   <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="vice_slot_volte_data_dialog_message"><Data>Čini se da je vaša trenutačna mrežna veza nestabilna. Možete se pokušati automatski prebacivati ​​između podatkovnih SIM kartica. &lt;font color=#ff0000>&lt;b>Korištenje ove značajke može generirati dodatne naknade operatera&lt;/b>&lt;/font>.</Data></string>
-  <string name="vice_slot_volte_data_dialog_message_ext"><Data>Čini se da je vaša trenutna mrežna veza nestabilna. Možete se pokušati automatski prebacivati ​​između podatkovnih SIM kartica. &lt;font color=#ff0000>&lt;b>Korištenje ove značajke može generirati dodatne naknade operatera&lt;/b>&lt;/font>.</Data></string>
+  <string name="vice_slot_volte_data_dialog_message">&lt;Data&gt;Čini se da je vaša trenutačna mrežna veza nestabilna. Možete se pokušati automatski prebacivati ​​između podatkovnih SIM kartica. &lt;font color=#ff0000&gt;&lt;b&gt;Korištenje ove značajke može generirati dodatne naknade operatera&lt;/b&gt;&lt;/font&gt;.&lt;/Data&gt;</string>
+  <string name="vice_slot_volte_data_dialog_message_ext">&lt;Data&gt;Čini se da je vaša trenutna mrežna veza nestabilna. Možete se pokušati automatski prebacivati ​​između podatkovnih SIM kartica. &lt;font color=#ff0000&gt;&lt;b&gt;Korištenje ove značajke može generirati dodatne naknade operatera&lt;/b&gt;&lt;/font&gt;.&lt;/Data&gt;</string>
   <string name="vice_slot_volte_data_dialog_open">Uključi</string>
   <string name="vice_slot_volte_data_switch_prompt">Vaš uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom tekućih VoLTE poziva. To može dovesti do dodatnih naknada za prijenos podataka. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem podatkovnom planu.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
@@ -481,4 +584,4 @@ Držite uređaj u ovom položaju"</string>
   <string name="wus_switch_summary">Koristite WUS za otklanjanje pogrešaka. Dostupno samo kada je verzija vašeg protokola postavljena na R16 ili R17 i kada to omogućuje vaš operater.</string>
   <string name="wus_switch_summary_mtk">Koristite WUS za otklanjanje pogrešaka. Dostupno samo kada to omogućuje vaš operater.</string>
   <string name="yesterday">Jučer</string>
- </resources>
+</resources>

@@ -851,8 +851,8 @@ Dodirnite za ponovno postavljanje"</string>
   <string name="clock_title_default">Zadano</string>
   <string name="close">Zatvori</string>
   <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
+  %s: 0 Original: 1
+  %d: 0 Original: 0 -->
   <!-- Original string: Zatvori aplikaciju %1$s -->
   <string name="close_button_text">Zatvori</string>
   <string name="close_dialog_button">Zatvori</string>
@@ -1785,18 +1785,18 @@ prioritetno"</string>
   <string name="keyguard_charging_info_last_charge_today_time">Danas %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Jučer %s</string>
   <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
+  %s: 1 Original: 0
+  %d: 0 Original: 1 -->
   <!-- Original string: Punjenje %d%% -->
   <string name="keyguard_charging_normal_and_level_tip">Punjenje %s</string>
   <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
+  %s: 1 Original: 0
+  %d: 0 Original: 1 -->
   <!-- Original string: Brzo punjenje %d%% -->
   <string name="keyguard_charging_quick_and_level_tip">Brzo punjenje %s</string>
   <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
+  %s: 1 Original: 0
+  %d: 0 Original: 1 -->
   <!-- Original string: Brzo punjenje %d%% -->
   <string name="keyguard_charging_super_quick_and_level_tip">Punjenje najvećom brzinom %s</string>
   <string name="keyguard_editor_super_save_mode_toast">"Ne mogu urediti zaključani zaslon kada je uključena Ultra ušteda baterije"</string>
@@ -2132,11 +2132,7 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="max_long_trace_duration">Maksimalno trajanje dugog praćenja</string>
   <string name="max_long_trace_size">Maksimalna veličina dugog praćenja</string>
-  <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-  <!-- Original string: Maksimiziraj aplikaciju %1$s -->
-  <string name="maximize_button_text">Maksimiziraj</string>
+  <string name="maximize_button_text">Maksimiziraj aplikaciju %1$s</string>
   <string name="maximize_menu_talkback_action_maximize_restore_text">Maksimalno povećanje ili vraćanje veličine prozora</string>
   <string name="maximize_menu_talkback_action_snap_left_text">Promjena veličine prozora ulijevo</string>
   <string name="maximize_menu_talkback_action_snap_right_text">Promjena veličine prozora udesno</string>
@@ -2263,11 +2259,7 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="mic_stopped_recording_announcement">Mikrofon je prestao snimati</string>
   <string name="microphone_blocked_dream_overlay_content_description">Mikrofon blokiran</string>
   <string name="midnight">Noć</string>
-  <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-  <!-- Original string: Minimiziraj aplikaciju %1$s -->
-  <string name="minimize_button_text">Minimiziraj</string>
+  <string name="minimize_button_text">Minimiziraj aplikaciju %1$s</string>
   <string name="miplay_accessibility_cast">Odaberite uređaj</string>
   <string name="mirror_display">Zrcaljenje zaslona</string>
   <string name="missed_call">Propušteni poziv</string>
@@ -2376,6 +2368,7 @@ mm"</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
@@ -2393,6 +2386,7 @@ mm"</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -2532,6 +2526,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="mr_user_route_category_name">Uređaji</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Nije moguće postaviti tijekom poziva"</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+  <string name="mtrl_button_collapsed_content_description">Sažeto</string>
+  <string name="mtrl_button_expanded_content_description">Prošireno</string>
+  <string name="mtrl_button_overflow_icon_content_description">Dodatni izbornik</string>
   <string name="mtrl_checkbox_state_description_checked">Provjereno</string>
   <string name="mtrl_checkbox_state_description_indeterminate">Djelomično provjereno</string>
   <string name="mtrl_checkbox_state_description_unchecked">Nije provjereno</string>
@@ -2683,6 +2680,39 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="notification_onboarding_summaries_turn_on">Uključite u Postavkama</string>
   <string name="notification_priority_title">Prioritetno</string>
   <string name="notification_promoted_ongoing_long_click">za otvaranje izbornika za degradiranje</string>
+  <string name="notification_rules_action_block">Blokiraj</string> 
+  <string name="notification_rules_action_block_description">Blokirano je prekidanje i prikazivanje obavijesti u sjeni.</string> 
+  <string name="notification_rules_action_bundle">Utišaj &amp; Paket</string> 
+  <string name="notification_rules_action_bundle_description">Obavijesti su sažete &amp; grupirani zajedno.</string> 
+  <string name="notification_rules_action_highlight">Istakni</string> 
+  <string name="notification_rules_action_highlight_and_alert">Istakni &amp; Upozorenje</string> 
+  <string name="notification_rules_action_highlight_and_alert_description">Obavijesti mogu prekinuti sve načine rada, uključujući Ne uznemiravaj.</string> 
+  <string name="notification_rules_action_highlight_description">Istaknute obavijesti prikazuju se na vrhu zaslona s obavijestima.</string> 
+  <string name="notification_rules_action_less_alerting">Manje upozorenja</string> 
+  <string name="notification_rules_action_more_alerting">Više upozorenja</string> 
+  <string name="notification_rules_action_silence">Tišina</string> 
+  <string name="notification_rules_action_silence_description">Utišane obavijesti prikazuju se na dnu zaslona i ne zvone niti vibriraju.</string> 
+  <string name="notification_rules_activity_title">Pravila obavijesti</string> 
+  <string name="notification_rules_bundle_text_description">" u paket "<annotation bundleName="true">“^1”</annotation> s <annotation bundleEmoji="true">^2</annotation> emotikonom</string> 
+  <string name="notification_rules_choose_action_title">Odaberi radnju</string> 
+  <string name="notification_rules_confirm_changes">Potvrdite promjene</string> 
+  <string name="notification_rules_create_new_rule">Potvrdi i stvori</string> 
+  <string name="notification_rules_create_new_title">Stvori novi</string> 
+  <string name="notification_rules_deselect_all">Poništi odabir svih</string> 
+  <string name="notification_rules_edit">Uredi</string> 
+  <string name="notification_rules_field_app">Aplikacija</string> 
+  <string name="notification_rules_field_keyword">Ključna riječ</string> 
+  <string name="notification_rules_field_people">Osobe</string>
+  <string name="notification_rules_full_text">Obavijesti%1$s%2$s%3$s%4$s</string>
+  <string name="notification_rules_generating">Generiranje pravila…</string>
+  <string name="notification_rules_modify_action">Izmijeni radnju</string>
+  <string name="notification_rules_next">Dalje</string>
+  <string name="notification_rules_nothing_selected">Ništa nije odabrano</string>
+  <string name="notification_rules_number_selected">Odabrano: %1$d</string>
+  <string name="notification_rules_save_error">Pravilo nije bilo moguće spremiti. Pokušajte ponovno.</string>
+  <string name="notification_rules_save_number_selected">Spremi %1$d odabranih</string>
+  <string name="notification_rules_search">Pretraži</string>
+  <string name="notification_rules_search_results">Rezultati pretraživanja</string>
   <string name="notification_safemode_button_exit">Izlaz</string>
   <string name="notification_safemode_description_exit">"Svakako slijedite savjete za rješavanje problema navedene u obavijesti prije napuštanja sigurnog načina rada. Ako to ne učinite, vaš bi uređaj mogao ponovno ući u siguran način rada."</string>
   <string name="notification_safemode_description_presafemode">Sučelje sustava i podaci o temama uspješno su izbrisani. Možete koristiti svoj uređaj normalno.</string>
@@ -2890,6 +2920,15 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="privacy_dialog_close_app_message">%1$s zatvoreno</string>
   <string name="privacy_dialog_collapse_action">Sažmi</string>
   <string name="privacy_dialog_done_button">Gotovo</string>
+  <string name="privacy_dialog_dismiss">Gotovo</string>
+  <string name="privacy_dialog_records">Svi zapisi</string>
+  <string name="privacy_dialog_using_camera">%1$s koristi kameru</string>
+  <string name="privacy_dialog_using_camera_and_location">%1$s koristi kameru i lokaciju</string>
+  <string name="privacy_dialog_using_location">%1$s koristi vašu lokaciju</string>
+  <string name="privacy_dialog_using_microphone">%1$s koristi mikrofon</string>
+  <string name="privacy_dialog_using_microphone_and_camera">%1$s koristi mikrofon i kameru</string>
+  <string name="privacy_dialog_using_microphone_and_camera_and_location">%1$s koristi mikrofon, kameru i lokaciju</string>
+  <string name="privacy_dialog_using_microphone_and_location">%1$s koristi mikrofon i lokaciju</string>
   <string name="privacy_dialog_expand_action">Proširi i prikaži opcije</string>
   <string name="privacy_dialog_manage_permissions">Upravljanje pristupom</string>
   <string name="privacy_dialog_manage_service">Upravljanje uslugom</string>
@@ -3245,6 +3284,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="reboot_to_bootloader_title">Fastboot</string>
   <string name="reboot_to_recovery_title">Recovery</string>
   <string name="recent_conversations">Nedavni razgovori</string>
+  <string name="recent_privacy_usage">Nedavno korištenje dopuštenja</string>
   <string name="recent_used_camera">Ova je aplikacija koristila kameru</string>
   <string name="recent_used_camera_and_microphone">Ova je aplikacija snimala zvuk i koristila kameru</string>
   <string name="recent_used_microphone">Ova je aplikacija snimila zvuk</string>
@@ -3928,6 +3968,7 @@ Dodirnite za više informacija"</string>
   <string name="tuner_persistent_warning">Te se eksperimentalne značajke mogu promijeniti, prekinuti ili nestati u budućim izdanjima. Nastavite uz oprez.</string>
   <string name="tuner_plus">Plus</string>
   <string name="tuner_right">Desno</string>
+  <string name="tuner_remove">Ukloni</string>
   <string name="tuner_time">Vrijeme</string>
   <string name="tuner_toast">Čestitamo! Ugađanje korisničkog sučelja sustava dodano je u Postavke</string>
   <string name="tuner_warning">Ugađanje korisničkog sučelja sustava pruža vam dodatne načine za prilagodbu korisničkog sučelja Androida. Te se eksperimentalne značajke mogu promijeniti, prekinuti ili nestati u budućim izdanjima. Nastavite uz oprez.</string>

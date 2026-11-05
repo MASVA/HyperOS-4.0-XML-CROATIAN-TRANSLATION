@@ -72,4 +72,28 @@
         <item quantity="other">Instalirajte da biste pronašli %1$s pisača</item>
         <item quantity="one">Instalirajte da biste pronašli %1$s pisač</item>
     </plurals>
+	     <plurals name="delete_selected_printers_content">
+        <item quantity="other">Izbrisati %1$d odabranih stavki?</item>
+        <item quantity="one">Izbrisati %1$d odabranu stavku?</item>
+     </plurals>
+     <plurals name="miuix_indexer_selected">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+     </plurals>
+     <plurals name="page_details_total_pages_format">
+        <item quantity="other">(Ukupno %1$d stranica)</item>
+        <item quantity="one">(Ukupno %1$d stranica)</item>
+     </plurals>
+     <plurals name="page_range_format">
+        <item quantity="other">%1$d–%2$d (Ukupno %3$d stranica)</item>
+        <item quantity="one">%1$d–%2$d (Ukupno %3$d stranica)</item>
+     </plurals>
+     <plurals name="pint_job_number_text">
+        <item quantity="other">Ukupno %1$d datoteka</item>
+        <item quantity="one">Ukupno %1$d datoteka</item>
+     </plurals>
+     <plurals name="selected_count_title">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+     </plurals>
 </resources>

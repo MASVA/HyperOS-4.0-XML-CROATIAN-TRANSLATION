@@ -258,6 +258,14 @@
          <item quantity="few">1 od %s kategorija obavijesti iz ove aplikacije</item>
          <item quantity="many">1 od %s kategorije obavijesti iz ove aplikacije</item>
 		 </plurals>
+		      <plurals name="notification_rules_from_items">
+        <item quantity="other">" od "&lt;annotation valueField="true">^1 +^2 more&lt;/annotation></item>
+        <item quantity="one">" od "&lt;annotation valueField="true">^1&lt;/annotation></item>
+     </plurals>
+     <plurals name="notification_rules_keyword_items">
+        <item quantity="other">" koji sadrže "&lt;annotation valueField="true">“^1” +^2 more&lt;/annotation></item>
+        <item quantity="one">" koji sadrži "&lt;annotation valueField="true">“^1”&lt;/annotation></item>
+     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>

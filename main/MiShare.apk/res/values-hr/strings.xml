@@ -58,6 +58,7 @@
   <string name="airdrop_apple_device_subtitle">"Prijenos datoteka na i s iPhonea, iPada i Maca"</string>
   <string name="airdrop_apple_device_title">"Prijenos na i s Apple uređaja"</string>
   <string name="airdrop_apple_device_wlan_disconnect_note">"Dok čeka primanje ili slanje datoteka na vaš Apple uređaj, ovaj će se uređaj privremeno isključiti s Wi-Fi mreže od %d GHz."</string>
+  <string name="airdrop_apple_device_wlan_disconnect_note_china">Dok čeka na primanje datoteka ili slanje datoteka na Apple uređaj, ovaj će se uređaj privremeno odspojiti s %d GHz WLAN mreže</string>
   <string name="airdrop_back">Natrag</string>
   <string name="am">prijep.</string>
   <string name="app_function_display_description">Usluga prijenosa datoteka Mi Share</string>
@@ -74,10 +75,18 @@
   <string name="blackshark_3_pro">Black Shark 3 Pro</string>
   <string name="blackshark_helo">Black Shark Helo</string>
   <string name="blackshark_phone">Black Shark</string>
+  <string name="bottomsheet_action_collapse">Sažmi donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_drag_handle_clicked">Marker za povlačenje dvaput dodirnuta</string>
+  <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
+  <string name="bt_address">bt adresa:</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_cancel_send">Otkaži ovaj prijenos</string>
   <string name="btn_exit_send">Izlaz</string>
   <string name="btn_sure">U redu</string>
+  <string name="calendar_date_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Promjena na prethodni mjesec</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -92,6 +101,9 @@
   <string name="cancel_send">Prijenos je otkazan</string>
   <string name="cancel_task">Odustani</string>
   <string name="canceled">Otkazano</string>
+  <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+  <string name="clear_text_end_icon_content_description">Čisti tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="complete">Gotovo</string>
@@ -105,9 +117,9 @@
   <string name="count_and_size_of_file">%1$s %2$s</string>
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za prijenos datoteka putem Bluetootha i Wi-Fi-ja</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za slanje i primanje datoteka</string>
-  <string name="date_picker_label_day"/>
-  <string name="date_picker_label_month"/>
-  <string name="date_picker_label_year"/>
+  <string name="date_picker_label_day"></string>
+  <string name="date_picker_label_month"></string>
+  <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Kineski tradicionalni kalendar</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_device_name">Nepoznati uređaj</string>
@@ -130,6 +142,7 @@
   <string name="device_type_xiaomi_phone">Xiaomi</string>
   <string name="did_address">ID uređaja:</string>
   <string name="disconnect">VEZA PREKINUTA</string>
+  <string name="enable_midrop">Uključi</string>
   <string name="err_send_short_connect_error">"Ne mogu se spojiti"</string>
   <string name="err_send_short_remote_busy">Uređaj je zauzet</string>
   <string name="err_send_short_remote_cancel">Otkazano</string>
@@ -238,6 +251,7 @@
   <string name="honor">Honor</string>
   <string name="honor_phone">Honor telefon</string>
   <string name="i_know">Razumijem</string>
+  <string name="icon_content_description">Ikona dijaloškog okvira</string>
   <string name="imac">iMac</string>
   <string name="international_privacy_dialog_agree">Prihvaćam</string>
   <string name="international_privacy_dialog_content">"Dok koristite ovu aplikaciju, moramo prikupiti potrebne informacije kako bismo se mogli povezati s uređajima i prenijeti datoteke. Ako odlučite ne dati ove informacije, možda ih nećemo moći pružiti s odgovarajućim uslugama ili odgovoriti na vaša pitanja. Zahtjev za povlačenje suglasnosti možete poslati u bilo kojem trenutku u Privatnost &gt; Povlačenje suglasnosti."</string>
@@ -257,6 +271,7 @@
   <string name="mac_pro">Mac Pro</string>
   <string name="mac_studio">Mac Studio</string>
   <string name="macbook">MacBook</string>
+  <string name="material_clock_toggle_content_description">Odaberite AM ili PM</string>
   <string name="meizu">Meizu</string>
   <string name="meizu_phone">Meizu</string>
   <string name="menu_item_permission_manager_and_use_guide_title">Pojedinosti o dopuštenjima</string>
@@ -317,6 +332,7 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -330,8 +346,21 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Prevucite prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Prijeđite prstom prema dolje za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Prevucite prema dolje za smanjivanje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Prevucite prstom prema gore za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Prevucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebaci na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -388,6 +417,24 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="morning">Jutro</string>
   <string name="motorola">Motorola</string>
   <string name="motorola_phone">Motorola telefon</string>
+  <string name="mtrl_checkbox_state_description_checked">Označeno</string>
+  <string name="mtrl_checkbox_state_description_indeterminate">Djelomično označeno</string>
+  <string name="mtrl_checkbox_state_description_unchecked">Nije označeno</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="mtrl_picker_cancel">Otkaži</string>
+  <string name="mtrl_picker_confirm">U redu</string>
+  <string name="mtrl_picker_end_date_description">Datum završetka %1$s</string>
+  <string name="mtrl_picker_navigate_to_current_year_description">Pređi na trenutnu godinu %1$d</string>
+  <string name="mtrl_picker_navigate_to_year_description">Pređi na godinu %1$d</string>
+  <string name="mtrl_picker_save">Spremi</string>
+  <string name="mtrl_picker_start_date_description">Datum početka %1$s</string>
+  <string name="mtrl_picker_today_description">Danas %1$s</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Prebaci na način unosa kalendara</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na prikaz kalendara</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Prebaci na način unosa teksta</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na prikaz godine</string>
   <string name="multi_file_name">%1$s, %2$s</string>
   <string name="name_with_ellipsize">%1$s…%2$s</string>
   <string name="nearby_share">Dijeljenje u blizini</string>
@@ -415,6 +462,11 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="notification_channel_name">Obavijesti o prijenosu</string>
   <string name="nubia">Nubia</string>
   <string name="nubia_phone">Nubia</string>
+  <string name="oh_cancel">OH Otkaži</string>
+  <string name="oh_connect">OH Poveži se</string>
+  <string name="oh_handoff">OH PREDAJA</string>
+  <string name="oh_on_connect">OH NaPovezi se</string>
+  <string name="oh_send">OH Pošalji</string>
   <string name="onehop_connecting_tips">Povezivanje…</string>
   <string name="onehop_empty_note_cannot_share">"Ne mogu dijeliti prazne bilješke"</string>
   <string name="onehop_file_security_tips">Uklanjanje osobnih podataka…</string>
@@ -429,12 +481,19 @@ Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, O
   <string name="oppo">OPPO</string>
   <string name="oppo_phone">OPPO</string>
   <string name="pad_device_model_name">Xiaomi Pad</string>
+  <string name="password_toggle_content_description">Prikaži lozinku</string>
   <string name="pc_device_model_name">Računalo</string>
   <string name="pc_redmi_device_model_name">Redmi laptop</string>
   <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
+  <string name="permdesc_mishare_all">"Dopusti aplikaciji pristup osnovnim uslugama servisa Xiaomi Share"</string>
+  <string name="permdesc_mishare_guide">"Dopusti aplikaciji prikaz stranice s uputama za Xiaomi Share"</string>
+  <string name="permdesc_mishare_nfc">Dopusti aplikaciji uključivanje usluga dijeljenja putem NFC-a unutar servisa Xiaomi Share radi brzog prijenosa datoteka između uređaja</string>
   <string name="permission_apply_purpose">Dopustite Xiaomi Share da otkrije i poveže se s uređajima u blizini kako bi mogao prenositi datoteke.</string>
   <string name="permission_denied_hint">Dodijelite potrebna dopuštenja za upotrebu Xiaomi Share</string>
   <string name="permission_related">Dopuštenja</string>
+  <string name="permlab_mishare_all">Pristup uslugama dijeljenja</string>
+  <string name="permlab_mishare_guide">Pristup uputama za Xiaomi Share</string>
+  <string name="permlab_mishare_nfc">Uključivanje dijeljenja putem NFC-a</string>
   <string name="pm">poslijep.</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_authorize">Autorizacija</string>
@@ -499,13 +558,17 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
-  <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u Centru za kontrolu. &lt;a>Saznajte više&lt;/a></Data></string>
+  <string name="scanning_device_tips">&lt;Data&gt;Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u Centru za kontrolu. &lt;a&gt;Saznajte više&lt;/a&gt;&lt;/Data&gt;</string>
   <string name="scanning_only_xiaomi_device">Ovu stavku možete poslati samo na Xiaomi ili Black Shark uređaj</string>
   <string name="search_menu_title">Pretraživanje</string>
+  <string name="searchview_clear_text_content_description">Očisti tekst</string>
+  <string name="searchview_navigation_content_description">Natrag</string>
   <string name="seize_content">Prestanite dijeliti svoj zaslon da biste mogli prenijeti stavke. Prestati dijeliti sada?</string>
   <string name="seize_title">Zaustavi dijeljenje zaslona</string>
   <string name="select_file">Dodaj datoteku</string>
   <string name="send">Pošalji</string>
+  <string name="send_complete">Uspješno poslano</string>
+  <string name="send_failed">"Slanje nije uspjelo"</string>
   <string name="send_file">POŠALJI DATOTEKU</string>
   <string name="send_files_by">Dijelite datoteke putem</string>
   <string name="send_files_to">Pošaljite stavke na</string>
@@ -550,7 +613,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="share_open_nfc_title">Uključi NFC</string>
   <string name="share_refuse">Prijenos odbijen</string>
   <string name="share_send_notification_describe">Primatelj: %1$s</string>
-  <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>Prikaži NFC područje&lt;/a></Data></string>
+  <string name="share_show_nfc_position">&lt;Data&gt;&lt;a href=%1$s&gt;Prikaži NFC područje&lt;/a&gt;&lt;/Data&gt;</string>
   <string name="share_to_be_sent">Na čekanju</string>
   <string name="share_waiting_connect">Na čekanju</string>
   <string name="share_waiting_other_recv">Slanje datoteka</string>
@@ -568,9 +631,11 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="sharop_receive_enabled">AirDrop prijem omogućen</string>
   <string name="sharop_receive_history">Povijest primanja</string>
   <string name="sharop_receive_title">Primanje putem AirDropa</string>
+  <string name="sharop_share_label">AirDrop</string>
   <string name="sharop_tab_receive">Primanje</string>
   <string name="sharop_tab_send">Slanje</string>
   <string name="sharop_wants_to_send">%1$s želi poslati %2$s</string>
+  <string name="side_sheet_accessibility_pane_title">Bočni panel</string>
   <string name="size_of_B">%d B</string>
   <string name="size_of_GB">%d GB</string>
   <string name="size_of_KB">%d KB</string>
@@ -611,6 +676,10 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="switch_mode_close">Isključeno</string>
   <string name="switch_mode_close_os3">Isključeno</string>
   <string name="switch_mode_sameaccount">S ovog računa</string>
+  <string name="tap_share_audio_transfer_describe">"Dok se reproducira zvuk, otvorite karticu Xiaomi Smart Play ili aplikaciju za medije, a zatim približite telefon NFC oznaci u vozilu"</string>
+  <string name="tap_share_audio_transfer_title">Prijenos reprodukcije zvuka</string>
+  <string name="tap_share_car_card_describe">"Kada se zvuk ne reproducira, približite telefon NFC oznaci u vozilu"</string>
+  <string name="tap_share_car_card_title">Kontrole vozila</string>
   <string name="tap_share_condition_describe">"%1$d. Oba uređaja imaju uključene NFC, Bluetooth i Wi-Fi.
 %2$d. Na svom Xiaomi uređaju ažurirajte Xiaomi Share na verziju %3$s.
 %4$d. Na svom iPhoneu instalirajte aplikaciju Xiaomi Interconnectivity."</string>
@@ -642,20 +711,27 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
 %d. Dijelite kontakte pregledavanjem stranice s pojedinostima kontakta, na stranici za odabir ili dodirom na \"Dijeli\" za otvaranje skočnog prozora za dijeljenje.
 %d. Dijelite web stranicu otvaranjem stranice u Mi pregledniku ili dodirom na \"Dijeli\" za otvaranje skočnog prozora za dijeljenje.
 "</string>
+  <string name="tap_share_device_usage_condition">Preduvjeti</string>
   <string name="tap_share_file_describe">Koristite Dodirni za dijeljenje sa stranice za odabir Upravitelja datoteka ili dodirom na \"Pošalji\" za otvaranje izbornika za dijeljenje.</string>
   <string name="tap_share_file_title">Dijeljenje datoteka</string>
   <string name="tap_share_game_team_up_describe">Uđite u grupnu sobu u Mobile Legends: Bang Bang da biste koristili Dodirni za dijeljenje. Prvo ažurirajte Mobile Legends: Bang Bang na verziju %1$s ili noviju.</string>
   <string name="tap_share_game_team_up_title">Grupa za igru</string>
+  <string name="tap_share_help_title">Pomoć</string>
+  <string name="tap_share_help_with_car">Dijeljenje s vozilom Xiaomi Auto</string>
+  <string name="tap_share_help_with_other_android_iphone">Koristite dodir za dijeljenje s drugim Android uređajima</string>
+  <string name="tap_share_help_with_phone_iphone">Dijeljenje s telefonom Xiaomi ili iPhoneom</string>
   <string name="tap_share_image_and_video_comment">Možete slati sljedeće vrste sadržaja:</string>
   <string name="tap_share_image_and_video_describe">Pogledajte cijelu sliku u Galeriji ili pritisnite i držite da biste otvorili stranicu za odabir. Dodirnite za dijeljenje ili dodirnite \"Pošalji\" da biste otvorili izbornik za dijeljenje.</string>
   <string name="tap_share_image_and_video_title">Dijelite fotografije i videozapise</string>
   <string name="tap_share_image_describe">Dodirnite stražnja NFC područja dvaju uređaja jedno o drugo za brzo dijeljenje stavki</string>
+  <string name="tap_share_image_describe_with_car">"Približite telefon NFC oznaci u vozilu kako biste prenijeli zvuk ili pristupili kontrolama vozila"</string>
   <string name="tap_share_is_connect_this_wifi">Spojiti se na ovu Wi-Fi mrežu?</string>
   <string name="tap_share_is_connect_this_wlan">Spojiti se na ovu Wi-Fi mrežu?</string>
   <string name="tap_share_navigation_address_describe">Otvorite detalje lokacije u Baidu kartama da biste koristili opciju Dodirni za dijeljenje ili dodirnite \"Dijeli\" da biste otvorili izbornik za dijeljenje. Prvo ažurirajte Baidu karte na verziju %1$s ili noviju.</string>
   <string name="tap_share_navigation_address_title">Dijeli adresu za navigaciju</string>
   <string name="tap_share_network_page_describe">Otvorite web stranicu u Mi pregledniku da biste koristili opciju Dodirni za dijeljenje ili dodirnite \"Dijeli\" da biste otvorili izbornik za dijeljenje.</string>
   <string name="tap_share_network_page_title">Dijeli web stranicu</string>
+  <string name="tap_share_no_content_to_share">Nema dostupnih stavki za dijeljenje</string>
   <string name="tap_share_note_describe">Koristite opciju Dodirni za dijeljenje na stranici s detaljima bilješke ili stranici za odabir ili dodirnite "Pošalji" da biste otvorili izbornik dijeljenja.</string>
   <string name="tap_share_note_title">Dijeli bilješke</string>
   <string name="tap_share_preparing">Priprema</string>
@@ -663,6 +739,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="tap_share_receive_from_device">Dijelio %1$s</string>
   <string name="tap_share_send_this_wifi">Dijeli ovu Wi-Fi mrežu</string>
   <string name="tap_share_send_this_wlan">Dijeli ovu Wi-Fi mrežu</string>
+  <string name="tap_share_send_to_device">Pošalji na %1$s</string>
   <string name="tap_share_sound_recorder_describe">Koristite opciju Dodirni za dijeljenje na stranici za reprodukciju ili stranici za odabir ili dodirnite "Pošalji" da biste otvorili izbornik dijeljenja.</string>
   <string name="tap_share_sound_recorder_title">Dijeli snimke</string>
   <string name="tap_share_subTitle">Dodirnite stražnje strane dvaju uređaja zajedno za dijeljenje stavki</string>
@@ -678,6 +755,18 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="tap_share_wifi_password_describe_china">"Za dijeljenje Wi-Fi mreže na koju ste povezani, otvorite popis Wi-Fi mreža za korištenje opcije Dodirni za dijeljenje ili dodirnite povezanu Wi-Fi mrežu za otvaranje izbornika dijeljenja."</string>
   <string name="tap_share_wifi_password_title">Dijeli zaporku za Wi-Fi</string>
   <string name="tap_share_wifi_password_title_china">Dijeli zaporku za Wi-Fi</string>
+  <string name="tap_share_with_car_condition_describe_os4">"%1$d. Instalirajte i postavite službenu NFC oznaku u svom vozilu Xiaomi Auto slijedeći upute.
+  %2$d. Ažurirajte svoj Xiaomi telefon na Xiaomi HyperOS 4.0.1 ili noviju verziju. Također možete potražiti „Dodirni za dijeljenje” (Touch to share) u postavkama kako biste provjerili podržava li vaš telefon tu značajku.
+  %4$d. Provjerite jesu li zasloni telefona i vozila uključeni i otključani, a zatim uključite NFC, Bluetooth, Wi-Fi i značajku „Dodirni za dijeljenje”."</string>
+  <string name="tap_share_with_car_condition_describe_os4_china">"%1$d. Instalirajte i postavite službenu NFC oznaku u svom vozilu Xiaomi Auto slijedeći upute.
+  %2$d. Ažurirajte svoj Xiaomi telefon na Xiaomi HyperOS 4.0.1 ili noviju verziju. Također možete potražiti „Dodirni za dijeljenje” (Touch to share) u postavkama kako biste provjerili podržava li vaš telefon tu značajku.
+  %4$d. Provjerite jesu li zasloni telefona i vozila uključeni i otključani, a zatim uključite NFC, Bluetooth, WLAN i značajku „Dodirni za dijeljenje”."</string>
+  <string name="tap_share_with_other_android_phone_condition_describe_os4">"%1$d. Ažurirajte svoj Xiaomi telefon na Xiaomi HyperOS 4.0.1 ili noviju verziju.
+  %2$d. Ažurirajte svoje telefone marki OPPO, vivo i Honor na najnoviju verziju. Provjerite postavke svog telefona kako biste pronašli NFC područje.
+  %4$d. Provjerite jesu li oba uređaja otključana te jesu li na njima uključeni NFC, Bluetooth, Wi-Fi i značajka „Dodirni za dijeljenje”."</string>
+  <string name="tap_share_with_other_android_phone_condition_describe_os4_china">"%1$d. Ažurirajte svoj Xiaomi telefon na Xiaomi HyperOS 4.0.1 ili noviju verziju.
+  %2$d. Ažurirajte svoje telefone marki OPPO, vivo i Honor na najnoviju verziju. Provjerite postavke svog telefona kako biste pronašli NFC područje.
+  %4$d. Provjerite jesu li oba uređaja otključana te jesu li na njima uključeni NFC, Bluetooth, WLAN i značajka „Dodirni za dijeljenje”."</string>
   <string name="tapshare_receive_describe_wifi">Povezivanje s \"%1$s\"</string>
   <string name="the_anniversary_of_lifting_martial_law">Godišnjica Ukidanja Vojne Vlasti</string>
   <string name="throwing_print">Ispis</string>
@@ -706,8 +795,8 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="transfer_to_different_account_summary_ios">"%1$d. Oba uređaja (Xiaomi i ostali Android uređaji) moraju uključiti Xiaomi Share u Centru za kontrolu. Moći ćete primati datoteke od bilo koga %2$d minuta.
 %3$d. iPhonei i iPadi moraju uključiti Xiaomi Interconnectivity."</string>
   <string name="transfer_to_different_account_title">Otkrivanje telefona i tableta</string>
-  <string name="transfer_to_pc_summary_new_plus"><Data>Uvjerite se da je Xiaomi PC Manager preuzet, a zatim uključite Xiaomi Share u centru za kontrolu kako biste mogli primati datoteke. Možete pronaći popis podržanih modela računala &lt;a href=%1$s>ovdje&lt;/a>.</Data></string>
-  <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Na Xiaomi prijenosnom računalu provjerite je li preuzet program Xiaomi PC Manager, a zatim u Centru za kontrolu uključite značajku Xiaomi Share kako biste mogli primati datoteke. Popis podržanih modela računala možete pronaći &lt;a href=%2$s>ovdje&lt;/a>.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g>. Na Macu uključite Xiaomi Interconnectivity Services i provjerite jesu li oba uređaja spojena na isti LAN.</Data></string>
+  <string name="transfer_to_pc_summary_new_plus">&lt;Data&gt;Uvjerite se da je Xiaomi PC Manager preuzet, a zatim uključite Xiaomi Share u centru za kontrolu kako biste mogli primati datoteke. Možete pronaći popis podržanih modela računala &lt;a href=%1$s&gt;ovdje&lt;/a&gt;.&lt;/Data&gt;</string>
+  <string name="transfer_to_pc_summary_new_plus_ios">&lt;Data&gt;&lt;xliff:g id=mishare_ios_1 refersto=1&gt;%1$d&lt;/xliff:g&gt;. Na Xiaomi prijenosnom računalu provjerite je li preuzet program Xiaomi PC Manager, a zatim u Centru za kontrolu uključite značajku Xiaomi Share kako biste mogli primati datoteke. Popis podržanih modela računala možete pronaći &lt;a href=%2$s&gt;ovdje&lt;/a&gt;.&lt;br&gt;&lt;xliff:g id=mishare_ios_2 refersto=2&gt;%3$d&lt;/xliff:g&gt;. Na Macu uključite Xiaomi Interconnectivity Services i provjerite jesu li oba uređaja spojena na isti LAN.&lt;/Data&gt;</string>
   <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
   <string name="transfer_to_phone_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
   <string name="transfer_to_phone_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>

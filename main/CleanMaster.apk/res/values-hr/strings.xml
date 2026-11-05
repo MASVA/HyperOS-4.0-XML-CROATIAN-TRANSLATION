@@ -620,6 +620,7 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="miuix_stretchablewidget_collapsed">Sažeto</string>
@@ -828,6 +829,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="pref_summary_garbage_process_mode">Postavi obavijest za čistač kada je pokrenut</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošaljite i usporedite nepoznate nazive datoteka s online definicijama</string>
   <string name="pref_summary_reminder_interval">Primi samo jednu obavijest unutar odabranog vremena</string>
+  <string name="pref_summary_video_clean">Primajte obavijesti kada količina videozapisa u smeću premaši odabranu veličinu</string>
   <string name="pref_summary_wechat_clean_settings">Primi obavijesti kada smeće u WeChatu prijeđe odabranu veličinu</string>
   <string name="pref_title_apps_cleanup_size">​Kada dosegne veličinu predmemorije</string>
   <string name="pref_title_auto_clean_content_choose">Odaberi stavke za čišćenje</string>
@@ -1168,6 +1170,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="video">Videozapisi</string>
   <string name="video_clean">Izbriši predmemorirane videozapise</string>
+  <string name="video_clean_alert">Podsjetnik za čišćenje videozapisa</string>
   <string name="video_clean_auto_clean">Brisanje automatski</string>
   <string name="video_clean_auto_clean_summary">Automatski izbriši predmemorirane videozapise nakon skeniranja</string>
   <string name="video_clean_cache_tip">Izbrisani videozapisi mogu se kasnije ponovno učitati</string>

@@ -84,6 +84,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="back_tap">Dodirni stražnju stranu</string>
   <string name="back_triple_tap">Trostruki dodir iza</string>
   <string name="backtap_gesture_prompt">Dodirnite stražnju stranu uređaja, izbjegavajući stražnji zaslon</string>
+  <string name="backtap_gesture_prompt_for_fold">Dodirnite stražnju stranu preklopljenog telefona za korištenje brzih radnji</string>
   <string name="berserk_mode_close_toast">Ultimativni način rada je isključen</string>
   <string name="berserk_mode_open_toast">Ultimativni način rada je uključen</string>
   <string name="bind_device">Dodajte uređaje</string>
@@ -102,8 +103,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="bt_enable_pair_connecting">Povezivanje…</string>
   <string name="bubble_app_empty_page">"Nisam mogao pronaći aplikacije koje podržavaju oblačiće za razgovor na ovom uređaju"</string>
   <string name="bubble_app_manage">Upravljanje oblačićima razgovora</string>
-  <string name="bubble_mode_barrage_tips">Oblačići razgovora za minimizirane aplikacije prikazivat će se kao komentari na zaslonu</string>
   <string name="bubble_mode_barrage_switch_tips">Uključite za prikaz oblačića razgovora za minimizirane aplikacije kao komentara na zaslonu</string>
+  <string name="bubble_mode_barrage_tips">Oblačići razgovora za minimizirane aplikacije prikazivat će se kao komentari na zaslonu</string>
   <string name="bubble_notification">Oblačići za razgovor</string>
   <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
   <string name="bubble_notification_switch_desc">Kada je aplikacija za slanje poruka u plutajućem prozoru skrivena na rubu zaslona, ​​prikaži dolazne poruke u oblačićima</string>
@@ -112,6 +113,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="button_text_next_step">Dalje</string>
   <string name="button_text_next_step_timer">Sljedeći korak (%d)</string>
   <string name="button_touch">Stavite prst na senzor</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="camera_key_action_app_title">Otvori aplikaciju</string>
   <string name="camera_key_action_category_title">"Ne mogu koristiti kameru"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
@@ -133,8 +136,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="can_not_switch_when_super_power_active">"Ne mogu promjeniti prostore kada je Ultra štednja baterije uključena""</string>
-  <string name="cancelClosePassword">"Ne isključuj"</string>
   <string name="cancel">Odustani</string>
+  <string name="cancelClosePassword">"Ne isključuj"</string>
   <string name="cancel_button">Odustani</string>
   <string name="changePassword">Promjeni zaporku</string>
   <string name="change_brightness">Prilagodite svjetlinu</string>
@@ -199,6 +202,9 @@ Isključiti svejedno?"</string>
   <string name="cta_declaration_message_format" formatted="false">Morate pročitati i prihvatiti naše &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; prije korištenja Enterprise načina. Vaš uređaj treba biti povezan na internet za aktiviranje Enterprise načina. Prihvaćate?</string>
   <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_space">Trenutni prostor</string>
+  <string name="cursor_style_arrow_desc">Strelica</string>
+  <string name="cursor_style_hollow_desc">Prsten</string>
+  <string name="cursor_style_solid_desc">Točka</string>
   <string name="custom_esc_logic">Prilagodi tipku \"Esc\"</string>
   <string name="custom_gesture_title">Prilagođene geste</string>
   <string name="customize_knock_gesture">Prilagođene geste zglobova</string>
@@ -263,8 +269,8 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="ent_agency_code_hint">Unesite korporativni kôd</string>
   <string name="ent_agency_code_invalid">Korporativni kod koji ste unijeli nije valjan.</string>
   <string name="ent_agree_privacy_policy">"Pročitao sam i prihvaćam Pravila o privatnosti"</string>
-  <string name="ent_appfunction_description">Enterprise Mode je ugrađena MIUI značajka koja omogućuje poslovne mogućnosti i API-je za ovlaštene aplikacije nakon aktivacije.</string>
   <string name="ent_app_verified">Izgleda da postoje Enterprise aplikacije instalirane na vašem uređaju. Aktivirati način rada Enterprise?</string>
+  <string name="ent_appfunction_description">Enterprise Mode je ugrađena MIUI značajka koja omogućuje poslovne mogućnosti i API-je za ovlaštene aplikacije nakon aktivacije.</string>
   <string name="ent_confirm_dialog_content">"Nakon aktiviranja načina rada Enterprise nećete se moći vratiti na sadašnje stanje vašeg sustava. Međutim, svi vaši podaci i dalje će biti pohranjeni na ovom uređaju. Morat ćete ponovo pokrenuti uređaj da biste aktivirali način rada Enterprise. Aktivirati sada?"</string>
   <string name="ent_disallow_running">Aplikaciji je zabranjeno pokretanje</string>
   <string name="ent_download_install_dialog_content">Morate instalirati korporacijske aplikacije da biste aktivirali način rada Enterprise. Sada instalirati?</string>
@@ -285,6 +291,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="ent_privacy_policy_notice">* Osobni podaci u ovom načinu prikupljaju se prema pravilima koje je utvrdila vaša korporacija. Xiaomi ne prikuplja osobne podatke u ovom načinu rada.</string>
   <string name="enter_air_space">Idi u Radni prostor</string>
   <string name="enterprise_mode">Enterprise način</string>
+  <string name="enterprise_mode_description">Sveobuhvatne mogućnosti prilagodbe na razini sustava za poslovne subjekte</string>
   <string name="entrance_reopen_toast_msg">Prikaz prečaca Drugog prostora zbog različitih vrsta zaporki</string>
   <string name="err_copy_contacts">"Ne mogu kopirati kontakte"</string>
   <string name="err_copy_files">"Ne mogu kopirati datoteke"</string>
@@ -347,23 +354,24 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="freeform_demo_title_skip">Preskoči</string>
   <string name="freeform_guide_dialog_freeform_close_summary">Za zatvaranje plutajućeg prozora pritisnite i držite traku radnji, a zatim prijeđite prstom prema gore</string>
   <string name="freeform_guide_dialog_freeform_close_title">Zatvaranje plutajućih prozora</string>
+  <string name="freeform_guide_dialog_freeform_controller_summary">Povucite plutajući prozor za gornji rub da biste ga pomicali</string>
+  <string name="freeform_guide_dialog_freeform_resize_summary">Povucite donje kutove za promjenu veličine</string>
   <string name="freeform_guide_dialog_freeform_resize_title">Promjena veličine plutajućih prozora</string>
+  <string name="freeform_guide_dialog_freeform_title">Pomičite plutajući prozor okolo</string>
+  <string name="freeform_guide_dialog_got_it_button">Razumijem</string>
   <string name="freeform_guide_dialog_multi_split_overview_summary">Stisnite četiri ili pet prstiju da biste otvorili pregled. Možete preurediti ili zatvoriti prozore.</string>
   <string name="freeform_guide_dialog_multi_split_title">Pregled</string>
+  <string name="freeform_guide_dialog_split_double_summary">Povucite prstom prema gore od dna zaslona u sredini da biste zatvorili obje aplikacije</string>
   <string name="freeform_guide_dialog_split_double_title">Zatvaranje kombinacije podijeljenog zaslona</string>
   <string name="freeform_guide_dialog_split_multi_summary">Povucite prstom prema gore od dna zaslona do gornjeg lijevog kuta da biste dodali aplikaciju. Možete dodati do %d aplikacija.</string>
   <string name="freeform_guide_dialog_split_multi_title">Otvori kombinaciju podijeljenog zaslona</string>
-  <string name="freeform_guide_dialog_triple_split_drag_summary">Pritisnite i držite traku za upravljanje prozorom, a zatim povucite da biste promijenili položaj aplikacije.</string>
-  <string name="freeform_guide_dialog_triple_split_swipe_summary">Povucite vodoravno s tri prsta da biste brzo pregledali aplikacije u kombinaciji podijeljenog zaslona.</string>
-  <string name="freeform_guide_dialog_triple_split_title">Koristite kombinaciju podijeljenog zaslona</string>
-  <string name="freeform_guide_dialog_freeform_controller_summary">Povucite plutajući prozor za gornji rub da biste ga pomicali</string>
-  <string name="freeform_guide_dialog_freeform_resize_summary">Povucite donje kutove za promjenu veličine</string>
-  <string name="freeform_guide_dialog_freeform_title">Pomičite plutajući prozor okolo</string>
-  <string name="freeform_guide_dialog_split_double_summary">Povucite prstom prema gore od dna zaslona u sredini da biste zatvorili obje aplikacije</string>
   <string name="freeform_guide_dialog_split_single_summary">Povucite prstom prema gore od dna prozora da biste zatvorili aplikaciju</string>
   <string name="freeform_guide_dialog_split_title">Podijeljeni zaslon</string>
   <string name="freeform_guide_dialog_start_button">Početak</string>
   <string name="freeform_guide_dialog_step_button">Dalje</string>
+  <string name="freeform_guide_dialog_triple_split_drag_summary">Pritisnite i držite traku za upravljanje prozorom, a zatim povucite da biste promijenili položaj aplikacije.</string>
+  <string name="freeform_guide_dialog_triple_split_swipe_summary">Povucite vodoravno s tri prsta da biste brzo pregledali aplikacije u kombinaciji podijeljenog zaslona.</string>
+  <string name="freeform_guide_dialog_triple_split_title">Koristite kombinaciju podijeljenog zaslona</string>
   <string name="freeform_guide_drag_fullscreen_title">Povucite za prebacivanje na prikaz preko cijelog zaslona</string>
   <string name="freeform_guide_drag_split_title">Povucite za prebacivanje na podijeljeni zaslon ili prikaz preko cijelog zaslona</string>
   <string name="freeform_guide_drag_summary">Povucite prozore na određena područja za prebacivanje između načina prikaza</string>
@@ -411,6 +419,10 @@ Ova značajka radi samo kada je navigacija sustava postavljena na geste."</strin
   <string name="freeform_guide_split_screen_combination_summary_fold">Stvorite prečace za kombinacije podijeljenog zaslona koristeći dock za aplikacije na unutarnjem zaslonu</string>
   <string name="freeform_guide_split_screen_combination_summary_pad">Stvorite prečace za kombinacije podijeljenog zaslona koristeći dock za aplikacije</string>
   <string name="freeform_guide_split_screen_combination_title">Kombinacija podijeljenog zaslona</string>
+  <string name="freeform_guide_swipe_up_into_split_summary_fold">"Povucite prstom prema gore od dna aplikacije prema gornjem lijevom kutu kako biste otvorili podijeljeni zaslon.
+  Na unutarnjem zaslonu povucite prstom prema gore od dna kombinacije podijeljenog zaslona prema gornjem lijevom kutu kako biste otvorili više prozora."</string>
+  <string name="freeform_guide_swipe_up_into_split_summary_pad">"Povucite prstom prema gore od dna aplikacije prema gornjem lijevom kutu kako biste otvorili podijeljeni zaslon.
+  Povucite prstom prema gore od dna kombinacije podijeljenog zaslona prema gornjem lijevom kutu kako biste otvorili više prozora."</string>
   <string name="freeform_guide_swipe_up_into_split_title">Privucite prstom prema gore za otvaranje podijeljenog zaslona</string>
   <string name="freeform_guide_tip_controller">Dodirnite za otvaranje novog prozora</string>
   <string name="freeform_guide_tip_dock">Povucite u središte za otvaranje u plutajućem prozoru</string>
@@ -440,6 +452,7 @@ zatim povucite za pomicanje"</string>
   <string name="freeform_recommend_open_switch_summary_phone">Primajte prijedloge za otvaranje aplikacija u plutajućim prozorima na temelju scenarija korištenja (npr. prilikom ažuriranja igara ili čekanja taksija)</string>
   <string name="freeform_recommend_open_switch_summary_phone_no_joyose">Kada čekate taksi ili dijeljenje prijevoza, primit ćete upit za otvaranje aplikacije u plutajućem prozoru</string>
   <string name="freeform_recommend_open_switch_title">Pametni prijedlozi</string>
+  <string name="freeform_side_app_bar">Bočna traka</string>
   <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
   <string name="freeform_slide_to_small_freeform_summary">Pritisnite i držite radnu traku i povucite u kut</string>
   <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
@@ -461,11 +474,11 @@ zatim povucite za pomicanje"</string>
   <string name="gd_setting_title">Bočna traka</string>
   <string name="genimi_wake_up_guide_know">Razumijem</string>
   <string name="genimi_wake_up_guide_know_v2">Ne, hvala</string>
-  <string name="genimi_wake_up_guide_press_power_key_message_for_assistant_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Pomoćniku</string>
-  <string name="genimi_wake_up_guide_press_power_key_message_for_gemini_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Geminiju</string>
   <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka za isključivanje ili ponovno pokretanje</string>
   <string name="genimi_wake_up_guide_press_power_and_volume_up_message_v2">Pritisnite tipke za uključivanje/isključivanje i pojačavanje glasnoće da biste isključili uređaj</string>
   <string name="genimi_wake_up_guide_press_power_key_message">Pritisnite i držite tipku za uključivanje/isključivanje za %ss, zatim otpustite za pristup Geminiju</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_assistant_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Pomoćniku</string>
+  <string name="genimi_wake_up_guide_press_power_key_message_for_gemini_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss da biste pristupili Geminiju</string>
   <string name="genimi_wake_up_guide_settings">Postavke</string>
   <string name="genimi_wake_up_guide_settings_v2">Prijeđi na Postavke</string>
   <string name="genimi_wake_up_guide_title">Otvori tipkom za uključivanje</string>
@@ -490,10 +503,40 @@ zatim povucite za pomicanje"</string>
   <string name="gesture_hint_swipe_up">Povucite gore</string>
   <string name="gesture_hint_trigger">Prepoznavanje geste…</string>
   <string name="gesture_settings_title">Prečaci pokreta</string>
+  <string name="gesture_shortcut_camera_mr_accidental_trigger_note">Kako bi se spriječila slučajna pokretanja, Džepni način rada automatski će se uključiti tijekom igranja ili kada je uređaj u vašem džepu</string>
+  <string name="gesture_shortcut_camera_mr_angle">Kut rotacije</string>
+  <string name="gesture_shortcut_camera_mr_angle_medium">Srednji (zadano)</string>
+  <string name="gesture_shortcut_camera_mr_angle_small">Mali</string>
+  <string name="gesture_shortcut_camera_mr_angle_wide">Veliki</string>
+  <string name="gesture_shortcut_camera_mr_function">Brzo pokretanje</string>
+  <string name="gesture_shortcut_camera_mr_function_setting_title">Postavke brzog pokretanja</string>
+  <string name="gesture_shortcut_camera_mr_guide_info">Brzo okrenite prsten kamere da biste otvorili aplikaciju Kamera</string>
+  <string name="gesture_shortcut_camera_mr_guide_title">Brzo pokretanje</string>
+  <string name="gesture_shortcut_camera_mr_mode">Način rada kamere</string>
+  <string name="gesture_shortcut_camera_mr_mode_doc">Dokument</string>
+  <string name="gesture_shortcut_camera_mr_mode_fastshot">Brzo snimanje</string>
+  <string name="gesture_shortcut_camera_mr_mode_ld">Leica Essential</string>
+  <string name="gesture_shortcut_camera_mr_mode_photo">Fotografija</string>
+  <string name="gesture_shortcut_camera_mr_mode_portrait">Portret</string>
+  <string name="gesture_shortcut_camera_mr_mode_pro">Pro</string>
+  <string name="gesture_shortcut_camera_mr_mode_video">Video</string>
+  <string name="gesture_shortcut_camera_mr_off">Isključeno</string>
+  <string name="gesture_shortcut_camera_mr_open_camera">Otvori kameru</string>
+  <string name="gesture_shortcut_camera_mr_setting">Značajke prstena kamere</string>
+  <string name="gesture_shortcut_camera_mr_setting_title">Postavke kamere</string>
+  <string name="gesture_shortcut_camera_mr_take_photo">Snimi fotografiju</string>
+  <string name="gesture_shortcut_camera_mr_title">Prsten kamere</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_item">Prsten kamere</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_always">Uvijek uključeno</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_mode_camera_only">Samo kamera</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info">&lt;Data&gt;Uključite haptičku povratnu informaciju u odjeljku &lt;a href=\"%1$s\"&gt;Zvuk i dodir&lt;/a&gt;&lt;/Data&gt;</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_note_info_global">&lt;Data&gt;Uključite haptičku povratnu informaciju u odjeljku &lt;a href=\"%1$s\"&gt;Zvuk i vibracija&lt;/a&gt;&lt;/Data&gt;</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_system_disable">Haptička povratna informacija je isključena</string>
+  <string name="gesture_shortcut_camera_mr_vibrate_setting_title">Postavke haptike</string>
   <string name="gesture_split_left_to_right_summary">Povucite udesno s tri prsta</string>
   <string name="gesture_split_right_to_left_summary">Povucite ulijevo s tri prsta</string>
   <string name="gesture_to_move_window">Pomičite prozore vodoravno s tri prsta</string>
- <string name="gesture_to_overview">Pregled</string>
+  <string name="gesture_to_overview">Pregled</string>
   <string name="gesture_to_split_screen">Otvorite podijeljeni zaslon s tri prsta</string>
   <string name="global_stylus_native_summary">Pišite u bilo kojem tekstualnom polju i pretvorite svoj rukopis u tekst (podržavaju samo neke metode unosa)</string>
   <string name="global_stylus_summary">Pišite u bilo kojem tekstualnom polju i pretvorite svoj rukopis u tekst (podržani su samo engleski i kineski)</string>
@@ -659,10 +702,6 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="key_settings_title">Prečaci tipke i gesta</string>
   <string name="key_stylus_laser_pen_summary">Stisnite olovku da biste uključili lasersku olovku. Otpustite da biste je isključili.</string>
   <string name="key_system_control">Kontrola sustava</string>
-  <string name="keyboard_touchpad_click_force">Klik na trackpadu</string>
-  <string name="keyboard_touchpad_click_force_medium">Srednje</string>
-  <string name="keyboard_touchpad_click_force_strong">Čvrsto</string>
-  <string name="keyboard_touchpad_click_force_weak">Lagano</string>
   <string name="keyboard_assistance_category">Pomoć s tipkovnicom</string>
   <string name="keyboard_back_light">Pozadinsko osvjetljenje tipkovnice</string>
   <string name="keyboard_back_light_automatic_adjustment">Automatsko podešavanje pozadinskog osvjetljenja</string>
@@ -691,6 +730,10 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="keyboard_nfc_function">NFC</string>
   <string name="keyboard_shortcuts_helper">Tipkovnički prečaci</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaži dostupne prečace</string>
+  <string name="keyboard_touchpad_click_force">Klik na trackpadu</string>
+  <string name="keyboard_touchpad_click_force_medium">Srednje</string>
+  <string name="keyboard_touchpad_click_force_strong">Čvrsto</string>
+  <string name="keyboard_touchpad_click_force_weak">Lagano</string>
   <string name="kid_mode_label">Dječji prostor</string>
   <string name="knock_edge_area_invalid">"Ova gesta ne radi blizu rubova zaslona"</string>
   <string name="knock_guide_dialog_title">Odaberite radnju za ovu gestu. Kasnije ga možete promijeniti u Postavke &gt; Dodatne postavke &gt; Prečaci tipki.</string>
@@ -752,9 +795,9 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="launch_alipay_code_failed_need_update_summary">Prvo ažurirajte Alipay ili promijenite postavke.</string>
   <string name="launch_alipay_health_code">Alipay zdravstveni kod</string>
   <string name="launch_alipay_health_code_auto_close">Prečac zdravstvenog koda Alipay više nije dostupan. Možete se prebaciti na drugi prečac.</string>
-  <string name="launch_alipay_payment_code">Alipay kod plaćanja</string>
   <string name="launch_alipay_pay_code_failed_need_install_title">"Nije moguće otvoriti Alipay kod za plaćanje"</string>
   <string name="launch_alipay_pay_code_failed_need_update_title">"Nije moguće koristiti Alipay kod za plaćanje"</string>
+  <string name="launch_alipay_payment_code">Alipay kod plaćanja</string>
   <string name="launch_alipay_scanner">Alipay skener</string>
   <string name="launch_calculator">Kalkulator</string>
   <string name="launch_camera">Pokreni kameru</string>
@@ -775,8 +818,16 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="launch_smarthome">Xiaomi Magic Control</string>
   <string name="launch_sound_recorder">Snimač</string>
   <string name="launch_voice_assistant">Pokreni glasovnog asistenta</string>
+  <string name="launch_wallet_non_nfc_summary">Plaćanje putem Google novčanika</string>
+  <string name="launch_wallet_summary">Plaćanje putem zadanog novčanika</string>
+  <string name="launch_wallet_title">Novčanik</string>
+  <string name="launch_wechat_bus_code">WeChat kod za javni prijevoz</string>
+  <string name="launch_wechat_bus_code_failed_need_install_title">"Nije bilo moguće otvoriti WeChat kod za javni prijevoz"</string>
+  <string name="launch_wechat_code_failed_need_install_summary">"WeChat nije instaliran. Instalirajte aplikaciju ili promijenite postavke."</string>
+  <string name="launch_wechat_code_failed_need_install_toast">Prvo instalirajte WeChat</string>
   <string name="launch_wechat_health_code">WeChat zdravstveni kod</string>
   <string name="launch_wechat_health_code_auto_close">Prečac zdravstvenog koda WeChat više nije dostupan. Možete se prebaciti na drugi prečac.</string>
+  <string name="launch_wechat_pay_code_failed_need_install_title">"Nije bilo moguće otvoriti WeChat kod za plaćanje"</string>
   <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
   <string name="launch_wechat_scanner">WeChat skener</string>
   <string name="launch_xiaoai_screen_identification">Xiaomi Hyper XiaoAi prepoznavanje zaslona</string>
@@ -801,17 +852,17 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="long_press_power_key">Dugo pritisnite tipku za uključivanje</string>
   <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku za uključivanje/isključivanje 0,5 s da biste uključili Google pomoćnika</string>
   <string name="long_press_power_key_half_second">Pritisnite i držite tipku za uključivanje %ss</string>
-  <string name="long_press_power_key_tips">&lt;Data>Dugi pritisak na tipku za uključivanje &lt;font color=#999999>brži je i praktičniji&lt;/font>&lt;/Data></string>
+  <string name="long_press_power_key_tips">&lt;Data&gt;Dugi pritisak na tipku za uključivanje &lt;font color=#999999&gt;brži je i praktičniji&lt;/font&gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Dugi pritisak na smanjivanje glasnoće</string>
   <string name="lp_display_shortcut_keys">Pritisnite i držite* za prikaz prečaca</string>
   <string name="maintenance_mode">Način popravka</string>
   <string name="maintenance_mode_close_title">Način popravka je uključen</string>
-  <string name="maintenance_mode_data_backup_agreement"><Data>Kako biste spriječili gubitak podataka, &lt;a href=\"%1$s\">napravite sigurnosnu kopiju podataka&lt;/a> prije slanja uređaja na popravak.</Data></string>
+  <string name="maintenance_mode_data_backup_agreement">&lt;Data&gt;Kako biste spriječili gubitak podataka, &lt;a href=\"%1$s\"&gt;napravite sigurnosnu kopiju podataka&lt;/a&gt; prije slanja uređaja na popravak.&lt;/Data&gt;</string>
   <string name="maintenance_mode_fingerprint_msg">Kalibracija otiska prsta potrebna je nakon popravka, stoga spremljene otiske prstiju morate sada izbrisati. Otisak prsta možete ponovno snimiti nakon što popravci budu dovršeni.</string>
   <string name="maintenance_mode_loading">Uključivanje načina popravka i ponovno pokretanje uređaja…</string>
   <string name="maintenance_mode_reboot">Ponovno pokretanje načina popravka</string>
   <string name="maintenance_mode_title">Vaši su podaci sigurni</string>
-  <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>"Pročitao/la sam i slažem se s &lt;a href=\"%1$s\">Izjavom o odricanju od odgovornosti za korisničke podatke&lt;/a>"</Data></string>
+  <string name="maintenance_mode_user_data_disclaimer_agreement">&lt;Data&gt;"Pročitao/la sam i slažem se s &lt;a href=\"%1$s\"&gt;Izjavom o odricanju od odgovornosti za korisničke podatke&lt;/a&gt;"&lt;/Data&gt;</string>
   <string name="maintenance_mode_watch_out">Tijekom postupka popravka, vaše fotografije, videozapisi, kontakti, povijest poziva i poruke bit će zaštićeni i osoblje za popravke ih neće moći vidjeti.</string>
   <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
   <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
@@ -842,15 +893,16 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_accessibility_title">Naslov</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
-  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
-  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
-  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_accessibility_collapse_state">Sažeto</string>
   <string name="miuix_appcompat_accessibility_expand_state">Prošireno</string>
   <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Izlaz iz načina uređivanja</string>
   <string name="miuix_appcompat_accessibility_new_message">Nova obavijest</string>
   <string name="miuix_appcompat_accessibility_start_edit_action_mode">Uđi u način uređivanja</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
@@ -863,9 +915,21 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Povucite prstom prema dolje za zatvaranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Povucite prstom prema dolje za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Povucite prstom prema dolje za minimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Povucite prstom prema gore za prebacivanje na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Povucite prstom prema gore za maksimiziranje</string>
+  <string name="miuix_bottom_sheet_accessibility_state_half_screen">Pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimizirano</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Prebaci na pola zaslona</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimiziraj</string>
+  <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimiziraj</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -874,7 +938,6 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="miuix_progressbar_loading">Samo trenutak…</string>
   <string name="miuix_show_password">Prikaži zaporku</string>
   <string name="miuix_stretchablewidget_collapsed">Sažet</string>
   <string name="miuix_stretchablewidget_expanded">Prošireno</string>
@@ -998,11 +1061,11 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="open">Uključi</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
-  <string name="open_system_optimization">Prvo uključite optimizaciju sustava</string>
-  <string name="opened">Uklj.</string>
   <string name="open_maintenance_mode">Uključi</string>
   <string name="open_maintenance_mode_tips">Način popravka je isključen. Povezani podaci se brišu. To može potrajati minutu.</string>
   <string name="open_maintenance_mode_title">Uključi način popravka</string>
+  <string name="open_system_optimization">Prvo uključite optimizaciju sustava</string>
+  <string name="opened">Uklj.</string>
   <string name="operation_guide_settings_title">Kako koristiti plutajuće prozore</string>
   <string name="operation_guide_title">Uputstva</string>
   <string name="other">Ostalo</string>
@@ -1034,7 +1097,7 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="power_key_start_enjoy">Počnite koristiti Google pomoćnika</string>
   <string name="power_key_start_guide">Buđenje Google asistenta pomoću tipke za uključivanje/isključivanje na uređajima s punim zaslonom</string>
   <string name="power_off_cn_guide_1_open_power_panel">Umjesto toga otvori izbornik za isključivanje</string>
-  <string name="power_off_cn_guide_1_sub_title">Ovo možete promijeniti u bilo kojem trenutku u Postavke > Prečaci gesti > Isključi i ponovno pokreni.</string>
+  <string name="power_off_cn_guide_1_sub_title">Ovo možete promijeniti u bilo kojem trenutku u Postavke &gt; Prečaci gesti &gt; Isključi i ponovno pokreni.</string>
   <string name="power_off_cn_guide_1_talk_with_xiaoai">Postavi</string>
   <string name="power_off_cn_guide_1_title">Koristite \"Pritisnite i držite tipku za uključivanje/isključivanje\" za razgovor s Xiaomi Hyper XiaoAi</string>
   <string name="power_off_cn_guide_2_get">Razumijem</string>
@@ -1045,10 +1108,10 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="power_off_cn_setting_press_power_reboot">Pritisnite i držite tipku za uključivanje/isključivanje %s sekundi</string>
   <string name="power_off_cn_setting_title">Isključite i ponovno pokrenite uređaj</string>
   <string name="power_off_press_power_and_volume_up_message">Pritisnite tipke za uključivanje/isključivanje i pojačavanje zvuka</string>
-  <string name="power_off_press_power_key_message">Pritisnite i držite tipku za uključivanje %ss</string>
-  <string name="power_off_title">Isključite ili ponovno pokrenite</string>
   <string name="power_off_press_power_and_volume_up_message_v2">Istovremeno pritisnite tipke za uključivanje/isključivanje i pojačavanje glasnoće</string>
+  <string name="power_off_press_power_key_message">Pritisnite i držite tipku za uključivanje %ss</string>
   <string name="power_off_press_power_key_message_v2">Pritisnite i držite tipku za uključivanje/isključivanje %ss</string>
+  <string name="power_off_title">Isključite ili ponovno pokrenite</string>
   <string name="power_off_title_v2">Isključivanje</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipku za smanjivanje glasnoće dvaput za pokretanje kamere</string>
   <string name="pref_volume_launch_camera_title">Pokreni kameru</string>
@@ -1072,10 +1135,10 @@ Inače možda nećete moći unijeti drugi razmak sa zaključanog zaslona."</stri
   <string name="qq_send">Pošalji QQ prijateljima/uređajima</string>
   <string name="radio_button_icon_switch_title">Korištenje prečaca</string>
   <string name="radio_button_password_switch_title">Korištenje zaporke</string>
-  <string name="regional_screen_shot">Djelomična snimka zaslona</string>
   <string name="reached_max_user">Dosegnut je maksimalan broj profila</string>
   <string name="reboot_maintenance_mode">Način popravka je isključen. Ponovno pokrenite uređaj kako biste poboljšali performanse i stabilnost uređaja.</string>
   <string name="reboot_msg">Kada uključite način popravka, uređaj će se automatski ponovno pokrenuti. Uključiti sada?</string>
+  <string name="regional_screen_shot">Djelomična snimka zaslona</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
   <string name="remove_button">Izbriši</string>
   <string name="remove_button_time">Izbriši (%ds)</string>
@@ -1279,13 +1342,6 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_not_connect_message">"Olovka nije spojena"</string>
   <string name="stylus_not_connect_message_new">Priključite svoju olovku za uparivanje</string>
   <string name="stylus_ota_cancel">Odustani</string>
-  <string name="stylus_ota_fail">"Nije moguće ažuriranje"</string>
-  <string name="stylus_ota_fail_reason">"Nije moguće dovršiti ažuriranje firmvera. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
-  <string name="stylus_ota_fail_special_reason">"Nije moguće ažurirati olovku. Bez ovog ažuriranja, vaša olovka može se koristiti samo na zaslonima s frekvencijom osvježavanja od %1$d Hz. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
-  <string name="stylus_ota_manual">Ručno ažuriranje</string>
-  <string name="stylus_ota_manual_as_lowversion">Ažurirajte olovku na najnoviju verziju da biste je mogli koristiti</string>
-  <string name="stylus_ota_popup_describe">Ažuriranje firmvera</string>
-  <string name="stylus_ota_popup_sub_describe">"Ažuriranje firmvera. Ne dodirujte zaslon niti pomičite olovka."</string>
   <string name="stylus_ota_check_failed_battery">"Nije moguće provjeriti. Baterija vaše olovke je pri kraju."</string>
   <string name="stylus_ota_check_failed_info">"Nije moguće provjeriti verziju firmvera. Ponovo spojite svoju olovku."</string>
   <string name="stylus_ota_check_failed_infoV2">"Nije moguće dobiti verziju firmvera. Ponovno povežite svoju olovku."</string>
@@ -1297,14 +1353,21 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_ota_demands">"Neka Bluetooth bude uključen tijekom cijelog ažuriranja. Pazite da baterija ne padne ispod %1$s."</string>
   <string name="stylus_ota_download_failed">"Nije moguće preuzeti firmver"</string>
   <string name="stylus_ota_downloading_firmware">Preuzimanje firmvera</string>
+  <string name="stylus_ota_fail">"Nije moguće ažuriranje"</string>
+  <string name="stylus_ota_fail_reason">"Nije moguće dovršiti ažuriranje firmvera. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
+  <string name="stylus_ota_fail_special_reason">"Nije moguće ažurirati olovku. Bez ovog ažuriranja, vaša olovka može se koristiti samo na zaslonima s frekvencijom osvježavanja od %1$d Hz. Ponovno pričvrstite olovku ili ažurirajte ručno."</string>
   <string name="stylus_ota_firmware_info">Firmware</string>
   <string name="stylus_ota_firmware_update">Ažuriraj firmver</string>
   <string name="stylus_ota_hardware_version">Verzija hardvera</string>
   <string name="stylus_ota_hava_new_version">"Nova verzija: "</string>
   <string name="stylus_ota_latest">Ažurirano</string>
+  <string name="stylus_ota_manual">Ručno ažuriranje</string>
+  <string name="stylus_ota_manual_as_lowversion">Ažurirajte olovku na najnoviju verziju da biste je mogli koristiti</string>
   <string name="stylus_ota_model">Model</string>
   <string name="stylus_ota_net_error">"Nije moguće provjeriti ima li ažuriranja. Povežite se s mrežom i pokušajte ponovno."</string>
   <string name="stylus_ota_new_version">Ažuriraj</string>
+  <string name="stylus_ota_popup_describe">Ažuriranje firmvera</string>
+  <string name="stylus_ota_popup_sub_describe">"Ažuriranje firmvera. Ne dodirujte zaslon niti pomičite olovka."</string>
   <string name="stylus_ota_serial_number">Serijski broj</string>
   <string name="stylus_ota_timeout_failed">Sesija je istekla</string>
   <string name="stylus_ota_update">Ažuriraj</string>
@@ -1320,8 +1383,8 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_primary_key">Prva tipka</string>
   <string name="stylus_projection">Projekcija</string>
   <string name="stylus_quick_note_summary">Kada je zaslon isključen, dodirnite ga olovkom da počnete pisati. Ova značajka povećava potrošnju energije.</string>
-  <string name="stylus_quick_operations_summary">Stisnite olovku da biste otvorili panel s prečacima, dvaput dodirnite za promjenu alata i povucite prstom gore ili dolje za daljinsko okretanje stranica</string>
   <string name="stylus_quick_note_title">Pišite s isključenim zaslonom</string>
+  <string name="stylus_quick_operations_summary">Stisnite olovku da biste otvorili panel s prečacima, dvaput dodirnite za promjenu alata i povucite prstom gore ili dolje za daljinsko okretanje stranica</string>
   <string name="stylus_quick_write">Pišite</string>
   <string name="stylus_quick_write_creator_summary">Pritisnite i držite tipku za pisanje kako biste otvorili Mi Canvas</string>
   <string name="stylus_quick_write_summary">Pritisnite i držite tipku za pisanje kako biste pisali ili crtali</string>
@@ -1340,15 +1403,15 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_slide_ota_update_message">Ažurirajte firmver olovke kako biste mogli koristiti ovu značajku. Ažurirati odmah?</string>
   <string name="stylus_slide_ota_update_success">Uspješno ažurirano. Geste prevlačenja su isključene.</string>
   <string name="stylus_slide_summary">Kada je isključeno, pomicanje gore ili dolje po prednjoj strani cijevi olovke neće prilagoditi veličinu kista ili okretati stranice u nekim aplikacijama</string>
+  <string name="stylus_slide_title">Slajd</string>
   <string name="stylus_slide_up_down_summary">Povucite olovku gore ili dolje za daljinsko okretanje stranica ili podešavanje debljine kista</string>
   <string name="stylus_slide_up_down_title">Povucite gore ili dolje</string>
+  <string name="stylus_success">Gotovo</string>
   <string name="stylus_switch_current_brush_and_last_brush">Prebaci se na prethodni kist</string>
   <string name="stylus_switch_pen_and_eraser">Prebacivanje između kista i gumice</string>
-  <string name="stylus_slide_title">Slajd</string>
   <string name="stylus_touch_film_action_title">Radnje</string>
   <string name="stylus_touch_film_close">Isključeno</string>
   <string name="stylus_touch_film_settings_guide">Postavke</string>
-  <string name="stylus_success">Gotovo</string>
   <string name="stylus_vice_key">Druga tipka</string>
   <string name="stylus_welcome">Upoznajte Xiaomi Smart Pen</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1447,9 +1510,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="touchpad_switch_recent_task">Otvori Nedavne</string>
   <string name="touchpad_switch_recent_task_summary">Povucite prema gore s tri prsta i pauzirajte</string>
   <string name="touchpad_title">Dodirna ploča</string>
+  <string name="touchpad_touch_click_title">Dodirnite dodirnu ploču za klik</string>
   <string name="touchpad_touch_double_click_drag_summary">Dodirnite dva puta, držeći prst pri drugom dodiru, a zatim povucite stavku</string>
   <string name="touchpad_touch_double_click_drag_title">Dvaput dodirnite za povlačenje</string>
-  <string name="touchpad_touch_click_title">Dodirnite dodirnu ploču za klik</string>
   <string name="trackball_wake_title">Trackball buđenje</string>
   <string name="transferApp">Aplikacije instalirane u Drugom prostoru će biti premještene u Prvi prostor. Međutim, svi podaci aplikacije će biti izgubljeni.</string>
   <string name="transferContact">Kontakti iz Drugog prostora će biti premješteni u Prvi prostor</string>
@@ -1483,7 +1546,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="voice_category">Govor</string>
   <string name="wake_suppression_summary">Vaš će uređaj bolje reagirati na slučajni dodir, ali će također reagirati na većinu kontrola pokretima u blizini rubova</string>
   <string name="wake_suppression_title">Malo područje</string>
-  <string name="wallet_nfc_guide_html"><Data>Postavite svoj zadani novčanik u &lt;font color=%1$s>&lt;a href=%2$s>Postavke > Više mogućnosti povezivanja > NFC > Odaberite zadanu karticu&lt;/a>&lt;/font></Data></string>
+  <string name="wallet_nfc_guide_html">&lt;Data&gt;Postavite svoj zadani novčanik u &lt;font color=%1$s&gt;&lt;a href=%2$s&gt;Postavke &gt; Više mogućnosti povezivanja &gt; NFC &gt; Odaberite zadanu karticu&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;</string>
   <string name="wating">Samo trenutak…</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
@@ -1492,8 +1555,8 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
   <string name="weixin_share_sign">Prijavite se i podijelite</string>
-  <string name="workbench_mode_not_support_maintenancemode_mode">"Ne mogu uključiti način rada za popravak u načinu rada radne stanice. Isključite način rada radne stanice i pokušajte ponovno."</string>
   <string name="whatsapp_send">Podijeli na WhatsApp</string>
+  <string name="workbench_mode_not_support_maintenancemode_mode">"Ne mogu uključiti način rada za popravak u načinu rada radne stanice. Isključite način rada radne stanice i pokušajte ponovno."</string>
   <string name="xpsace_guide_button">Izradi</string>
   <string name="xspace_account">Računi dvojne aplikacije</string>
   <string name="xspace_chocie">Podrška za Dvojne aplikacije</string>

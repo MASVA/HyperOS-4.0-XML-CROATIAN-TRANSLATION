@@ -45,7 +45,7 @@
   <string name="back">Natrag</string>
   <string name="back_prefix">Natrag</string>
   <string name="back_summary">Vrati se jedan korak unatrag</string>
-  <string name="barking">Lajanje</string>
+  <string name="barking">Lavež</string>
   <string name="basic_commands">Osnovne operacije</string>
   <string name="basic_commands_summary">Dostupne glasovne kontrole</string>
   <string name="basic_commands_title">Osnovne operacije</string>
@@ -54,6 +54,8 @@
   <string name="btn_skip">Preskoči</string>
   <string name="btn_text_next">Dalje</string>
   <string name="button_normal_text">Obična tipka</string>
+  <string name="calendar_date_picker_a11y_next_month">Prijeđi na sljedeći mjesec</string>
+  <string name="calendar_date_picker_a11y_prev_month">Prijeđi na prethodni mjesec</string>
   <string name="call_notification_answer_action">Odgovori</string>
   <string name="call_notification_answer_video_action">Videozapis</string>
   <string name="call_notification_decline_action">Odbij</string>
@@ -267,6 +269,7 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_sheet_default_message">Odaberi</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -283,6 +286,7 @@
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_pairing_dialog_closable_icon_description">Zatvori</string>
+  <string name="miuix_popup_show_description">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
